@@ -13,6 +13,13 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="assets/css/ie9.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+		<script>
+		$(function(){
+  			$("#contact").load("_includes/contact-bar.html");
+  			$("#footer").load("_includes/footer.html");
+		});
+		</script>
 	</head>
 	<body class="landing">
 		<div id="page-wrapper">
@@ -64,7 +71,7 @@
 						<header>
 							<h2>Uzziel Perez</h2>
 							<p>Particle hunting adventures, failures and occasional triumphs. <br />
-							 HEP, Football, Data Science and the State of the World. </p>
+							 HEP, Football, Data Science and the State of the World. (Under Construction) </p>
 							<!--lipping apps.</p>-->
 						</header>
 						<span class="image"><img src="images/KeepExp.jpg" alt="" /></span>
@@ -85,14 +92,14 @@
 									</header>
 								</div>
 								<div class="4u 12u$(medium)">
-									<p>They say, the best way to learn something is to explain it to someone else. 
-									I'm going to populate this site as I finish my classes in High Energy 
+									<p>They say, the best way to learn something is to explain it to someone else.
+									I'm going to populate this site as I finish my classes in High Energy
 								        Physics (Standard Model) and Beyond the Standard Model. I'll also document how to use
-									Monte Carlo Generators like Sherpa and MadGraph and tie how they work with my understanding 
+									Monte Carlo Generators like Sherpa and MadGraph and tie how they work with my understanding
 									of the physics we're calculating.</p>
 								</div>
 								<div class="4u$ 12u$(medium)">
-									<p>Popular science books are worth the attention. We'll take a look at some of them here too (Keys: Brian Greene, Stephen Hawking, Sean Carroll, 
+									<p>Popular science books are worth the attention. We'll take a look at some of them here too (Keys: Brian Greene, Stephen Hawking, Sean Carroll,
 									and Lisa Randall).</p>
 								</div>
 							</div>
@@ -112,7 +119,7 @@
 							<h2>Particle Hunter Tools: HEP-EX</h2>
 							<p>Computing Tools, Analysis Techniques, Experiments.</p>
 						</header>
-						<p>Plotting tools, new analysis techniques (buzzword-neural networks and machine learning), exploring 
+						<p>Plotting tools, new analysis techniques (buzzword-neural networks and machine learning), exploring
 						experiments beyond the LHC. Let's take a look at their fancy machines. </p>
 
 						<p>We'll develop a typical analysis starter kit here and use it on <a href="http://opendata.cern.ch">http://opendata.cern.ch</a>.</p>
@@ -131,7 +138,7 @@
 							<h2>I'm human. Welcome to Me.</h2>
 							<p>I love football and Lionel Messi. I love great comedians and artists. Behind their greatness are personal journeys people can learn from.</p>
 						</header>
-						<p>This is the "Hey, look at me!" part consistent with this generation's values. I'll probably start talking about some milestones in my life, my life's failures and learnings from them. My "sickness", love for Messi, data, comedy and artists (Kristen Wiig, top!).</p>
+						<p>Some musings about life, love, football, art and comedy.</p>
 						<ul class="actions">
 							<li><a href="#" class="button">Learn More</a></li>
 						</ul>
@@ -155,31 +162,34 @@
 				</section>
 
 			<!-- Footer -->
-				<footer id="footer">
-					<ul class="icons">
-						<li><a href="https://twitter.com/uzziesh" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="https://www.facebook.com/uzzie.perez" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="https://www.linkedin.com/in/uzzielperez25" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-						<li><a href="https://www.instagram.com/p.uzziel/" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-						<li><a href="https://github.com/uzzielperez" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-						<li><a href="cperez3@crimson.ua.edu" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
-					</ul>
-					<ul class="copyright">
-						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-					</ul>
-				</footer>
+                        <!--Remaining section-->
+			<iframe src="_includes/footer.html"></iframe>
+<!-- 				<footer id="footer"> -->
+<!-- 					<ul class="icons"> -->
+<!-- 						<li><a href="https://twitter.com/uzziesh" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li> -->
+<!-- 						<li><a href="https://www.facebook.com/uzzie.perez" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li> -->
+<!-- 						<li><a href="https://www.linkedin.com/in/uzzielperez25" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li> -->
+<!-- 						<li><a href="https://www.instagram.com/p.uzziel/" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li> -->
+<!-- 						<li><a href="https://github.com/uzzielperez" class="icon alt fa-github"><span class="label">GitHub</span></a></li> -->
+<!-- 						<li><a href="cperez3@crimson.ua.edu" class="icon alt fa-envelope"><span class="label">Email</span></a></li> -->
+<!-- 					</ul> -->
+<!-- 					<ul class="copyright"> -->
+<!-- 						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li> -->
+<!-- 					</ul> -->
+<!-- 				</footer> -->
 
-		</div>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.dropotron.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
-
+		<!--{% include scripts.html %}-->
+<!--  -->
+<!-- 		<!-- Scripts --> -->
+<!-- 			<script src="assets/js/jquery.min.js"></script> -->
+<!-- 			<script src="assets/js/jquery.scrolly.min.js"></script> -->
+<!-- 			<script src="assets/js/jquery.dropotron.min.js"></script> -->
+<!-- 			<script src="assets/js/jquery.scrollex.min.js"></script> -->
+<!-- 			<script src="assets/js/skel.min.js"></script> -->
+<!-- 			<script src="assets/js/util.js"></script> -->
+<!-- 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]--> -->
+<!-- 			<script src="assets/js/main.js"></script> -->
+<!--  -->
 	</body>
 </html>
