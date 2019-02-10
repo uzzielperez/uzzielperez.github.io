@@ -3,6 +3,7 @@ layout: posts
 title: "Hello World"
 categories: General
 author: Uzziel Perez
+meta: "A Start."
 math: true
 ---
 <!-- ## Getting Acquainted with markdown -->

@@ -1,0 +1,14 @@
+---
+layout: posts
+---
+
+<h1>Posts</h1>
+
+<ul>
+  <li>
+    {% for post in site.posts %}
+    <a href="{{post.url}}">{{post.title}}  (<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>)</a>
+    <p>{{post.meta}}</p>
+    {% endfor %}
+  </li>
+</ul>

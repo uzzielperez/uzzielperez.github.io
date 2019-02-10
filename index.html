@@ -1,3 +1,19 @@
 ---
 layout: default
 ---
+
+<h1> Posts </h1>
+
+<ul>
+  <li>
+    {% for post in site.posts %}
+    <a href=""></a>
+    <<p></p>
+  </li>
+  {% endfor %}
+</ul>
+
+{% for item in site.posts limit:2 %}
+    <a class="link" href="{{item.url}}">{{item.title}}</a>
+    <p></p>
+{% endfor %}
