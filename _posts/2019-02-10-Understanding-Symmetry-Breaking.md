@@ -16,7 +16,7 @@ I am attempting nothing new here. There are great discussions on symmetry breaki
 ## PROGRESSION
 I've decided to write my technical articles in several levels.
 * Level 0: Explaining things to my baby nephew.
-* Level 1: Explaining things to my science-hating friends or a guy in a bar. Actually, if i can explain things to my wife who absolutely hates math, I consider myself successful!
+* Level 1: Explaining things to my science-hating friends or a guy in a bar. Actually, if i can explain things to my (ex) wife who absolutely hates math, I consider myself successful!
 * Level 2: Explaining things to my Lyft Driver from Chicago/Illinois. (There are quite a number of Illinois Lyft/Uber drivers I met who are fans of science. I think it's because of Fermilab!)
 * Level 3: Explaining things to my 20 year old self (out of college)!
 * Level 4: Explaining things to my professors so that they'd give me a degree!
@@ -32,9 +32,9 @@ Unlike a circle, there are only a finite number of ways where you can rotate the
 
 The examples above are just simple examples on rotational symmetry. There's another kind of symmetry that I love showing to kids. I'm pretty sure this is familiar to many of you - making paper hearts and butterflies! It's a kind of mirror symmetry where the shape on one side is exactly the same on the other side of a line.
 
-### Level 1: Explaining things to my wife, or a stranger who doesn't know physics.
+### Level 1: Explaining things to my (ex) wife, or a stranger who doesn't know physics.
 
-Sometimes I tease my wife, "Wow, you look symmetric today!" It was once said that symmetry is closely associated with beauty. A lot of architectural gems have a sense of proportion and balance. A famous one is the Taj Mahal.
+Sometimes I tease my (ex) wife, "Wow, you look symmetric today!" It was once said that symmetry is closely associated with beauty. A lot of architectural gems have a sense of proportion and balance. A famous one is the Taj Mahal.
 
 Symmetry is also a striking feature of living organisms. For example, we humans are bilaterally symmetric. If you draw a vertical line in the middle of our body we pretty much look the same on both sides, just like a butterfly. Interestingly, there are other creatures have another kind of symmetry, that's similar to how we rotated the square and the circle. If we look at a starfish or a sea urchin or cut an apple, we could see a some symmetry when we rotate it around its center point. This is some kind of radial symmetry. Recall that the square has a four-fold symmetry, i.e. it's symmetric with respect to rotations of 90 degrees around its center. Starfish look like they have a *pentaradial* symmetry, *penta* meaning a five-fold symmetry. Since my wife doesn't like math, I have to explain that 360 degrees is a full rotation and that means a five-fold symmetry corresponds to a 72-degree rotational symmetry about their centre.
 
