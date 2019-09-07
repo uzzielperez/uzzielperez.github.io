@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Understanding Symmetry Breaking"
+title: "Understanding Symmetry Breaking (Part I)"
 categories: HEP Theory
 author: Uzziel Perez
 meta: "Explaining symmetry breaking to a guy in a bar."
@@ -55,10 +55,10 @@ Now, it's interesting to point out that the mass that we have is not equal to th
 
 ### Level 3: To my college self.
 
+To be continued...
 * Symmetry in a more technical language
 * Simple case of symmetry breaking
 
-### Level 3: To my college self.
 
 ### Helpful Links
 1. [Symmetry Magazine](https://www.symmetrymagazine.org/article/where-does-mass-come-from)
