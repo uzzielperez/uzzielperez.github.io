@@ -17,7 +17,7 @@ I have an artist friend whom I really like (yes, I like "like" her and she knows
 
 Cal Newport is a computer scientist from Dartmouth College. He got his PhD from MIT, he's an accomplished researcher with several seminal papers under his name, several books and a successful blog that has been up for over a decade. I've been following his work since college and I would say I wouldn't have graduated with a Physics degree without his advice on practicing "deliberate practice" and "deliberate creativity". One of the simplest and most practical pieces of advice that he gave was to [tally "Deep Work Hours" and milestones](http://www.calnewport.com/blog/2016/12/07/from-deep-tallies-to-deep-schedules-a-recent-change-to-my-deep-work-habits/).
 
-> **This strategy provides concrete data about how much deep work you actually accomplish, and the embarrassment of a small tally motivates a more intense commitment to finding time to focus.**
+> **This strategy provides concrete data about how much deep work you actually accomplish, and the embarrassment of a small tally motivates a more intense commitment to finding time to focus.** - Cal Newport
 
 I made my friend listen to the Cal Newport's "Deep Work" audiobook and I had to listen to it again. I am a bit embarrassed that the first hour of the book talks about things are probably not directly applicable to artists. Like being marketable in today's days economy. I find that part too "excluding". Not everyone has to participate in the "tech" world. But there are bits in the book that are useful, e.g. cultivating deep work, learning how to learn difficult things, scheduling deep and uninterrupted time chunks to focus on something valuable. It also briefly talks about evidence on how "deep work" helps with myelin growth that helps your neurons fire better. Those are nice pieces.
 
@@ -29,4 +29,4 @@ There's another book called "A Mind for Numbers" that I am reading right now. It
 
 I think it must be said, "Deliberate Practice/Creativity" and tallying deep work hours gives us better control of our productivity and the whims of our creative mind. It helps us not depend on whether or not inspiration will strike us in order to do work. But like all other pieces of advice, everything must be taken with a grain of salt. You must try honestly and see what works for you.
 
-> **The Law of Serendipity: Lady Luck favors the one who tries - Barbara Oakley**
+> **The Law of Serendipity: Lady Luck favors the one who tries.** -- Barbara Oakley
