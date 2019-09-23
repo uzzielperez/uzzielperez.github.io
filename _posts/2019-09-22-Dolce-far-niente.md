@@ -11,4 +11,4 @@ The past week was exhausting, in many aspects, so I decided to not push myself t
 
 I've been doing this for the past few weekends - decompressing and not worrying too much. Last weekend was a challenge but I got out of "it". Walking helps me. It gives my head clarity to choose what to do no and what not to do.
 
-I've probably ran out of interesting paths to try along campus so I'm looking forward to weekend hiking around the Jura or Mont Blanc. Although, I'm probalby not super excited to leave my friends here.
+I've probably running low on interesting paths to try along campus so I'm looking forward to weekend hiking around the Jura or Mont Blanc next year. Although, I'm probably not super excited to leave my friends here.
