@@ -7,7 +7,7 @@ meta: "Choosing to do nothing"
 math: true
 ---
 
-The past week was exhausting, in many aspects, so I decided to not push myself too much and only do things that are easy and mindless, like grading, making simple plots and playing soccer. But for most of the day, I did nothing. I read and watched "Eat, Pray, Love". (Julia Roberts is totally relatable for me  here!) I learned a nice Italian phrase - <em>Dolce far niente</em>. It means the <em>sweetness of doing nothing</em>.
+The past week was exhausting, in many aspects, so I decided to not push myself too much and only do things that are easy and mindless, like grading, making simple plots and playing soccer. But for most of the day, I did nothing. I read a book and watched "Eat, Pray, Love". (Julia Roberts is totally relatable for me here!) I learned a nice Italian phrase - <em>Dolce far niente</em>. It means the <em>sweetness of doing nothing</em>.
 
 I've been doing this for the past few weekends - decompressing and not worrying too much. Last weekend was a challenge but I got out of "it". Walking helps me. It gives my head clarity to choose what to do no and what not to do.
 
