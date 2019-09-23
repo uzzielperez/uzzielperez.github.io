@@ -21,7 +21,7 @@ This blog is a project in itself. I got inspired by my friend's mum, Barbara. Sh
 
 In principle, I am following my interests but I have too many of them. I do not have infinite time nor infinite energy and intelligence to be able to do do all of them. I can probably only do two research projects at a time. And the time-splitting is even asymmetric because one deserves more concentration than the other. It's also a bad feeling to start many projects at a time and not take them to the finish line. I found Cal Newport's [closed-loop research system](http://www.calnewport.com/blog/2011/06/23/lab-notes-my-closed-loop-research-system/) quite helpful.
 
-## Dissertation Proposal and my to-do list
+## Dissertation Proposal and my not-to-do list
 
 Last week I presented my work to an external group composed of fellow researchers from Brown U. and Carnegie Mellon University. These were a bunch super smart people that I really looked up to so I was quite delighted when I got some excitement for the project I was working on. These guys are applying a novel analysis technique that my good friend from college proposed. I wanted to use the same technique for my research. Since it is a new idea, good results are not guaranteed. I have my candidacy exam coming up so my adviser told me to be careful. I got slightly sad that I couldn't work on it right away. I knew I had to produce results within 2-3 weeks and prove that my proposed dissertation topic is feasible.
 
