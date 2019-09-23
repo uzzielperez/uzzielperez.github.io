@@ -34,3 +34,5 @@ In an [interview that I really liked, Elon Musk](https://www.youtube.com/watch?v
 > **For the past 33 years, I have looked in the mirror every morning and asked myself: 'If today were the last day of my life, would I want to do what I am about to do today?' And whenever the answer has been 'No' for too many days in a row, I know I need to change something.** -- Steve Jobs
 
 I'm a bit chiller and less intense than both Musk and Jobs. Love them or hate them, I like what they said. Taking things to the finish line is an incredible feeling and so is exploring things you've never seen before. And on a practical note, accomplishment, things you put in your portfolio gives you career leverage for a more autonomous and creative life.
+
+> **Huwag mong tanungin kung mahirap, tanungin mo kung mahalaga.** -- Fr. Roque Ferriols
