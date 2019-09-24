@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Dolce-far-niente"
+title: "Dolce far niente"
 categories: Life
 author: Uzziel Perez
 meta: "Choosing to do nothing"
