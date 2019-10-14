@@ -15,6 +15,6 @@ One of the first things we think about when it comes to the actual data we colle
 
 We can move things around and solve for the Luminosity. We can assume that the efficiency $$\varepsilon$$ is just 1. But what is the cross-section $$\sigma$$ here and the number of events N?
 
-Cross-section is measured in terms of area. If we assume that protons are spherical and has a radius of 1 fermi or $$1\times10^{-15}$$ meters then the contact area of two protons colliding would be approximately $$A = \pi r^2$$. If we plug in the numbers that would be $$A = \pi (1 \times 10^-30)$$ m$$^2$$. Knowing that 1 barn is equivalent to $$ 1 \times 10^{-28} $$ m^2 so the cross-section for individual proton-proton (pp)collisions
+Cross-section is measured in terms of area. If we assume that protons are spherical and has a radius of 1 fermi or $$1\times10^{-15}$$ meters then the contact area of two protons colliding would be approximately $$A = \pi r^2$$. If we plug in the numbers that would be $$A = \pi (1 \times 10^-30)$$ m$$^2$$. Knowing that 1 barn (b) is equivalent to $$ 1 \times 10^{-28} $$ m^2 so the cross-section for individual proton-proton (pp) collisions is about 30 mb. We can assume that if the protons just slide past one another that the electromagnetic force between them are negligible since the "strong force" that binds the gluons, quarks and the "sea" of particles inside the protons is much stronger.
 
-<img alt="Lumi" src="{{ "/assets/img/Lumi.jpg" width="100" height="100"| prepend: site.baseurl }}" />
+<img alt="Lumi" src="{{ "/assets/img/Lumi.jpg" width="20" height="20"| prepend: site.baseurl }}" />
