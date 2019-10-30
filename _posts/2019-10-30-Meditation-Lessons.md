@@ -38,9 +38,10 @@ When should you give up? I honestly don't know the answer to the question. It's 
 
 I've learned somewhere that you shouldn't want anything too much and that desire is the root of all suffering. But it turns out that that there is a misconception about that idea from ancient Buddhist philosophy. Kate Bornstein put it simply. It's the "clinging, the clutching" that is causing the suffering. An old article [5] expounds on this nicely.
 
-"A starting point for understanding desire is to differentiate between unhealthy and healthy desire. Unhealthy desire undermines psychological health, producing what Buddhism often calls “suffering” for short. Healthy desire can contribute to psychological well-being, happiness, and peace. If we place healthy and unhealthy desire on a spectrum, at one end we have the motivations that lead to some of the worst and most horrific things people do. But at the other end, desire expresses some of the most beautiful and noble aspects of human life.
+> **"A starting point for understanding desire is to differentiate between unhealthy and healthy desire. Unhealthy desire undermines psychological health, producing what Buddhism often calls “suffering” for short. Healthy desire can contribute to psychological well-being, happiness, and peace. If we place healthy and unhealthy desire on a spectrum, at one end we have the motivations that lead to some of the worst and most horrific things people do. But at the other end, desire expresses some of the most beautiful and noble aspects of human life.**
 
-One way to distinguish the two ends of this spectrum is to differentiate between craving and aspiration. When the Buddha pointed to the cause of suffering, he used the word tanhà or thirst. It represents desire which is in some way compulsive, driven, and therefore not easy to let go of. This kind of desire is often accompanied by clinging, contraction, tension, or pressure."
+> **One way to distinguish the two ends of this spectrum is to differentiate between craving and aspiration. When the Buddha pointed to the cause of suffering, he used the word tanhà or thirst. It represents desire which is in some way compulsive, driven, and therefore not easy to let go of. This kind of desire is often accompanied by clinging, contraction, tension, or pressure."**
+
 
 It's a powerful thing to know this. It helped me let go of things and not force things. I still try to do my best within what's possible, but I think I've gradually learned to be more thoughtful of my actions when I'm trying to go for things I aspire for. It feels liberating.
 
@@ -51,4 +52,4 @@ References:
 2. https://www.rappler.com/science-nature/ideas/science-solitaire/72160-meditation-changes-your-brain
 3. https://www.scientificamerican.com/article/neuroscience-reveals-the-secrets-of-meditation-s-benefits/
 4. https://www.law.upenn.edu/live/files/3918-mind-of-the-meditatorpdf
-5. https://www.insightmeditationcenter.org/books-articles/the-spectrum-of-desire/  
+5. https://www.insightmeditationcenter.org/books-articles/the-spectrum-of-desire/
