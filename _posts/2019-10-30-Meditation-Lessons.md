@@ -47,8 +47,8 @@ It's a powerful thing to know this. It helped me let go of things and not force 
 I wish I learned these things in my youth. But I guess you only learn these things with some level of damage. :P
 
 References:
-[1] https://www.rappler.com/move-ph/ispeak/32329-science-solitaire-meditation-can-spark-compassion
-[2] https://www.rappler.com/science-nature/ideas/science-solitaire/72160-meditation-changes-your-brain
-[3] https://www.scientificamerican.com/article/neuroscience-reveals-the-secrets-of-meditation-s-benefits/
-[4] https://www.law.upenn.edu/live/files/3918-mind-of-the-meditatorpdf
-[5] https://www.insightmeditationcenter.org/books-articles/the-spectrum-of-desire/
+1. https://www.rappler.com/move-ph/ispeak/32329-science-solitaire-meditation-can-spark-compassion
+2. https://www.rappler.com/science-nature/ideas/science-solitaire/72160-meditation-changes-your-brain
+3. https://www.scientificamerican.com/article/neuroscience-reveals-the-secrets-of-meditation-s-benefits/
+4. https://www.law.upenn.edu/live/files/3918-mind-of-the-meditatorpdf
+5. https://www.insightmeditationcenter.org/books-articles/the-spectrum-of-desire/  
