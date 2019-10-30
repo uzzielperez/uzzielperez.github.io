@@ -9,7 +9,7 @@ math: true
 
 ## I can't always understand the world through equations
 
-I've finally decided to sign-up for the premium version of the Headspace app. I've finished the basics course and tried the series on "relationships". I'm really trying to be more patient, truly compassionate, less reactive and less anxious. Ever since my separation (going through divorce), I've been really committed to trying to understand myself and my relation with others.
+I've finally decided to sign-up for the premium version of the Headspace app. I'm really trying to be more patient, truly compassionate, less reactive and less anxious. Ever since my separation (going through divorce), I've been really committed to trying to understand myself and my relation with others.
 
 As a physicist, I have an understanding of natural phenomena in terms of equations relating different variables. But not everything in the physical world can be accurately described by an equation. For example think of a double pendulum. The best thing you can do is to do some computer model instead of writing something close-formed. How much more do we need if we're trying to understand something complex such as our own mind and how we deal with others? I'm not talking about massive social network where groups or individuals are considered as connected nodes. There's a great deal of progress there in terms predicting social behaviour and decision making.
 
