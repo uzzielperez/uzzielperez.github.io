@@ -35,7 +35,7 @@ She was quite an attractive woman not only physically. Her attitude in life was 
 ## A Being in Time - Nostalgia and Looking Forward
 I've learned that I am prone to nostalgia. Must be some frontal cortex asymmetry thing! I know it's sorta weird to write about the last 3 (mutual) loves of my life. I often become sentimental about the past. But not because I want them to come back (cue: Regine Velasquez singing "Sana Maulit Muli" and then a pause! haha). It's just because I feel some good warm fuzzy feeling inside. I deeply appreciate the good times and would not exchange them for anything else. Apparently, there's a Japanese word for it. It's called "natsukashii".
 
-<img alt="Lumi" src="{{ "/assets/img/natsukashii.jpg" width="20" height="20"| prepend: site.baseurl }}" />s
+<img alt="Lumi" src="{{ "/assets/img/natsukashii.png" width="20" height="20"| prepend: site.baseurl }}" />
 
 Whenever I get into deep nostalgic periods, I feel refreshed and inspired to look forward to the future. Despite what my ex-wife thinks, I wasn't always calm and collected. I did try to keep it together in public but my weekends were dark and filled with self-doubt and shame that things didn't work out because of my faults. There was a deep fear that I am not capable of love of any kind. This is probably the third week that I have managed to not spiral into derogatory self-talk. I am happy about that. I've gotten to a point where, I am ok with whatever is claimed and I can only focus on little actions that prove otherwise. I try to live life the best I can and continue to "correct" myself.
 
