@@ -3,7 +3,7 @@ layout: posts
 title: "An Appreciation post"
 categories: Prelim Series
 author: Uzziel Perez
-meta: "3 Bittersweet memories and moving forward"
+meta: "Bittersweet memories and moving forward"
 math: true
 ---
 
@@ -33,7 +33,7 @@ She always had a smile on her face. She had bright eyes and her laughter was qui
 She was quite an attractive woman not only physically. Her attitude in life was also. And I never lost that attraction until the end. It was I that wasn't super attractive. Well, I was a kid. One of the best things I've learned from her was to how to "let bygones be bygones". For the most part we were in a long-distance relationship and we only saw each other for a few weeks at a time in a year. When I'd pout or put on a drama show, she'd tell me gently, "I'd like us to make the most of the time we have together and be happy.". I probably wasn't able to do that enough times when we were together but her words stay with me up to this day.
 
 ## A Being in Time - Nostalgia and Looking Forward
-I've learned that I am prone to nostalgia. Must be some frontal cortex asymmetry thing! I often become sentimental about the past. But not because I want them to come back (cue: Regine Velasquez singing "Sana Maulit Muli" and then a pause! haha). It's just because I feel some good warm fuzzy feeling inside. I deeply appreciate the good times and would not exchange them for anything else. Apparently, there's a Japanese word for it. It's called "natsukashii".
+I've learned that I am prone to nostalgia. Must be some frontal cortex asymmetry thing! I know it's sorta weird to write about the last 3 (mutual) loves of my life. I often become sentimental about the past. But not because I want them to come back (cue: Regine Velasquez singing "Sana Maulit Muli" and then a pause! haha). It's just because I feel some good warm fuzzy feeling inside. I deeply appreciate the good times and would not exchange them for anything else. Apparently, there's a Japanese word for it. It's called "natsukashii".
 
 <img alt="Lumi" src="{{ "/assets/img/natsukashii.jpg" width="20" height="20"| prepend: site.baseurl }}" />s
 
