@@ -15,9 +15,9 @@ Calorimeters are materials that are used to absorb the energy of particles. The 
 
 We talked about the electromagnetic calorimeter (ECAL) and hadronic calorimeter (HCAL) in a previous blog. The ECAL measures electron and photon energy. The amazing thing about the ECAL is it's made up of more than 70,000 beautiful lead tungstate crystals. These crystals are special as they both perform the task of an absorber and an active medium. As a photon or an electron encounters a nucleus in the crystal, the photon pair-produces while the electron undergoes "bremsstrahlung". "bremsstrahlung" is a German word that comes from "bremsen" meaning "to break" and "Strahlung" which means "radiation". So whenever an electron or a charged particle hits an atomic nucleus, it gets deflected and emits a photon. You can imagine that when the photon produces a pair of e+ e-, the e+ e- would "Brem" and then the photon coming out would pair produce again and this process continuous on like a tree branching out. This is called an electromagnetic shower and is shown below. I got the crystal image from cds and the electromagnetic shower from [here](https://www.mpp.mpg.de/~menke/elss/).
 
-<img alt="Lumi" src="{{ "/assets/img/leadtungstate.jpg" width="20" height="20"| prepend: site.baseurl }}" />
+<img alt="Lumi" src="{{ "/assets/img/leadtungstate.jpg" width="10" height="20"| prepend: site.baseurl }}" />
 
-<img alt="Lumi" src="{{ "/assets/img/shower" width="20" height="20"| prepend: site.baseurl }}" />
+<img alt="Lumi" src="{{ "/assets/img/shower.png" width="20" height="20"| prepend: site.baseurl }}" />
 
 When the crystal has absorbed enough of the electron or photon's energy and it goes down to ev-range energies, this will excite the atoms in the crystal and then radiate light when it drops down to its original state. This process is called "scintillation".
 
