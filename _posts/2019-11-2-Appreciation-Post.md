@@ -3,7 +3,7 @@ layout: posts
 title: "An Appreciation post"
 categories: Prelim Series
 author: Uzziel Perez
-meta: "Bittersweet memories and moving forward"
+meta: "Bittersweet memories, moving forward and an honest ending"
 math: true
 ---
 
@@ -43,4 +43,4 @@ Internally, I think I have improved. I've calmed my emotions. I care deeply for 
 
 Now, I'm quite excited to start a new phase in life! I've started to pack up. Haha. I pack up quite early. Fun stuff ahead!
 
-I am excited. I would really like to go back to CERN and Europe. Take weekend nature trips. Meet new people. Stalk Messi. hehe. See Aurora's? But I would be dishonest if I would not say how sad I am to be away from the people that I grew close with for the past few months. And there are many of them. Some stand out more than the others. One stands out more than the rest. But the brain is weird. And I know we can all be happy moving forward in time and space. 
+I am excited. I would really like to go back to CERN and Europe. Take weekend nature trips. Meet new people. Stalk Messi. hehe. See Aurora's? But I would be dishonest if I would not say how sad I am to be away from the people that I grew close with for the past few months. And there are many of them. Some stand out more than the others. One stands out more than the rest. But the brain is weird. And I know we can all be happy moving forward in time and space.
