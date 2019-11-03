@@ -13,12 +13,12 @@ For that tiny bit we understand that includes matter that make us up,some partic
 
 I have a set of fridge magnets at home and it's a cute little representation of the Standard Model particles.
 
-<img alt="Lumi" src="{{ "/assets/img/standardmodel.jpg" width="20" height="20"| prepend: site.baseurl }}" />s
+<img alt="Lumi" src="{{ "/assets/img/standardmodel.jpg" width="20" height="20"| prepend: site.baseurl }}" />
 
 It took scientists a while to figure out the patterns in the zoo of particles that they've found in colliders. It wasn't until the early
 1970s that they sorted things out. It also took me a while to organize all of them in my head. My adviser gave me a good summary during our whiteboard talks and if you're interested, Sean Carroll also did a good job summarizing them in a popular level in the appendix of "The Particle at the End of the Universe".
 
-<img alt="Lumi" src="{{ "/assets/img/pateu.jpg" width="20" height="20"| prepend: site.baseurl }}" />s
+<img alt="Lumi" src="{{ "/assets/img/pateu.jpg" width="20" height="20"| prepend: site.baseurl }}" />
 
 Let's go through the fridge magnets in order of increasing complexity. These particles are of two types. There are the 12 matter particles on the left called Fermions and there are the "force" particles called Bosons. The Fermions are further subdivided into two categories: quarks and leptons. I'll talk about them in a little more detail later on. The bosons, are force mediators. There are four fundamental forces. There's gravity, the weak force, the electromagnetic force and the strong force.
 

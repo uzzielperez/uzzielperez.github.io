@@ -42,7 +42,6 @@ I've learned somewhere that you shouldn't want anything too much and that desire
 
 > **One way to distinguish the two ends of this spectrum is to differentiate between craving and aspiration. When the Buddha pointed to the cause of suffering, he used the word tanhà or thirst. It represents desire which is in some way compulsive, driven, and therefore not easy to let go of. This kind of desire is often accompanied by clinging, contraction, tension, or pressure."**
 
-
 It's a powerful thing to know this. It helped me let go of things and not force things. I still try to do my best within what's possible, but I think I've gradually learned to be more thoughtful of my actions when I'm trying to go for things I aspire for. It feels liberating.
 
 I wish I learned these things in my youth. But I guess you only learn these things with some level of damage. :P
