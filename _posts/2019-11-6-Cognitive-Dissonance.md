@@ -1,0 +1,68 @@
+---
+layout: posts
+title: "Cognitive Dissonance and a few more things on the mind"
+categories: Life
+author: Uzziel Perez
+meta: ""
+math: true
+---
+
+## Mental Confusion
+
+I think it's a familiar feeling for most people to have some kind of belief and then perceive some new evidence that contradicts that. What ensues is some kind of mental confusion and the brain tries to ease that discomfort through different ways. A simple example "I should be working right now to be successful. But it's 10 pm and I should rest."
+
+1.) One can change the behaviour or the belief to keep the consistency. ("I should rest. Period." or "I'm not necessarily going to be successful by working this late.")
+
+2.) The behavior or the belief can be justified by adding a new statement. ("By working this late I am way past the point of diminishing returns and therefore should just work tomorrow. I will be more effective.")
+
+3.) Justify the behaviour or the belief by changing the conflicting belief. ("I'm allowed to take care of myself.")
+
+4.) Finally, ignore the evidence information that contradicts the belief. ("I'm not really that tired.")
+
+## Extreme Beliefs
+
+As I age (I'm 29 now), I sort of thought to myself that being so sure or certain about something might mean that I am wrong. We can never be truly certain about something but we can determine the "degree" of certainty about our truths. In particle physics, we use data to exclude some hypotheses which can be some kind of "belief". I am talking sloppily here. We reject or accept certain hypotheses based on evidence but in a quite measured way.
+
+In Social science or in our beliefs about certain things, ourselves and other people, things are is not quite easily quantifiable. I think we can have a general sense of how people behave given certain conditions but it's not exact science.
+
+A particular phenomenon I'm curious about is extremism or having unassailable "deep-seated beliefs". I am thinking about "white supremacists", "militant atheists" and generally people who have absolute beliefs about something or someone. From observation people who have strongly-held beliefs tend to be resistant to new information given to them. Anything that contradicts their narrative or belief, gets rejected. I think it's because it's cognitively expensive to examine to see a contradictory piece of evidence. So their tendency is just to look for information that always agrees with what they believe. They then strengthen that position, and say that everything else that's different is "fake" or wrong.
+
+## Self-doubt, Imposter Syndrome and Proof by Contradiction
+
+One of the most challenging things I encountered as a physics teacher was when someone cried to me during a physics finals exam and said "I've never felt so stupid in my life." At that time when that happened, I really didn't know what to say. This kind of situation was not discussed in any GTA training. I knew she was an extremely smart person. So her statement about herself and what I perceive her to be was at odds. I looked down and thought for a bit. And then I slowly walked towards her. I told her "Would you mind if I looked at your paper?". I showed her, "you've already got a few things correctly. In fact you've got more things done correctly than most of those who already left. Why don't you carry on? I think you are doing better than what you think you are doing."  I won't forget how she stopped crying and she smiled when she left the room. She got an A- in my class.
+
+I've doubted myself many times too. And at many points in my life I did require external inputs/validation, to clean my muddied glasses by which I perceive myself. As I've grown older, I've started to think that it's more important to be aware of our level of self-esteem, which varies through time, than it is to have an absolutely robust self-esteem. By being aware, we can look for evidence that can ease our self-doubt. Or when it comes to other people who start to doubt themselves, we can ease their pain by showing them that they're actually better than what they think they are.
+
+Is there a danger in this? I think there is. People who tend to seek too much validation from other people can then only anchor their self-esteem to external perceptions. I admittedly sometimes have a problem with this. I need to please people, be oversolicitous just to get their approval. Even if in principle, I thought "What do you care what other people think?". Deep inside, I do mind what other people think. It bugs me when someone is mad at me. Another problem is if we always tell someone, that you're "great, always great" then we would just feed their egos without giving them proper feedback to improve.
+
+A powerful form of proof in logic and mathematics is something called "Proof by contradiction". Recently, I've used this technique for myself. I've been having thoughts that "I'm a bad person" in my head. I start by assuming that that thought is true and then I do something that contradicts it. It seems like a simplistic form of therapeutic coping mechanism. But I think it's the only thing that gives me some sense of peace internally.
+
+Ok, I'm going to mock myself here with this [song](https://www.youtube.com/watch?v=O4hh1YhDfbA) from the Crazy-Ex girlfriend.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=O4hh1YhDfbA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Loop-de-loops and Obsessive Thinking
+
+I think cognitive dissonance also contributes to obsessive thinking. I've had a friend who lost another friend this semester and was analyzing every detail of what might have gone wrong. More than I'd like to admit, I also got into this "loop-de-loop" of thoughts about the separation/divorce that I am going through. My friend and I are both scientists and our tendency was to overanalyze things. But these things are not science. We cannot simply "science our way out of our problems". For self-preservation, we have to let go of thoughts, filter them and eventually see things more clearly. I made a rule to my friend that unless there is some new progress on the situation, we are going to control our "rumination" and not talk about the same thing again and again. Now, don't take me wrong. I think talking about problems help a lot. But there must be some healthy amount of thinking and talking. And I think we have to be honest with ourselves when talking and thinking too much about the same thing prevents us from moving on. And don't get me wrong again, I'm not saying that people can just snap their fingers and forget the pain. I understand some people heal longer than others. I just think that for myself, and for the people I like to keep in my life, I would prefer to keep those who have a healthy balance between learning from the past and moving forward. Sometimes it might not always be balanced but I think in principle, I understand.
+
+In my youth, I've had issues about worrying if someone is mad at me, or if my crush (lol) likes me or not. Looking back, there was a lot mental discomfort of having unclear expectations or overthinking little things that probably meant nothing. So when it comes to these things, it's probably healthy to ask straight away if something is upsetting them? Or when it comes to liking someone, I've always been very clear with what I want and what my intentions are. Sometimes, girls turn me down. Maybe 33% of the time, I get lucky and they actually like me too. Sometimes we just turn out to be friends. That's life. I know there are a lot of "crappy" internet advice that says being clear with your "intention" is going to kill your game. Maybe. Maybe it's not that. Maybe it's when you put pressure or force yourself on someone that kills it? "PLEASE LOVE ME..". I don't know. But the main idea is, it's cognitive dissonance at play again here. It's a terrible feeling of confusion.
+
+At this point, I'm going to reiterate things that help us reduce this dissonance.
+
+1.) We can change our belief - "Decide and stick to the idea that they are mad at you or don't like you. Move on. Or decide that they don't like you, you like her still so it's fine and you'd be happy to have her in your life as a friend anyway."
+
+2.) Obtain evidence - "Acquire new information and convince yourself that they like or don't like you you or are mad/not mad at you. But only pick out the things that suits your narrative."
+
+3.) Make the feeling irrelevant or not as important - "Whether they like us or not or are mad at as or not is not up to us. And we cannot force them to feel one way or another toward us so let us do something else."
+
+I think option 2 definitely helps with the uncertainty. However, it can be unhealthy because our mind can misinterpret things. Other people have things going on in their own lives and we can't always assume the worse in them. So without being too pushy, I think it's best to tell things straight or just ask. You get your answer and you act accordingly.
+
+What if the person lied or didn't really mean what they said? I think I have a problem with that. It is because I think I do have a genuine problem reading people's minds. In that case, I need to develop a way to understand people who can't express themselves straight. It's a real problem. Or probably deal less with them?
+
+## Is there a "right way" to deal with Cognitive Dissonance?
+
+Last night, I was talking to a friend about the idea of other people bad-mouthing you. I do get hurt when that happens. He told me that when people do that they must not be dignified with a response or you shouldn't get affected. And then I remember someone I used to date for a few days that she had no friends because they just use her. She said her last best friend told her that "she complains too much". I felt a little bad, because my impression was that 70% of the time she did complain a lot. There was very little awareness on her part that maybe there was some truth to what other people said?
+
+So, here again is a discomfort in my brain? How much do you listen to what other people say about you, whether they are positive or not? Should you always accept them? Assume they are true to reduce cognitive dissonance? Do not give a shit about what they say? These are all open questions in my head.
+
+I do have a temporary answer. If it's a lot of pain and mental anguish, do what works for you. And maybe if you feel better can you then take a step back to reevaluate things and your approach.
