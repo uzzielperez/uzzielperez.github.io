@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: "Cognitive Dissonance and a few more things on the mind"
+title: "Cognitive Dissonance"
 categories: Life
 author: Uzziel Perez
-meta: ""
+meta: "and a few more things on the mind"
 math: true
 ---
 
@@ -61,7 +61,7 @@ What if the person lied or didn't really mean what they said? I think I have a p
 
 ## Is there a "right way" to deal with Cognitive Dissonance?
 
-Last night, I was talking to a friend about the idea of other people bad-mouthing you. I do get hurt when that happens. He told me that when people do that they must not be dignified with a response or you shouldn't get affected. And then I remember someone I used to date for a few days that she had no friends because they just use her. She said her last best friend told her that "she complains too much". I felt a little bad, because my impression was that 70% of the time she did complain a lot. There was very little awareness on her part that maybe there was some truth to what other people said? I thought to myself that if there is no room for self-examination then there is no room to correct misbehaviours. On the other hand, if we hyperfocus on other people's opinions of you that's also unhealthy and you might do things that you don't really want to do. 
+Last night, I was talking to a friend about the idea of other people bad-mouthing you. I do get hurt when that happens. He told me that when people do that they must not be dignified with a response or you shouldn't get affected. And then I remember someone I used to date for a few days that she had no friends because they just use her. She said her last best friend told her that "she complains too much". I felt a little bad, because my impression was that 70% of the time she did complain a lot. There was very little awareness on her part that maybe there was some truth to what other people said? I thought to myself that if there is no room for self-examination then there is no room to correct misbehaviours. On the other hand, if we hyperfocus on other people's opinions of you that's also unhealthy and you might do things that you don't really want to do.
 
 So, here again is a discomfort in my brain? How much do you listen to what other people say about you, whether they are positive or not? Should you always accept them? Assume they are true to reduce cognitive dissonance? Do not give a shit about what they say? These are all open questions in my head.
 
