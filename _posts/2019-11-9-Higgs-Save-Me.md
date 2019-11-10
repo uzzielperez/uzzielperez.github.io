@@ -34,7 +34,7 @@ Here is another visual image of symmetry being broken. If you rotate a rod about
 
 I got the image from [this nice write-up](http://philsci-archive.pitt.edu/9295/1/Spontaneous_symmetry_breaking_in_the_Higgs_mechanism.pdf). The article also nicely explains the difference between "spontaneous" and "explicit" symmetry breaking. The latter occurs when there is an external force that actively breaks the symmetry. In math-y particle physics parlance you will find a symmetry breaking term in the Lagrangian, e.g. a mass term. In the case of the rod, that is called explicit symmetry breaking.
 
-<img alt="Lumi" src="{{ "/assets/img/rod.png" width="20" height="20"| prepend: site.baseurl }}" />
+<img alt="Lumi" src="{{ "/assets/img/rod.png" width="5" height="10"| prepend: site.baseurl }}" />
 
 To generate mass via "spontaneous symmetry breaking", instead of writing a mass term in a Lagrangian by hand, we can do something else. This is a typical example. Here I am simply regurgitating the discussion from Halzen and Martin Chapter 14. For a world composed only of scalars, we can write the Lagrangian as $$\mathcal{L} = \frac{1}{2} \left(\partial_{\mu} \phi\right)^2 - \left(\frac{1}{2} \mu^{2} \phi^2 + \frac{1}{4} \lambda \phi^4 \right)$$. Here $$\lambda > 0$$. The second set of terms in the parenthesis is the potential $$V(\phi)$$.
 
