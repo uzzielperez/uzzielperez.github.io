@@ -32,7 +32,7 @@ A good visual example of a spontaneous symmetry breaking occurs in a ferromagnet
 
 Here is another visual image of symmetry being broken. If you rotate a rod about its axis, it doesn't look different. In that case, you call it "rotationally invariant". If there is a force that starts to bend the rod, you could then tell that it is being rotated.
 
-I got the image from [this nice write-up](http://philsci-archive.pitt.edu/9295/1/Spontaneous_symmetry_breaking_in_the_Higgs_mechanism.pdf. The article also nicely explains the difference between "spontaneous" and "explicit" symmetry breaking. The latter occurs when there is an external force that actively breaks the symmetry. In math-y particle physics parlance you will find a symmetry breaking term in the Lagrangian, e.g. a mass term. In the case of the rod, that is called explicit symmetry breaking.
+I got the image from [this nice write-up](http://philsci-archive.pitt.edu/9295/1/Spontaneous_symmetry_breaking_in_the_Higgs_mechanism.pdf). The article also nicely explains the difference between "spontaneous" and "explicit" symmetry breaking. The latter occurs when there is an external force that actively breaks the symmetry. In math-y particle physics parlance you will find a symmetry breaking term in the Lagrangian, e.g. a mass term. In the case of the rod, that is called explicit symmetry breaking.
 
 <img alt="Lumi" src="{{ "/assets/img/rod.png" width="20" height="20"| prepend: site.baseurl }}" />
 
