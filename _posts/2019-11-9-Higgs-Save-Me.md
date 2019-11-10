@@ -13,7 +13,7 @@ It was the fourth of July in 2012. I was a new college graduate and was working 
 
 Take a look at the evolution of the CMS data over time!
 
-![Alt Text](https://media.giphy.com/media/EEwz0x1p1vTDXgG5yP/giphy.gif)
+![Alt Text](https://twiki.cern.ch/twiki/pub/CMSPublic/Hig13002TWiki/HZZ4l_animated.gif)
 
 ## What does the Higgs do?
 
@@ -47,4 +47,4 @@ You will find that when $$\mu^2$$ is negative, the extremum $$\phi = 0$$ where y
 
 \\[ \mathcal{L} = \frac{1}{2}  \left(\partial_{\mu} \eta\right)^2 - \lambda v^2 \eta^2 - \lambda v \eta^3 - \frac{1}{4} \lambda \eta^4 + const. \\]
 
-It's pretty late now. Around 1:30 am and still in my office. I should get back home and get some sleep. I'm also hungry. I'll talk about the Higgs mechanism after this. 
+It's pretty late now. Around 1:30 am and still in my office. I should get back home and get some sleep. I'm also hungry. I'll talk about the Higgs mechanism after this.
