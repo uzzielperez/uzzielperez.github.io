@@ -9,7 +9,7 @@ math: true
 
 ### Giving the gauge bosons a mass
 
-Instead of just having a scalar field, we can redo the previous calculations we did for a complex scalar field $$\phi = \left(\phi_1 + i \phi_2 \right)/\sqrt(2)$$. The Lagrangian becomes \mathcal{L} = \left(\partial_{\mu} \phi\right)*\left(\partial_{\mu} \phi\right) - \mu^2 \phi*\phi - \lambda - \lambda \left(\phi*\phi \right)^2.
+Instead of just having a scalar field, we can redo the previous calculations we did for a complex scalar field $$\phi = \left(\phi_1 + i \phi_2 \right)/\sqrt(2)$$. The Lagrangian becomes $$\mathcal{L} = \left(\partial_{\mu} \phi\right)*\left(\partial_{\mu} \phi\right) - \mu^2 \phi*\phi - \lambda - \lambda \left(\phi*\phi \right)^2$$.
 
 
 This is invariant under U(1) transformation, where $$\phi \rightarrow e^{i\alpha \phi}$$. When we rewrite the Lagrangian explicitly in terms of $$\phi_1$$ and $$\phi_2$$. We consider the same cases when $$\lambda > 0$$ and $$\mu^2 < 0$$.
