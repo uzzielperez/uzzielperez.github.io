@@ -59,4 +59,4 @@ CBT is a short-term solution. I've got things to work on. Thought if you did it 
 
 You shall unstandardize the Standard Model. Joey said. I can feel Celso's words.
 
-I can't wait to see Jen. Jen's my favorite person.
+I can't wait to see Jen. Jen's my favorite person. I miss her and yeah, a friend too. 
