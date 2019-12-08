@@ -23,7 +23,7 @@ Such self-observation for me is quite helpful to address internal turmoil with o
 
 Sometimes I slip and forget about these things I already learned. This emotion-regulation thing is a kind of a muscle that needs to be exercised. Same with the “delight” muscle, the “compassion” muscle and so on... and also the “funny” muscle. To laugh in the face of adversity is such an important thing (without minimizing someone’s feelings, it must be said!)!
 
-## What I think a good therapist is. We all have narcissistic traits
+## A good therapist. Narcissistic traits. Divorce 
 
 I’m going to have to look for a new therapist soon. I like my therapist now but one time she was not available and I needed to meet someone urgently. So I met "Dr. B". He is the one that talked to me about the tendency of CBT to be reductionistic. We had one meeting and he made quite an impact on me. We talked about suffering and the meaning of life, and he asked me if I've read Viktor Frankl's book. I was 80% into the book then. I told him that I was afraid that I was an actual narcissist and that I might be hurting people because of it. And I was "suffering" with that thought. He told me "with the limited interaction that we have, you do not strike me as a narcissist". It mattered a lot to me that he didn't say that "YOU ARE NOT A NARCISSIST!" with absolute certainty.
 
