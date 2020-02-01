@@ -9,7 +9,7 @@ math: true
 
 # As a matter of fact
 
-Let me describe the first 2 weeks of my stay at CERN and let me describe it matter-a-factly. I could write this now since I have solved most issues, looking for a place, looking for doctors, finding a way to get money (after Charles Schwab told me my account was not ok because I do not have proof of residence in the US). I was physically in pain during the first week because I think the stress hormones were also on overdrive. I think it's because I was on problem-solving mode for many days consecutively. My broken leg was swelling from the plane travel and also moving around for arrival formalities and getting my access card. I had my worst day perhaps when I woke up with all my joints swelling - an arthritis flare up! I could tell my body was in shock. And perhaps, I also had some withdrawal from not having friends around. In that case, pharmacological intervention was necessary and I also willed myself to stretch, exercise and meditate again!
+Let me describe the first 2 weeks of my stay at CERN and let me describe it matter-a-factly. I could write this now since I have solved most issues, looking for a place, looking for doctors, finding a way to get money (after Charles Schwab told me my account was not ok because I do not have proof of residence in the US). I was physically in pain during the first week because I think the stress hormones were also on overdrive. I think it's because I was on problem-solving mode for many days consecutively. My broken leg was swelling from the plane travel and also moving around for arrival formalities and getting my access card. I had my worst day perhaps when I woke up with all my joints swelling - an arthritis flare up! I could tell my body was in shock. And perhaps, I also had some withdrawal from not having friends around. In that case, pharmacological intervention was necessary and I also willed myself to stretch, exercise and meditate again! Things are good now because my body has adjusted, no flare ups and I feel upbeat! So I can write about this. 
 
 The work I needed to do was new too. I wanted to start well. So work plus all the other logistical concerns meant my days were filled to the brim. But I guess I've learned to just stop, do some breathing, and force myself to sleep. There's no point in not resting. I did not want to break. But now that I could sit down some more and relax, I think I'm doing ok now. I tried to deal with many problems, but one problem at a time. And if I couldn't solve one immediately, I would rest and deal with it a little later.
 
@@ -89,4 +89,4 @@ vacations are only special because they end.
 and then you go.."
 "having enough time with the people you love"
 
-I'm ok. I'm doing well. But I miss some people and I think about them frequently. But it was the right move to go here. 
+I'm ok. I'm doing well. But I miss some people and I think about them frequently. But it was the right move to go here.
