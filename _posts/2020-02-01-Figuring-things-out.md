@@ -87,5 +87,3 @@ And then, a few days later, the 2nd to the last episode of "The Good Place" came
 *vacations are only special because they end*.
 *and then you go*.."
 "*having enough time with the people you love*"
-
-I'm ok. I'm doing well. But I miss some people and I think about them frequently. But it was the right move to go here. I've wanted to be back here for the longest time and now that I am here I strangely miss Tuscaloosa and I strangely didn't want to leave. I love it here though but the people that matter to me are not with me. I am supposedly used to moving around. I know I can make new friends and I can be truly interested in other people. I guess I am getting old, lol. So even if I'm a little sad with the withdrawal (from/of friends) and the initial lack of meaningful human interaction, I whisper to myself the platitudes: "*I've got to enjoy what's here, right now*. *I've got to squeeze all the juice out of this!*". Toxic positivity my corgi butt. 
