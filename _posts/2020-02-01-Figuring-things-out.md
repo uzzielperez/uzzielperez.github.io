@@ -9,7 +9,7 @@ math: true
 
 # As a matter of fact
 
-Let me describe the first 2 weeks of my stay at CERN and let me describe it matter-a-factly. I could write this now since I have solved most issues, looking for a place, looking for doctors, finding a way to get money (after Charles Schwab told me my account was not ok because I do not have proof of residence in the US). I was experiencing some physical pain during the first week because I think the stress hormones were on overdrive. I think it's because I was on problem-solving mode for many days consecutively. My broken leg was swelling from the plane travel and also moving around for arrival formalities and getting my access card. I had my worst day perhaps when I woke up with all my joints swelling - an arthritis flare up! I could tell my body was in shock. And perhaps, I also had some withdrawal from not having friends around. In that case, pharmacological intervention was necessary and I also willed myself to stretch, exercise and meditate again! Things are good now because my body has adjusted, no flare ups and I feel upbeat! So I can write about this. 
+Let me describe the first 2 weeks of my stay at CERN and let me describe it matter-a-factly. I could write this now since I have solved most issues, looking for a place, looking for doctors, finding a way to get money (after Charles Schwab told me my account was not ok because I do not have proof of residence in the US). I was experiencing some physical pain during the first week because I think the stress hormones were on overdrive. I think it's because I was on problem-solving mode for many days consecutively. My broken leg was swelling from the plane travel and also moving around for arrival formalities and getting my access card. I had my worst day perhaps when I woke up with all my joints swelling - an arthritis flare up! I could tell my body was in shock. And perhaps, I also had some withdrawal from not having friends around. In that case, pharmacological intervention was necessary and I also willed myself to stretch, exercise and meditate again! Things are good now because my body has adjusted, no flare ups and I feel upbeat! So I can write about this.
 
 The work I needed to do was new too. I wanted to start well. So work plus all the other logistical concerns meant my days were filled to the brim. But I guess I've learned to just stop, do some breathing, and force myself to sleep. There's no point in not resting. I did not want to break. But now that I could sit down some more and relax, I think I'm doing ok now. I tried to deal with many problems, but one problem at a time. And if I couldn't solve one immediately, I would rest and deal with it a little later.
 
@@ -71,22 +71,21 @@ Next urgent things is to implement the solution to the bug at hand, making a fir
 
 On one of my more emotional days, I wrote a bunch of things that I decided to copy and paste here. I think I was talking to myself, thinking about different points in my life. I decided to not edit it and just put it here:
 
-"at that point in your life you are not sure where you will live.
-at that point in your life you can afford to choose where to live.
-at that point in your life you can turn things around.
-at that point in your life where you can make decisions for your future self and the future self of the people you want to "keep" connected with.
-at that point in your life you have some agency to make choices.
-at that point in your life where your decisions are not dictated of the urgency of the "now". that you can pause, is a luxury. So don't ever minimize who tried to survive and made it. and then remember that there are those who are still trying to make it through.
-This is not the most evolved thinking. this is me also just trying to or still trying figure things out in life, and trying each time to make better choices and better actions.
-"
+"*at that point in your life (where) you are not sure where you will live*.
+*at that point in your life you can afford to choose where to live*.
+*at that point in your life you can turn things around*.
+*at that point in your life where you can make decisions for your future self and the future self of the people you want to "keep" connected with*.
+*at that point in your life you have some agency to make choices*.
+*at that point in your life where your decisions are not dictated of the urgency of the "now"*. *that you can pause, is a luxury*. *So don't ever minimize who tried to survive and made it*. *and then remember that there are those who are still trying to make it through*.
+*This is not the most evolved thinking*. *this is me also just trying to or still trying figure things out in life, and trying each time to make better choices and better actions*."
 
 And then, a few days later, the 2nd to the last episode of "The Good Place" came out and it made me think about the finiteness of our time on earth. I wrote some notes from the episode. These are again, unedited.
 
-"if you got everything you wanted.
-i am in paradise"
-"we're a little bit sad because we know we're going to die. that knowledge is what gives life meaning"
-vacations are only special because they end.
-and then you go.."
-"having enough time with the people you love"
+"*if you got everything you wanted*.
+*i am in paradise*"
+"*we're a little bit sad because we know we're going to die*. *that knowledge is what gives life meaning*"
+*vacations are only special because they end*.
+*and then you go*.."
+"*having enough time with the people you love*"
 
-I'm ok. I'm doing well. But I miss some people and I think about them frequently. But it was the right move to go here.
+I'm ok. I'm doing well. But I miss some people and I think about them frequently. But it was the right move to go here. I've wanted to be back here for the longest time and now that I am here I strangely miss Tuscaloosa and I strangely didn't want to leave. I love it here though but the people that matter to me are not with me. I am supposedly used to moving around. I know I can make new friends and I can be truly interested in other people. I guess I am getting old, lol. So even if I'm a little sad with the withdrawal (from/of friends) and the initial lack of meaningful human interaction, I whisper to myself the platitude of "*Enjoy the here and now*". Just gets me through the past few days. It gets better. 
