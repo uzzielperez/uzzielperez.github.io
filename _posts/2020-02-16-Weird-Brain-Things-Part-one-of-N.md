@@ -52,7 +52,13 @@ So we have this idea of romanticism, and the feeling of magic, of butterflies in
 
 I still standby what I said that "troubadour" romaticism is overrated. But it is important to "feel" something. I think that can be worked on. You just have to ask yourself, how hard should it be? It shouldn't be that hard. If it's too hard, is it even worth staying in that relationship? What's worth working for? Just me and my BIG opinion: I don't need to be with someone to love someone. I don't need to be "the ONE" to love and care for someone. That idea of love might be different in other's people's head. It's mostly a verb for me. It's not something I say too often. It's also not "unconditional". We can't be together if we bring out the worse in each other. Doesn't mean I have stopped loving someone as a human being. Even if the romantic part is gone, I still care very much.
 
-Love and attraction of course is a weird brain thing. I have a relatively big forehead. Old phrenologists would probably equate that with good self-awareness. :P 
+Love and attraction of course is a weird brain thing. I have a relatively big forehead. Old phrenologists would probably equate that with good self-awareness. :P
+
+### The part that stays romantic
+
+I have some romanticism for science though. Like, I love thinking about how we are made of starstuff and that we live in this tiny pale blue dot. I love thinking about analogous systems - like how the same math can describe an LC circuit and a harmonic oscillator. It’s a common theme in physics - two different forms but actually the same thing. In nature you’d find neural connections and similar they are to social networks, the large scale structure of the universe, and mycelium network - the internet of plants. They’re fascinating. And they get me past the tedium of cleaning large datasets and making plots. These things give me meaning in life. These give me joy, awe and wonder.
+
+So I’m not entirely aromantic. I also know that there’s reality that we have to accept. There are physical laws that have to be recognized. It is important to be grounded in reality. “Creativity is imagination in a straitjacket”, said Richard Feynman. I think the constraints we encounter are what makes us even more creative and imaginative. It’s like if we had all the time in the world, wouldn’t that make us bored with life? Wouldn’t that not make us feel challenged to do something worthwhile? And what would “worthwhile” even mean if we could live forever?
 
 <!-- Because, if you become terrible without doing anything about it, I will most probably stop or pause. (Ehem! Esther Perel, ideals influencing me!) -->
 <!--
