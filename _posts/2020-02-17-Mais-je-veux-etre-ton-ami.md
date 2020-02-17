@@ -8,7 +8,7 @@ math: true
 ---
 
 ## Disclaimer
-This is my "first" short story in French. I wrote this way back in December (21) but haven't finished the French version until today. I'll be getting a lot of help from translators and I don't super care about any potential readers who are good in french. I'm just writing this for myself to think in French. My short stories are based on little nice or "profound-for-me" things I've observed from people and my travels. These are from my memory, which can sometimes be fuzzy so I will have to insert some details that might not be super accurate. But do feel free to email me for comments and suggestions. I changed the kid's name for privacy.
+This is my "first" short story in French. I wrote this way back in December (21) but haven't finished the French version until today. It only took me less than an hour to finish because I got a lot of help from translators. I just want to be more familiar with new words. I don't super care about any potential readers who are good in french. I'm just writing this for myself to think in French. My short stories are based on little nice or "profound-for-me" things I've observed from people and my travels. These are from my memory, which can sometimes be fuzzy so I will have to insert some details that might not be super accurate. But do feel free to email me for comments and suggestions. I changed the kid's name for privacy.
 
 ## English Version
 
@@ -37,17 +37,17 @@ Everyone loves Lily. And I'm sure her "best friend" does too. But she just wante
 
 South Carolina, Novembre 2019
 
-J'ai recontr'{e} une petite fille douce. Elle s'appelle Lily. Ella a quatre ans. Elle est tr\`{e}s petite. Mais elle n'aime pas \^{e}tre appele'{e} petite. Tout le monde l'aime. Tous les plus grands enfants de la f\^{e}te  prennent soin d'elle. "Ne les \`{e}coute pas, Lily. Tu as un grand coeur.", disent les enfants plus \^{a}g'{e}s.
+J'ai recontrè une petite fille douce. Elle s'appelle Lily. Ella a quatre ans. Elle est trés petite. Mais elle n'aime pas être appeleè petite. Tout le monde l'aime. Tous les plus grands enfants de la fête  prennent soin d'elle. "Ne les écoute pas, Lily. Tu as un grand coeur.", disent les enfants plus âgès.
 
-Je l'ai pouss'{e}e sur une balançoire plus tard. "Pourriez-vous me pousser plus fort s'il vous plaît?", dit-elle. "Je ne peux pas! Vous pourriez voler parce que vous êtes PETIT!". Ooops!
+Je l'ai poussèe sur une balançoire plus tard. "Pourriez-vous me pousser plus fort s'il vous plaît?", dit-elle. "Je ne peux pas! Vous pourriez voler parce que vous êtes PETIT!". Ooops!
 
-Je pensais juste aux lois de la physique. Je ne voulais pas lui faire de mal. Mais elle n'a pas fait de crise. Elle a juste dit: "Awww.." Mais je suppose qu'elle n'a pas non plus personnellement. Parce que, objectivement parlant, elle allait s'envoler vers le l'air si je pousse plus fort. Donc, nous \`{e}tions toujours amis.
+Je pensais juste aux lois de la physique. Je ne voulais pas lui faire de mal. Mais elle n'a pas fait de crise. Elle a juste dit: "Awww.." Mais je suppose qu'elle n'a pas non plus personnellement. Parce que, objectivement parlant, elle allait s'envoler vers le l'air si je pousse plus fort. Donc, nous étions toujours amis.
 
-Elle m'a dit que nous allions voir sa meilleure amie. J'ai oubli\`{e} son nom. Je suppose elle ne plaisantait pas parce que quand nous sommes arriv\`{e}s chez eux, j'ai vu un autre petit fille sautant de haut en bas comme un chiot ou un kangaroo dans la fen\^{e}tre quand elle a vue notre voiture arrive.
+Elle m'a dit que nous allions voir sa meilleure amie. J'ai oublié son nom. Je suppose elle ne plaisantait pas parce que quand nous sommes arrivés chez eux, j'ai vu un autre petit fille sautant de haut en bas comme un chiot ou un kangaroo dans la fenêtre quand elle a vue notre voiture arrive.
 
-Ils ont jou\`{e} dans sa fosse avec ses poup\`{e}es et tout. Ils \`{e}taient "meilleurs amis" mais ils auraient aussi de petites querelles. La nuit ne s'est pas bien termin\`{e}e. Lily vent pleurer \`{e} et le coeur bris\`{e}. C'est le genre de cri que vous entendez qui ne proviennent de la douleur physique. Tous les adultes parlent du march\`{e} boursier, la physique, les batteries, \`{e}lever des enfants, acheter des voitures, s'est soudainement arr\^{e}t\`{e}. Tout le monde est all\`{e} \`{a} la fosse de balle pour voir ce qui se passe.
+Ils ont joué dans sa fosse avec ses poupées et tout. Ils étaient "meilleurs amis" mais ils auraient aussi de petites querelles. La nuit ne s'est pas bien terminée. Lily vent pleurer é et le coeur brisé. C'est le genre de cri que vous entendez qui ne proviennent de la douleur physique. Tous les adultes parlent du marché boursier, la physique, les batteries, élever des enfants, acheter des voitures, s'est soudainement arrêté. Tout le monde est allé á la fosse de balle pour voir ce qui se passe.
 
-"*Elle ne veut pas \^{e}tre votre amie*", a d\`{e}clar\`{e} Lily. La maman de Lily pour lui dire "Mais tu n'as pas \`{a} demander ça, Lily. Tu es deja amis!". "Mais je veux qu'elle dise moi.", elle dit. Et les pleurs et la conversation se sont poursuivis jusqu'a ce que je rentre a la maison.
+"*Elle ne veut pas être votre amie*", a déclaré Lily. La maman de Lily pour lui dire "Mais tu n'as pas á demander ça, Lily. Tu es deja amis!". "Mais je veux qu'elle dise moi.", elle dit. Et les pleurs et la conversation se sont poursuivis jusqu'a ce que je rentre a la maison.
 
 C'est incroyable. a quel point cette seule chose m'a rappelé moi-même. Même de certaines adultes. De comment nous prenons un faux confort de la fausse certitude d'une déclaration. Si je pourrait voler en arriére et s'asseoir à côté d'elle à nouveau, je lui demanderais probablement "Pourquois faire tu veux savoir, Lily? Préférez-vous qu'elle vous dise que je suis votre ami mais jamais vraiment jouer avec vous?""
 
