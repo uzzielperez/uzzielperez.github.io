@@ -77,9 +77,9 @@ When everything else fails, download Google translate. It could do "speech recog
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/original.jpg" | prepend: site.baseurl alt="Snow" style="width:100%">
+    <img src="{{ site.baseurl }}/assets/img/original.jpg" alt="Snow" style="width:50%">
   </div>
   <div class="column">
-    <img src="TRANSLATED.PNG" | prepend: site.baseurl alt="Forest" style="width:100%">
+    <img src="{{ site.baseurl }}/assets/img/TRANSLATED.PNG" alt="Forest" style="width:100%">
   </div>
 </div>
