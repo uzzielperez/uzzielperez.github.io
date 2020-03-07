@@ -75,8 +75,6 @@ It's good listening practice in there.
 
 When everything else fails, download Google translate. It could do "speech recognition" and uses computer vision to translate texts to english. And you can even use it offline if you download the whole database for "French". (Thank you Bayesians and machine learning technologists!). It's just very bad at handwriting recognition.
 
-<img alt="Lumi" src="{{ "/assets/img/original.jpg" width="20" height="20"| prepend: site.baseurl }}" />
-
 <div class="row">
   <div class="column">
     <img src="/assets/img/original.jpg" | prepend: site.baseurl alt="Snow" style="width:100%">
