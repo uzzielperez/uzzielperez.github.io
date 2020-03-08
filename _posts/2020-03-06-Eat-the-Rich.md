@@ -35,6 +35,9 @@ Here is a video that Pecier called "a good antidote to the attack on Sanders's m
 
 I felt deeply affected by Warren's defeat but many of her ideas are still being carried by Bernie. From the words of her team "Elizabeth believes in her ideas and in the big, structural change that is badly needed to root out corruption in Washington..." You can feed people information about what these candidates are all about but I think voting is really largely emotional. We have to understand that. We have to understand why this progressivism appeals to us and why it turns others off. I would be nice to have a progressive world leader and not a child in power.
 
+If she ever runs again, I think it's good to take note of what possibly went wrong in her campaign. Aside from misogyny and the smear campaign, I think her "narrative", what she stands for was somewhat watered down. It's quite similar to Grace Poe's campaign in the Philippines. She also was the frontrunner a few months before the 2016 elections until Duterte's "tough, crime-fighting, iron hand" narrative won. (Duterte's base was also very culty.) You can read more [here](https://www.politico.com/news/2020/03/06/warren-team-wonders-how-they-blew-it-122628) on politico.
+
+
 ### Eat the rich
 Does anyone have empathy for crying billionaires?
 Have you ever seen that [rich-shaming video](https://youtu.be/N1sJjtQ0gG8?t=186) by Trevor Noah? I laughed and then I paused. "Oh my god, I'm so bad. I should try to put myself in these rich people's shoes." And then I did, and then I felt good. And then I realized, damn I'm soo evil.
