@@ -80,6 +80,6 @@ When everything else fails, download Google translate. It could do "speech recog
     <img src="{{ site.baseurl }}/assets/img/original.jpg" alt="Snow" style="width:50%">
   </div>
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/img/TRANSLATED.PNG" alt="Forest" style="width:100%">
+    <img src="{{ site.baseurl }}/assets/img/Translated.jpg" alt="Forest" style="width:50%">
   </div>
 </div>
