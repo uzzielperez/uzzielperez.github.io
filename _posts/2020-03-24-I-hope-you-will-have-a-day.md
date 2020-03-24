@@ -18,7 +18,7 @@ I do not see this ending in a week or two. This will take months or even a year.
 
 In Viktor Frankl's "Man's Search for Meaning", a common theme he mentions is how people in the death camp holds on to thoughts of loved ones, hopes of the future to keep them from taking their own lives. Perhaps this is our much milder version of a death camp. What will you be doing when this thing ends? Will you fly to see the ones you love? Give them a hug? Have a walk with them? Look at their smiles and their eyes so closely? Share things that nourish each other? Hug them again? Laugh and eat together?
 
-Once we get to that point, will we ever take those little things for granted again? Perhaps. And so I ask myself, am I taking something for granted now? Despite the seeming gloominess of it all?
+Once we get to that point, will we ever take those little things for granted again? Perhaps. And so I ask myself, am I taking something for granted now? Despite the seeming gloominess of it all? *At least I am not stuck in a submarine with a meanie.* Or *at least I am not on the International Space Station watching the earth fall apart*. 
 
 I shared this a few weeks ago: "On Living in a More Light-hearted way" by Alain de Botton's *The School of Life*. The title has since been changed to "[*The Best Way to Face Difficult Times*](https://www.youtube.com/watch?v=dTfyrfnwouE)".
 
