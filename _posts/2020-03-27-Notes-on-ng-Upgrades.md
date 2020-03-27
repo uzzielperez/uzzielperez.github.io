@@ -25,4 +25,4 @@ I talked to our postdoc and he was pretty good at explaining things in a less te
 
  Just want to add  "Configured" means settings for the software are loaded and applied from database. "Running" means ready to receive triggers and readout events.
 
-For bookmarking purposes, I like this concise [paper](https://www.sciencedirect.com/science/article/pii/S240560141500646X) on HCAL upgrades written by our postdoc.
+For bookmarking purposes, I like this concise [paper](https://www.sciencedirect.com/science/article/pii/S240560141500646X) on HCAL upgrades written by our postdoc. I should write a more public-friendly version of this next time. It will probably help me understand things more.
