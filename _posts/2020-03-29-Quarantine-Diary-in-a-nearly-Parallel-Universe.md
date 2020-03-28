@@ -70,7 +70,7 @@ I get new symptoms. I imagine Ali Wong and her face. She tells me "You need to e
 
 ----
 
-I have started people watching through the window. I have not started barking at them. 
+I have started people watching through the window. I have not started barking at them.
 
 ### Day 8:
 
@@ -88,6 +88,11 @@ My adviser's cats have started to follow me on Instagram. I feel honored.
 ### Day 13:
 
 I decide to watch Notting Hill. For me the most relatable character is the Welshman, Spikey. Unlike him, I have never really met a girl named Pandora. I have opened her box though.
+
+----
+
+Exponential curves are becoming super popular. The number of messages I haven't responded to are also growing exponentially. 
+
 
 ### Day 14:
 
