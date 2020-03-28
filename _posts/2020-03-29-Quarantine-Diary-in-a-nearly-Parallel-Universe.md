@@ -91,8 +91,7 @@ I decide to watch Notting Hill. For me the most relatable character is the Welsh
 
 ----
 
-Exponential curves are becoming super popular. The number of messages I haven't responded to are also growing exponentially. 
-
+Exponential curves are becoming super popular. The number of messages I haven't responded to are also growing exponentially.
 
 ### Day 14:
 
