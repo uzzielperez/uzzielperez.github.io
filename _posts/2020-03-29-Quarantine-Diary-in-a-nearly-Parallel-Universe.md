@@ -26,30 +26,30 @@ Dry Cough worsen a bit. Called CERN COVID-19 hotline. Was not a candidate for te
 At the Large Improv Collider (LIC) last week, we played the game "5 Things".
 In the first round I was asked to name 5 things that is made of glass.
 
-Me: Windows
-LIC Chorus: ONE THING!
-Me: Eyeglasses
-LIC Chorus: TWO THINGS!
-Me: Cinderella's shoes!
-LIC Chorus: THREE THINGS!
-Me: Lenses
-LIC Chorus: FOUR THINGS!
+Me: Windows <br />
+LIC Chorus: ONE THING! <br />
+Me: Eyeglasses <br />
+LIC Chorus: TWO THINGS! <br />
+Me: Cinderella's shoes! <br />
+LIC Chorus: THREE THINGS! <br />
+Me: Lenses <br />
+LIC Chorus: FOUR THINGS! <br />
 Me: *My Heart!*
-LIC Chorus: Lol. FFIIIIIIIVEEE THINGS!!
+LIC Chorus: Lol. FFIIIIIIIVEEE THINGS!! <br />
 
 Ok, that was corny.
 In the next round I was asked to name 5 things that I would do with my nose.
 
-Me: Smell my friend?
-LIC Chorus: ONE THING!
-Me: Scratch my hand?
-LIC Chorus: TWO THINGS!
-Me: Sniff flowers
-LIC Chorus: THREE THINGS!
-Me: Sneeze
-LIC Chorus: FOUR THINGS!
-Me: *Contract Corona Virus*
-LIC Chorus: Lol. FFIIIIIIIVEEE THINGS!!
+Me: Smell my friend? <br />
+LIC Chorus: ONE THING! <br />
+Me: Scratch my hand? <br />
+LIC Chorus: TWO THINGS! <br />
+Me: Sniff flowers <br />
+LIC Chorus: THREE THINGS! <br />
+Me: Sneeze <br />
+LIC Chorus: FOUR THINGS! <br />
+Me: *Contract Corona Virus* <br />
+LIC Chorus: Lol. FFIIIIIIIVEEE THINGS!! <br />
 
 Uhmmm...
 
@@ -68,7 +68,9 @@ In these times it is more embarrassing to cough than to fart.
 
 I get new symptoms. I imagine Ali Wong and her face. She tells me "You need to eat a banana."
 
-People watching through the window.
+----
+
+I have started people watching through the window. I have not started barking at them. 
 
 ### Day 8:
 
