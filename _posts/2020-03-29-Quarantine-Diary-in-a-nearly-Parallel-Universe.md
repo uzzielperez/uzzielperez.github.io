@@ -130,7 +130,7 @@ I'm OK.
 
 As my friend says, "Science must go on". We must continue to ask [important questions](https://www.youtube.com/watch?v=3FRyPjUlQKk) that will advance our knowledge of the universe.
 
-[screen shot of mark rober]
+<img alt="fart" src="{{ "/assets/img/fart.png" width="20" height="20"| prepend: site.baseurl }}" />
 
 ### Day 18:
 
