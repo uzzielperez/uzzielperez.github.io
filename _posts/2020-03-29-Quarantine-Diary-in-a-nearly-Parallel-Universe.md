@@ -140,7 +140,7 @@ I watch Bridget Jones Diary 3. Bridget is such a relatable character. So is Mark
 I have found my Therapist on Instagram. DO NOT FOLLOW HER! The only boundary I shouldn't respect is de virus envelope. STAAAAAHP.
 
 ---
-I find that listening to Irish Boy Bands make me feel better.
+I find that listening to Irish Boy Bands makes me feel better.
 
 ### Day 19:
 
