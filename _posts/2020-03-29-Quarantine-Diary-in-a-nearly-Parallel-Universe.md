@@ -34,7 +34,7 @@ Me: Cinderella's shoes! <br />
 LIC Chorus: THREE THINGS! <br />
 Me: Lenses <br />
 LIC Chorus: FOUR THINGS! <br />
-Me: *My Heart!*
+Me: *My Heart!*  <br />
 LIC Chorus: Lol. FFIIIIIIIVEEE THINGS!! <br />
 
 Ok, that was corny.
@@ -78,7 +78,7 @@ Someone recommends to make things. Be creative. The only thing I've been so crea
 
 ### Day 11:
 
-I have taken the advice of Instagram's "DadLab" to draw something with my foot. I immediately taught about how long it would take to rewire our brain to be used to doing stuff with our feet in the event we lose our hands. I've decided to take it a step further and started to write emails with my feet. In fact, if you have received a message from me, it was written by my left foot. My right is still a bit slow.
+I have taken the advice of Instagram's "DadLab" to draw something with my foot. I immediately thought about how long it would take to rewire our brain to be used to doing stuff with our feet in the event we lose our hands. I've decided to take it a step further and started to write emails with my feet. In fact, if you have received a message from me, it was written by my left foot. My right is still a bit slow.
 
 ### Day 12:
 
