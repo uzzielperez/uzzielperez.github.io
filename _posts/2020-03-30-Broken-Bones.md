@@ -24,7 +24,7 @@ Again, do not rush. But also do not take it too slow. On some days, it will hurt
 
 Here I always try to look at the mountains. Almost all the time they are always within view. And I use that as an inspiration to gain my full range of motion.
 
-To be able to walk on my own is such a pleasure. While I can say I "worked very hard" to be self-sufficient, I am mostly indebted to people who were my metaphorical crutches. I felt that one way to get back with them was to try to not delay "walking on" when I felt that I could. Even if it scared me. But maybe I had the courage, because I knew they were there if I had to come back. Sometimes, I felt like coming back but I walked on. There was really no point in being forever having a "butler" or having people always do things for you when you can. And I am happy that I did fly and face the inevitable. Now, I've something to bring home. It feels good to also have something to offer.
+To be able to walk on my own is such a pleasure. While I can say I "worked very hard" to be self-sufficient, I am mostly indebted to people who were my metaphorical crutches. I felt that one way to get back with them was to try to not delay "walking on" when I felt that I could. Even if it scared me. But maybe I had the courage, because I knew they were there if I had to come back. Sometimes, I felt like coming back but I walked on. There was really no point in being forever having a "butler" or having people always do things for you when you can. And I am happy that I did fly and face the inevitable. Now, I've something to bring home. It feels good to also have something to offer, give back or pass forward. 
 
 But damn, still can't go to the mountains because the pandemic got in the way.
 
