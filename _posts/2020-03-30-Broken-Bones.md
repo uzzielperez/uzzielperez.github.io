@@ -18,7 +18,7 @@ I was a month and half into my fracture when I first did my own laundry. I took 
 
 The healing of the broken bone is not to be rushed. It has its own time. But to be on schedule, you will need to take extra care of yourself. Eat right. Get vitamin D. Drink Milk, if you can. I've also gotten an effervescent calcium supplement that's super tasty. That makes me drink lots of water too!
 
-On the third month, the doctor said that I could put some weight on my bones. He said, 10 kg per week. Even if the xray shows a lot of "radioluscent" parts, i.e. a lack of consolidation, he said it was normal. So slowly, I practiced walking. I also used the fitness bands that I bought. From 10 lbs, to 20 lbs, to 40 lbs. I was able to progress. And now, I mix the bands and can do 10+20+40 = 70 lbs. Before I broke my leg, I could do machine leg presses for 295 lbs. So I guess I'm getting closer.
+On the third month, the doctor said that I could put some weight on my bones. He said, 10 kg per week. Even if the xray shows a lot of "radioluscent" parts, i.e. a lack of consolidation, he said it was normal. So slowly, I practiced walking. I also used the fitness bands that I bought. From 10 lbs, to 20 lbs, to 40 lbs for each leg and some ankle dorsiflexion. I was able to progress. And now, I mix the bands and can do 10+20+40 = 70 lbs. Before I broke my leg, I could do machine leg presses for 295 lbs. So I guess I'm getting closer.
 
 Again, do not rush. But also do not take it too slow. On some days, it will hurt and it's ok to not make progress. It's ok to just hurt. It's ok to just rest. But always, always move forward. Always try to walk on.
 
