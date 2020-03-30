@@ -30,3 +30,7 @@ But damn, still can't go to the mountains because the pandemic got in the way.
 
 
 Let's face it. Healing your bone is a lot like healing your heart. Although they break very differently. And I believe walking on is a great act of love, for yourself and the person or the people you love or once loved.
+
+P.S.
+
+Do not fret about the scary thought of walking alone. On different occasions, you will be lucky to have beautiful random walks with people with the best kinds of conversations. The types that stays with you - in a good way. I hope when this blows over you'd find the kinds of walks you were hoping for. Or maybe just not expect anything and let life surprise you. Solitary walks are still beautiful though. I know you will agree. I know you are listening. 
