@@ -28,8 +28,7 @@ To be able to walk on my own is such a pleasure. While I can say I "worked very 
 
 But damn, still can't go to the mountains because the pandemic got in the way.
 
-
-Let's face it. Healing your bone is a lot like healing your heart. Although they break very differently. And I believe walking on is a great act of love, for yourself and the person or the people you love or once loved.
+<!-- Let's face it. Healing your bone is a lot like healing your heart. Although they break very differently. And I believe walking on is a great act of love, for yourself and the person or the people you love or once loved. -->
 
 <!-- P.S. -->
 
