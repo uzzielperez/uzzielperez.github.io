@@ -7,6 +7,8 @@ meta: "Some lessons on healing a broken leg"
 math: true
 ---
 
+Updated: *April 1, 2020* 
+
 Here I offer some unsolicited advice on how to heal your broken bones.
 If you are lucky, you will not need surgery, to put your bones in proper places. But if you manage to exceed 4000 N of force and shatter them, they might need to be realigned with some light metallic structure. After that, you will need to wear a cast. This is to make sure that the bones will not further break into pieces and that they'd be allowed to consolidate.
 
