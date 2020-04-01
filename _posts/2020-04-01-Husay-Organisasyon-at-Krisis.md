@@ -24,4 +24,8 @@ Bukod sa mga nabanggit ko, nagbukas rin ang OVP ng mga dormitory para sa mga hea
 
 Kahit pilit na tinatanggalan ng kapangyarihan ng Presidente si Leni Robredo, patuloy lang ang pagtatrabaho nito. Kalmado. Walang pamumulitika. Pokus lang sa serbisyo.
 
-Kung magkakaroon ng panahon. Magsusulat pa ako tungkol sa ibang mga lider sa lokal na lebel ng pamahalaan. 
+Marahil sa mga ebidensya ng husay ng OVP, maraming mga grupo sa pribadong sektor ang nagboluntaryo ng kanilang serbisyo, at talento para sa krisis na ito. Kabilang na rito ang mga local fashion designers na gumawa ng "[open-source](https://www.google.com/search?client=firefox-b-1-d&q=designers+PPE+leni+robredo)" protective suits na aprubado para sa paggamit ng mga doktor.
+
+Kasulukayang mataas ang death rate ng COVID-19 sa Pilipinas. Lumalampas sa tipikal na death rate na 2-4 porsyento.
+
+Kung magkakaroon ng panahon. Magsusulat pa ako tungkol sa ibang mga lider sa lokal na lebel ng pamahalaan.
