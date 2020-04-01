@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: "Kahusayan sa panahon ng Krisis. Mga istorya ng lidership mula sa Pilipinas"
+title: "Kahusayan sa panahon ng Krisis."
 categories: Life
 author: Uzziel Perez
-meta: "Parte Uno - Ang Ikalawang Pangulo Leni Robredo"
+meta: "Mga istorya ng lidership mula sa Pilipinas. Parte Uno - Ang Ikalawang Pangulo Leni Robredo"
 math: true
 ---
 
