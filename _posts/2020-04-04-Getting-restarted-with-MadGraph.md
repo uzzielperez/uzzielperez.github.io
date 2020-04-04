@@ -17,7 +17,7 @@ You can download a stable tarfile of the program [here](http://madgraph.phys.ucl
 
 Once you untar, you can go to the directory. In my case it was in the Downloads. You have to have python 2 in your system to run it
 
-```bash
+```python
 
 cd ~/Downloads/MG5_aMC_v2_7_2
 python2 ./bin/mg5_aMC
@@ -40,7 +40,7 @@ The [old documentation](https://twiki.cern.ch/twiki/bin/view/CMS/MadGraphFall13P
 
 ### Quick Recipe for Gridpack production
 
-```bash
+```python
 
 git clone git@github.com:cms-sw/genproductions.git genproductions
 cd genproductions/bin/MadGraph5_aMCatNLO/
