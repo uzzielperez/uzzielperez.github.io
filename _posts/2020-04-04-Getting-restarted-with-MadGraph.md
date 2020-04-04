@@ -51,7 +51,7 @@ Before producing the gridpacks, we'll have to know, or I'll have to know what sh
 * https://github.com/cms-sw/genproductions/blob/master/bin/MadGraph5_aMCatNLO/cards/examples/wplustest_4f_NLO/wplustest_4f_NLO_run_card.dat
 * https://github.com/cms-sw/genproductions/blob/master/bin/MadGraph5_aMCatNLO/cards/examples/wplustest_4f_NLO/wplustest_4f_NLO_proc_card.dat
 
-I'll be updating this post as I make progress.
+I'll be updating this post as I make progress in figuring things out.
 
 
 
