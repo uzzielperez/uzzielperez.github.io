@@ -7,7 +7,7 @@ meta: "The First three weeks"
 math: true
 ---
 
-*Note: The idea of parallel universes are untestable and therefore for some scientists only a stuff of science fiction. But do feel free to read about the Many Worlds Interpretation of Quantum Mechanics. It is an interesting idea.*
+*Note: The idea of parallel universes is untestable and therefore for some scientists only a stuff of science fiction. But do feel free to read about the Many Worlds Interpretation of Quantum Mechanics. It is an interesting idea.*
 
 ### Day 1:
 
