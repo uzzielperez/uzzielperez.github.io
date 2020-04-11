@@ -106,7 +106,7 @@ I actually did C. I thought it was stupid but had the right intention. So maybe 
 
 ### Day 35
 
-I miss home. I miss long Jeepney rides in the Philippines. Here's a [video](https://www.youtube.com/watch?v=9-9ga6LQ1I8&fbclid=IwAR1iBW5hKOyQAASCbsQVYzoow6e5OFWb_LdMtnOCYu3n1GsiQHGrWglzFjU)if you want to see the outdoors. And here's where my first job was - [The Mind Museum v1](https://www.youtube.com/watch?v=9ZDhxP5tPVo), [The Mind Museum 2013](https://www.youtube.com/watch?v=YlA7mNVCR6g).
+I miss home. I miss long Jeepney rides in the Philippines. Here's a [video](https://www.youtube.com/watch?v=9-9ga6LQ1I8&fbclid=IwAR1iBW5hKOyQAASCbsQVYzoow6e5OFWb_LdMtnOCYu3n1GsiQHGrWglzFjU)if you want to see the outdoors. And here's where my first job was - [The Mind Museum 2013](https://www.youtube.com/watch?v=YlA7mNVCR6g), [The Mind Museum v1 - 10 min](https://www.youtube.com/watch?v=9ZDhxP5tPVo).
 
 ### Day 36
 Corona virus effect - lots of calls with best buds.
