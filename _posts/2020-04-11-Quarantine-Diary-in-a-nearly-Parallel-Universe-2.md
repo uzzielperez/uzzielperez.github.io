@@ -19,7 +19,7 @@ I need to keep my shit together.
 ----
 
 I have hydroxychloroquine. Don't listen to Trump. Don't self-medicate. It could cost you your life.
-<img alt="wilson" src="{{ "/assets/img/wilsonplaquenil.jpg" width="20" height="20"| prepend: site.baseurl }}" />
+<img alt="wilson" src="{{ "/assets/img/wilsonplaquenil.jpg" width="5" height="5"| prepend: site.baseurl }}" />
 
 ### Day 25
 
@@ -146,7 +146,7 @@ Been looking at quarantine art and reflected on my work as a "physics programmer
 
 I've read about the significance of potatoes during hard times. Think of the Irish Potato famine and Mark Wahlberg in *The Martian*. So, I have started to value potatoes. Here is Wilson with a potato.
 
-<img alt="Potato" src="{{ "/assets/img/IMG_9539.jpeg" width="20" height="20"| prepend: site.baseurl }}" />
+<img alt="Potato" src="{{ "/assets/img/IMG_9539.jpeg" width="5" height="5"| prepend: site.baseurl }}" />
 
 ### Day 40
 
