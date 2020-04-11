@@ -18,3 +18,5 @@ math: true
 </p>
 
 ### Quarantine Scootering R < 1 km, t < 1 hr
+
+Table Format
