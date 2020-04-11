@@ -108,6 +108,18 @@ I actually did C. I thought it was stupid but had the right intention. So maybe 
 
 I miss home. I miss long Jeepney rides in the Philippines. Here's a [video](https://www.youtube.com/watch?v=9-9ga6LQ1I8&fbclid=IwAR1iBW5hKOyQAASCbsQVYzoow6e5OFWb_LdMtnOCYu3n1GsiQHGrWglzFjU)if you want to see the outdoors. And here's where my first job was - [The Mind Museum 2013 with the Junior Mind Movers! I played soccer with them before they got picked up by their parents.](https://www.youtube.com/watch?v=YlA7mNVCR6g), [The Mind Museum v1 - 10 min](https://www.youtube.com/watch?v=9ZDhxP5tPVo).
 
+----
+
+Dug some soccer science photos too!
+
+<p float="left">
+  <img alt="s1" src="{{ "/assets/img/s1.png" width="20" height="20"| prepend: site.baseurl }}" />
+  <img alt="s2" src="{{ "/assets/img/s2.png" width="20" height="20"| prepend: site.baseurl }}" />
+  <img alt="s3" src="{{ "/assets/img/s3.png" width="20" height="20"| prepend: site.baseurl }}" />
+  <img alt="s4" src="{{ "/assets/img/s4.png" width="20" height="20"| prepend: site.baseurl }}" />>
+  <img alt="s5" src="{{ "/assets/img/s5.png" width="20" height="20"| prepend: site.baseurl }}" />>
+</p>
+
 ### Day 36
 Corona virus effect - lots of calls with best buds.
 
