@@ -102,7 +102,7 @@ Possible Response B: Tell the whole truth of what you really feel and what's goi
 
 Possible Response C: How is your arm?
 
-I actually did C. I thought it was stupid but had the right intention. So maybe I made the right choice but maybe had the wrong effect (of seemingly objectifying her). But then again, another friend of mine suggested a better one. I will try that next time.
+I actually did C. I thought it was stupid but had the right intention. So maybe I made the right choice but maybe had the wrong effect. But then again, another friend of mine suggested a better one. I will try that next time.
 
 ### Day 35
 
