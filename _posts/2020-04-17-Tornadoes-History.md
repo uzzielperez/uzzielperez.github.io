@@ -14,3 +14,5 @@ I've been looking at some [tornado paths](https://hifld-geoplatform.opendata.arc
 Anyway, I think I'd like to make a simple app that pings me updates on Tornadoes in Tuscaloosa. But I'm in a middle of finishing phase I of my dissertation. I want to keep the momentum on that. It would be the same whether a make a pinging app or not. I will stay awake until things clear.
 
 Tonight is just a brief respite. A respite. lol. I solved some problem in my analyzer code. I've been working on it quite intensely the past week. I've got a messy brute force solution but it seems to work. It's also *cute*. Tomorrow, I will start to write a cleaner version and close Phase I in a few days.
+
+Wrote a bit tonight to clear my mind and also severe storms are expected in Tuscaloosa once again this Sunday. Hope everyone stays safe! 
