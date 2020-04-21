@@ -27,7 +27,7 @@ Again, the goal of my research is to measure the cross-section of a rare physics
 
 \\[ N = \varepsilon \sigma \mathcal{L} \\]
 
-So, this is where the importance of efficiency is. We have to make sure we aren't throwing away too many "photons" so that we could suppress the "fakes".
+So, this is where the importance of efficiency is. We have to make sure we aren't throwing away too many "photons" while suppressing the "fakes".
 
 In the next phase of my research my goal is to determine the rate by which these "fakes" occur. This is important so that we could "subtract" the fake contribution from the data.
 
