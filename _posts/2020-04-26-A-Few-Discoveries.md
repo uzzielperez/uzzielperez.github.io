@@ -120,3 +120,6 @@ What I plan to do next is to spend the next few days working on detector softwar
 I think part of why I got so tired this week (until Thurs) was I spent every waking hour thinking about nothing but the analyzer code. There were two days that I didn't even talk to my room mate. I didn't get to exercise nor walk outside. And I felt robotic. My room mate looked sad too. So I got a little afraid she was thinking that I didn't want to interact with her. Turns out she had a bad toothache. Ha! I gave her paracetamol. Didn't work though.
 
 Also probably didn't help that I ate 5 boxes of Ferrero Rocher this week.. EEEK.
+
+*This morning, April 26, 2020*
+Also realized that if I commit changes to this to the gh-pages repo it will tell me why the website blog won't build. Just pushing to master doesn't do but that still updates the site. So I fell asleep without the site updating.
