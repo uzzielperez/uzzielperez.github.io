@@ -85,10 +85,9 @@ pagenumbering:
     \hspace{1em}%
     \insertframenumber/\inserttotalframenumber
 }
-% or
 
-\setbeamertemplate{navigation symbols}{}
-\setbeamertemplate{footline}[frame number]
+/* \setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}[frame number] */
 
 ```
 
