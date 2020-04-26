@@ -79,15 +79,9 @@ pagenumbering:
 
 *styl.tex file*
 ```
-\addtobeamertemplate{navigation symbols}{}{%
-    \usebeamerfont{footline}%
-    \usebeamercolor[fg]{footline}%
-    \hspace{1em}%
-    \insertframenumber/\inserttotalframenumber
-}
 
-/* \setbeamertemplate{navigation symbols}{}
-\setbeamertemplate{footline}[frame number] */
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}[frame number]
 
 ```
 
