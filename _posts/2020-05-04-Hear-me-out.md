@@ -18,7 +18,7 @@ On my own I was able to do so.
 And I've found you, a spirit whose struggles were similar to mine.
 There was very little resistance. Who was I to not take a chance?
 For the first time I did not have to chase.
-Everything moved fast. Everything also collapsed quick. Got rebuilt. Recollapsed. The entanglement was not built on solid ground. The pillars, the two people kept the structure, were both fragile.
+Everything moved fast. Everything also collapsed quick. Got rebuilt. Recollapsed. The entanglement was not built on solid ground. The pillars, the two people who kept the structure, were both fragile.
 There was no beating. There was no abandoning. There was only letting go. It should have been done earlier. But there was so much fear. There was the fear of being alone. The fear of one of us not surviving the demise of the plans we once had. There was the fear of anger. There was the fear of facing nothingness and starting all over after being together for so long. So as not to face those [fears](https://www.youtube.com/watch?v=PRhQMf5HMHU), you and I, mostly I, settled for being peaceful and yet unfulfilled. The fear of a short-term upset is just too strong for me. I was a child. We married as children despite our age.
 
 Silly dance. I silly dance to make you laugh. It was foolproof. But you did not. I knew that was it. We were already a month into talking about letting each other go. I felt you were ready. There was a place for you. Some good people I thought you could rely on. Finally, I had the courage to let you go.
