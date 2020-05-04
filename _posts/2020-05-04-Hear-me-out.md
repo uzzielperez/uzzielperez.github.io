@@ -25,4 +25,4 @@ Silly dance. I silly dance to make you laugh. It was foolproof. But you did not.
 
 Fast forward to now - I reply to your singular question. I cannot thank you enough for listening to me and for believing what I said.
 
-I'm standing back as I should. Not overreaching as I have been. And slowly we could finally walk on in the directions we wanted for ourselves. You towards shooting for your dreams. And I am always proud. And thank you for letting me go too and to letting me find myself.
+I'm standing back as I should. Not overreaching as I have been. And slowly we could finally walk on in the directions we wanted for ourselves. You towards shooting for your dreams. And I am always proud. And thank you for letting me go too and for letting me find myself.
