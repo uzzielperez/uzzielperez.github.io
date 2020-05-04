@@ -13,7 +13,7 @@ As we await the official decision on the details, I just want to write something
 
 ----
 
-I thought I'd be good at riding the waves
+I thought I'd be good at riding the waves.
 On my own I was able to do so.
 And I've found you, a spirit whose struggles were similar to mine.
 There was very little resistance. Who was I to not take a chance?
