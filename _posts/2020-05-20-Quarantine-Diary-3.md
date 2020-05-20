@@ -47,16 +47,16 @@ Yes, in the Philippines, English-language music reached the mountains and some r
 
 ### Day 46:
 
-I was trying to find my center and decided to draw a happy smiling Buddha.
+<!-- I was trying to find my center and decided to draw a happy smiling Buddha. -->
 
-<img alt="buddha" src="{{ "/assets/img/badbuddha.png" width="20" height="20"| prepend: site.baseurl }}" />
-
-
-
-But why does this Buddha look evil and have advanced Rheumatoid Arthritis?
+<!-- <img alt="buddha" src="{{ "/assets/img/badbuddha.png" width="20" height="20"| prepend: site.baseurl }}" /> -->
+<!--
 
 
-----
+But why does this Buddha look evil and have advanced Rheumatoid Arthritis? -->
+
+
+<!-- ---- -->
 
 Yesterday, I finished two boxes of chocolates and my head wasn't super slow because I woke up with only 5-6 hours of sleep. Because I was tracking tornadoes hitting alabama on twitter. I must have a way to automate this tracking and then send me "pings" without needing to refresh the page.
 
