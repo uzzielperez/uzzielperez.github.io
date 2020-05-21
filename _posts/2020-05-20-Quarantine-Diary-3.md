@@ -7,7 +7,7 @@ meta: "Arret! Deux metre SVP!"
 math: true
 ---
 
-*Note: In Star Trek Discovery, there exists a Mycelium Network which seems to be a stand-in for the Large Scale Structure of the Universe. No just kidding. Haven't gotten to that part yet because I decided to watch a more intellectually stimulating show called "Too Hot to handle". It's no. 1 in Switzerland. This is probably the last quarantine diary barring any second wave which I hope does not happen in any universe or alternate timelines.*
+*Note: In Star Trek Discovery, there exists a Mycelium Network which seems to be a stand-in for the Large Scale Structure of the Universe. No just kidding. Haven't gotten to that part yet because I decided to watch a more intellectually stimulating show called "Too Hot to handle". It's no. 1 in Switzerland. This is probably the last quarantine diary barring any second wave which I hope does not happen in any universe or alternate timelines. I still don't subscribe to the Many Worlds Interpretation of Quantum Mechanics!*
 
 ### Day 41:
 
