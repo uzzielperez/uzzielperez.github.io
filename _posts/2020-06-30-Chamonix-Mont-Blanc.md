@@ -27,7 +27,7 @@ It took me 5 more months to be able to get to Chamonix. The borders just reopene
 
 I sat down for a bit at the side of Lac Bleu. I took photos of the glaciers and then continued my hike. Six hours in the mountains I've decided to take a break again and sit on a huge boulder. I wrote a bit in two little notebooks I had brought with me. I wanted to stay there. I didn't want to go back to a place that was so noisy. I didn't want notifications. I didn't want the internet.
 
-So when I decided to get down, I turned on airplane mode so I won't pick up wifi signals. I left my bag at my room, walked around Chamonix and read a book at various spots. Chamonix is one of the most beautiful places I've ever been to.
+So when I decided to get down, I turned on airplane mode so I won't pick up wifi signals. I left my bag at my room, walked around Chamonix and read a book at various spots. Chamonix is one of the most beautiful places I've ever been to. If you are lucky and the clouds part, Mont Blanc would reveal itself. The sun rays and it's white majestic glory would tower over the charming little town. I was lucky it did for a few hours while I was walking by the river Arve. 
 
 ### Think Simple, the unplanned and what matters most
 
@@ -41,7 +41,7 @@ Furthermore, I wanted to tell him these things:
 
 2.) And this [interview](https://www.youtube.com/watch?v=KkB-kpet3eo) with Alain de Botton and founder of the School of Life Series in youtube. He talks about how dissects complex emotional issues. I like this guy because it feels like he's that [big brother](https://www.youtube.com/watch?v=7IfvTn7eF0g&t=4s) that will get some sense into your head when you're heart-broken or troubled.
 
-3.) To be a minimalist, to be simple, you have to go explore the complex and then will you only figure out what is essential to keep. $$E=mc^2$$, that simple equation didn't just simply pop out of the "ether". 
+3.) To be a minimalist, to be simple, you have to go explore the complex and then will you only figure out what is essential to keep. $$E=mc^2$$, that simple equation didn't just simply pop out of the "ether".
 
 But at the mountains, I had realized something... I had added this extra piece of thought into my therapists' advice. So it fits in into my mental schema.  *"Think simple" is a recognition of the limits of our own minds.""* That it is not an infinitely powerful machine capable of holding multiple and seemingly contradicting realities at the same time, ALL THE TIME. I'm a human being. And I am "sick". I have a diagnosis. If I don't allow myself to rest from digging into complex things, I can mix things up. I can get sad, I can break and become dysfunctional. That is the worst sign of all. Because even when I am plagued with problems, I do not stop functioning. It is this breaking that instigated these unplanned trips. And in these unplanned trips I recover myself.
 
