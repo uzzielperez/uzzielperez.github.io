@@ -49,4 +49,4 @@ But at the mountains, I had realized something... I had added this extra piece o
 
 I'm a little older now so these episodes happen less frequently and I am quicker to recalibrate and have a more peaceful inner world. And now I've finally told people at work and some friends, hey, "I just had a divorce, there were some medical issues, among other things I don't need to say here... *there is something wrong, I would act a little strange for a while. Could you please let me be a little strange?*".
 
-"Think simple", at least for me doesn't mean "think simple" ALL the time. I would still look at complex and interesting problems, take a break - a real break and eventually sort things out. I will write about my progress in the coming days when I feel a little less strange.
+"Think simple", at least for me doesn't mean "think simple" ALL the time. I would still look at complex and interesting problems, take a break - a real break and eventually sort things out. I will write about my progress in the coming days when I feel a little less weird.
