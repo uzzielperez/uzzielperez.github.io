@@ -39,7 +39,7 @@ Furthermore, I wanted to tell him these things:
 
 1.) "Simplicity isn’t just a visual style. It’s not just minimalism or the absence of clutter. It involves digging through the depth of the complexity. To be truly simple, you have to go really deep. For example, to have no screws on something, you can end up having a product that is so convoluted and so complex. The better way is to go deeper with the simplicity, to understand everything about it and how it’s manufactured. You have to deeply understand the essence of a product in order to be able to get rid of the parts that are not essential" - [Jon Ive and Steve Jobs's Minimalist philosophy](https://www.smithsonianmag.com/arts-culture/how-steve-jobs-love-of-simplicity-fueled-a-design-revolution-23868877/)
 
-2.) And this [interview](https://www.youtube.com/watch?v=KkB-kpet3eo) with Alain de Botton and founder of the School of Life Series in youtube. He talks about how dissects complex emotional issues. I like this guy because it feels like he's that [big brother](https://www.youtube.com/watch?v=7IfvTn7eF0g&t=4s) that will get some sense into your head when you're heart-broken or troubled.
+2.) And this [interview](https://www.youtube.com/watch?v=KkB-kpet3eo) with Alain de Botton and founder of the School of Life Series in youtube. He talks about how dissects complex emotional issues. I like this guy because it feels like he's that [big brother/sister](https://www.youtube.com/watch?v=7IfvTn7eF0g&t=4s) that will get some sense into your head when you're heart-broken or troubled.
 
 3.) To be a minimalist, to be simple, you have to go explore the complex and then will you only figure out what is essential to keep. $$E=mc^2$$, that simple equation didn't just simply pop out of the "ether".
 
