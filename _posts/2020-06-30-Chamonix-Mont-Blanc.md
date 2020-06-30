@@ -33,7 +33,7 @@ So when I decided to get down, I turned on airplane mode so I won't pick up wifi
 
 All these trips had one thing in common. They were unplanned and they were the most memorable trips I've ever had. They all came at a time when I didn't really want to think complex things. I just wanted and needed to clear my head and do whatever I felt like doing. My life has so much planning and schedules it's to once in a while break free.
 
-My therapist told me last Wednesday, "think simple". I smiled and told him that I can see that my brain has been jumbling a lot of thoughts lately. But I had to out of the door because he had a new person at 6:30 pm. I had a lot of questions for him or even argue with him. I wanted to tell him, "But I'm in the business of complex problems". I don't really want your advice, I just need you to listen to me. And I wanted to tell him that "think simple" without any context is a dangerous advice. "Think Simple" is what elected Donald Trump! "Think simple" is letting in implicit biases! "Think simple" is letting go of nuances! "Think simple" means you can't live with ambiguity, doubt and uncertainty!
+My therapist told me last Wednesday, "think simple". I smiled and told him that I can see that my brain has been jumbling a lot of thoughts lately. But I had to go out of the door because he had a new person at 6:30 pm. I had a lot of questions for him or even argue with him. I wanted to tell him, "But I'm in the business of complex problems". I don't really want your advice, I just need you to listen to me. And I wanted to tell him that "think simple" without any context is a dangerous advice. "Think Simple" is what elected Donald Trump! "Think simple" is letting in implicit biases! "Think simple" is letting go of nuances! "Think simple" means you can't live with ambiguity, doubt and uncertainty!
 
 Furthermore, I wanted to tell him these things:
 
@@ -47,4 +47,4 @@ But at the mountains, I had realized something... I had added this extra piece o
 
 I'm a little older now so these episodes happen less frequently and I am quicker to regain my balance. And now I've finally told that hey, "I just had a divorce, there were some medical issues, among other things I don't need to say here..." and I have told people around me that "there is something wrong, I would act a little strange for a while. Could you please let me be a little strange?".
 
-"Think simple", at least for me doesn't mean "think simple" ALL the time. I would still look at complex and interesting problems, take a break - a real break and eventually sort things out. I will write about my progress in the coming days when I feel a little less strange. 
+"Think simple", at least for me doesn't mean "think simple" ALL the time. I would still look at complex and interesting problems, take a break - a real break and eventually sort things out. I will write about my progress in the coming days when I feel a little less strange.
