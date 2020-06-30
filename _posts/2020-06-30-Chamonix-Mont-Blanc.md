@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: "Chamonix-Mont Blanc and Running Away"
+title: "Chamonix-Mont Blanc Part I"
 categories: Life, Pleasant thoughts series
 author: Uzziel Perez
-meta: "Jumping Buses"
+meta: "Think Simple and Running Away"
 math: true
 ---
 
