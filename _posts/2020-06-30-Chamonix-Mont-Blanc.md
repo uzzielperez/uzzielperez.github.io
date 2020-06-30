@@ -27,7 +27,7 @@ It took me 5 more months to be able to get to Chamonix. The borders just reopene
 
 I sat down for a bit at the side of Lac Bleu. I took photos of the glaciers and then continued my hike. Six hours in the mountains I've decided to take a break again and sit on a huge boulder. I wrote a bit in two little notebooks I had brought with me. I wanted to stay there. I didn't want to go back to a place that was so noisy. I didn't want notifications. I didn't want the internet.
 
-So when I decided to get down, I turned on airplane mode so I won't pick up wifi signals. I left my bag at my room, walked around Chamonix and read a book at various spots. Chamonix is one of the most beautiful places I've ever been to. If you are lucky and the clouds part, Mont Blanc would reveal itself. The sun rays and it's white majestic glory would tower over the charming little town. I was lucky it did for a few hours while I was walking by the river Arve. 
+So when I decided to get down, I turned on airplane mode so I won't pick up wifi signals. I left my bag at my room, walked around Chamonix and read a book at various spots. Chamonix is one of the most beautiful places I've ever been to. If you are lucky and the clouds part, Mont Blanc would reveal itself. The sun rays and it's white majestic glory would tower over the charming little town. I was lucky it did for a few hours while I was walking by the river Arve. This place for me would always be special. 
 
 ### Think Simple, the unplanned and what matters most
 
