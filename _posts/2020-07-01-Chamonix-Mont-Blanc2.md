@@ -13,7 +13,7 @@ One of the things I wrote is the idea of going with the flow. With the many thin
 
 There is this classic story of a farmer who had a horse he loved so much. For some weird reason, it ran away and a nosey neighbor offered his condolences and told him "That's so unfortunate! This is terrible for you. You won't be able to till the land and live!" The farmer replied: "Maybe. Could be good. Could be bad. We shall see."
 
-The next day, the farmer's son had broken his leg. One of the horses threw him to the ground. The same nosey neighbor said "What a tragedy! You're son won't be able to help with the land. You must be devastated!". Again, the farmer replied: "Maybe. Could be good. Could be bad. We shall see."
+The next day, the farmer's son had broken his leg. One of the horses threw him to the ground. The same nosey neighbor said "What a tragedy! Your son won't be able to help with the land. You must be devastated!". Again, the farmer replied: "Maybe. Could be good. Could be bad. We shall see."
 
 The farmer experiences a series of unfortunate events. Each time he responds in the same way.
 
