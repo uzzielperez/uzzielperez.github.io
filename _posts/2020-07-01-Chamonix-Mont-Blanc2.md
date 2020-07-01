@@ -21,6 +21,6 @@ There are many [versions](https://www.youtube.com/watch?v=P3P7f0Zg9wk) of [this]
 
 I know this is just a simple story and parable but it's all connected to the things I've been thinking about in the mountains. Life is random and it is difficult to tell on an individual level where we'll end up. It is good to have goals, dreams and plans but at most, they only make the "random walk" a "weighted random walk". Whenever I forget this reality, it only makes me worry more. Life is just like that. And if you think about, it is what makes life fun, exciting and interesting to live!
 
-I had not known about this farmer story until today. But I felt "We'll see" was very zen... I have a few more things connected these thoughts that I want to write down for myself, connected to "flow", repetition, intuition and cognitive ease. These are non-generalizable ideas. And I will only talk about repeatable successes for myself.
+I had not known about this farmer story until today. But I felt "We'll see" was very zen... I have a few more things connected to these thoughts that I want to write down for myself, connected to "flow", repetition, intuition and cognitive ease. These are non-generalizable ideas. And I will only talk about repeatable successes for myself.
 
 For now, I am very happy that I am functional at work again. And I will work at this consistently comfortable pace for now.
