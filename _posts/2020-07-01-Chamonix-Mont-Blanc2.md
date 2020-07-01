@@ -17,7 +17,7 @@ The next day, the farmer's son had broken his leg. One of the horses threw him t
 
 The farmer experiences a series of unfortunate events. Each time he responds in the same way.
 
-There are many [versions](https://www.youtube.com/watch?v=P3P7f0Zg9wk) of [this](https://mydepressionzone.com/depression-fighter/the-story-of-the-zen-farmer/) story. But it reminds me of the thoughts and feelings that came to me when I was just sitting still on the boulder on the mountains. The world is uncertain and we have to learn how to be comfortable with it.
+There are many [versions](https://www.youtube.com/watch?v=P3P7f0Zg9wk) of [this](https://mydepressionzone.com/depression-fighter/the-story-of-the-zen-farmer/) story. But it reminds me of the thoughts and feelings that came to me when I was just sitting still on the boulder on the mountains. The world is uncertain and we have to learn how to accept that reality. 
 
 I know this is just a simple story and parable but it's all connected to the things I've been thinking about in the mountains. Life is random and it is difficult to tell on an individual level where we'll end up. It is good to have goals, dreams and plans but at most, they only make the "random walk" a "weighted random walk". Whenever I forget this reality, it only makes me worry more. Life is just like that. And if you think about, it is what makes life fun, exciting and interesting to live!
 
