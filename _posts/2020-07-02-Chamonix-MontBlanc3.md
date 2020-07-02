@@ -11,7 +11,7 @@ Repetition. I thought of the things that come easily for me. In the morning, I h
 
 At one of my favorite spots in the city, just before the Batie Woods, you can find the River Rhone and Arve merge at the La Jonction. You can also the Jet d'Eau if it is powered on. And at the background, you will see the Alps. The River Rhone is turqoise and clear while the Arve is murky and looks almost violent. But that is where I find people riding their kayaks and inflatables. I had always thought that the Rhone was the one that extends to the Mont Blanc side in Chamonix, but was surprised I saw the Rhone instead. I wonder if I just decided to jump into the Rhone if it had taken me to Geneva for free rather than buying another bus ticket. So, seeing these nice things, it is easy for me to get out for a daily walk. Recently, I've learned there's a way where you could get down really close to the Rhone. And there I've sat down a bunch of times to do some bird watching.
 
-<img alt="arve" src="{{ "/assets/img/arve.png" width="20" height="20"| prepend: site.baseurl }}" />
+<!-- <img alt="arve" src="{{ "/assets/img/arve.png" width="20" height="20"| prepend: site.baseurl }}" /> -->
 
 I've also learned, that at a walking pace, I could listen to a french audiobook comfortably. So far, that has been the most effective way for me when it comes to learning practical phrases. Podasts are good too. But I really try to spend most of the time just relaxing and listening to music.
 
@@ -29,4 +29,4 @@ I have been thinking about these things for a while now but I had only been able
 
 Am trying to write down the thoughts that I've disentangled during the break. Perhaps the final set would be on handling pressure, when work is not as romantic as thought it would be, why I am careful about my work methods, [incubation periods in the creative process](https://www.brainpickings.org/2014/01/06/alan-watts-wisdom-of-insecurity-1/), and finally "birds and the things that fool our brain".
 
-<img alt="montblanc" src="{{ "/assets/img/montblanc.png" width="20" height="20"| prepend: site.baseurl }}" />
+<!-- <img alt="montblanc" src="{{ "/assets/img/montblanc.png" width="20" height="20"| prepend: site.baseurl }}" /> -->
