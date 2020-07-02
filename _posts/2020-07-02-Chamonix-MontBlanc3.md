@@ -29,4 +29,4 @@ I have been thinking about these things for a while now but I had only been able
 
 Am trying to write down the thoughts that I've disentangled during the break. Perhaps the final set would be on handling pressure, why I am careful about my work methods, [incubation periods in the creative process](https://www.brainpickings.org/2014/01/06/alan-watts-wisdom-of-insecurity-1/), and finally "birds and the things that fool our brain".
 
-<img alt="Mont Blanc" src="{{ "/assets/img/montblanc.png" width="20" height="20"| prepend: site.baseurl }}" />
+<img alt="montblanc" src="{{ "/assets/img/montblanc.png" width="20" height="20"| prepend: site.baseurl }}" />
