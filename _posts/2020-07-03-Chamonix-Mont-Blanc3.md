@@ -3,13 +3,13 @@ layout: posts
 title: "Chamonix-Mont-Blanc 3"
 categories: Life, Pleasant thoughts series
 author: Uzziel Perez
-meta: "Birds and Brains and Bird Brains"
+meta: "Take it Easy"
 math: true
 ---
 
 Repetition. I thought of the things that come easily for me. In the morning, I had made it a habit to fix my bed, wash my face and brush my teeth. Also night, it's a habit to get to clean up to get clean. Also, one of the most pleasurable things to do is my afternoon/night walk (I can't run yet).
 
-At one of my favorite spots in the city, just before the Batie Woods, you can find the River Rhone and Arve merge at the La Jonction. You can also the Jet d'Eau if it is powered on. And at the background, you will see the Alps. The River Rhone is turqoise and clear while the Arve is murky and looks almost violent. But that is where I find people riding their kayaks and inflatables. I had always thought that the Rhone was the one that extends to the Mont Blanc side in Chamonix, but was surprised I saw the Rhone instead. I wonder if I just decided to jump into the Rhone if it had taken me to Geneva for free rather than buying another bus ticket. So, seeing these nice things, it is easy for me to get out for a daily walk. Recently, I've learned there's a way where you could get down really close to the Rhone. And there I've sat down a bunch of times to do some bird watching. 
+At one of my favorite spots in the city, just before the Batie Woods, you can find the River Rhone and Arve merge at the La Jonction. You can also the Jet d'Eau if it is powered on. And at the background, you will see the Alps. The River Rhone is turqoise and clear while the Arve is murky and looks almost violent. But that is where I find people riding their kayaks and inflatables. I had always thought that the Rhone was the one that extends to the Mont Blanc side in Chamonix, but was surprised I saw the Rhone instead. I wonder if I just decided to jump into the Rhone if it had taken me to Geneva for free rather than buying another bus ticket. So, seeing these nice things, it is easy for me to get out for a daily walk. Recently, I've learned there's a way where you could get down really close to the Rhone. And there I've sat down a bunch of times to do some bird watching.
 
 <img alt="arve" src="{{ "/assets/img/arve.png" width="20" height="20"| prepend: site.baseurl }}" />
 
