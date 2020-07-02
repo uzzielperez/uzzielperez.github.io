@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Chamonix-Mont-Blanc 3"
+title: "Chamonix-Mont-Blanc III"
 categories: Life, Pleasant thoughts series
 author: Uzziel Perez
 meta: "Take it Easy"
