@@ -25,4 +25,6 @@ It is sad to watch that video. It feels true. But as always, I've learned to tak
 
  And I still think [romanticism](https://www.youtube.com/watch?v=gjxs46mzcB8) is not essential to living a full life. There are other forms of love that are rather nice to cultivate. From the lunch scene in Before Midnight "it's not the love of one person that matters, but the love of life."
 
- I am going to do my best to live every day the best way I can. No matter the conditions and constraints. As long as I'm not hurting anyone. I'm going to get coke zero. I'm thirsty. And then maybe I'll hop on to a bus somewhere again. :) 
+I am going to do my best to live every day the best way I can. No matter the conditions and constraints. As long as I'm not hurting anyone or doing anything unwelcome. Am going to take a break from writing too and rethink my ways. So it might take a while before I can write about the things I've said I'd lilike to write about. 
+
+ I'm going to get coke zero. I'm thirsty. And then maybe I'll hop on to a bus somewhere again. :) 
