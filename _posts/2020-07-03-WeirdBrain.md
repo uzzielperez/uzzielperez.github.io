@@ -29,4 +29,6 @@ It is sad to watch that video. It feels true. But as always, I've learned to tak
 
 I am going to do my best to live every day the best way I can. No matter the conditions and constraints. As long as I'm not hurting anyone or doing anything unwelcome. Am going to take a break from writing too and rethink my ways. So it might take a while before I can write about the things I've said I'd like to write about.
 
-I don't feel super ok now, to be honest. Weird Brain. I'm going to get coke zero. I'm thirsty. And then maybe I'll hop on to a bus somewhere again. :)
+But the truth is, I don't feel super ok now. It feels sort of worse than breaking my leg. Weird Brain. Again, it is what it is. 
+
+ I'm going to get coke zero. I'm thirsty. And then maybe I'll hop on to a bus somewhere again. :)
