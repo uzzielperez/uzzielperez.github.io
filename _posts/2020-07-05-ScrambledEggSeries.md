@@ -101,7 +101,7 @@ It's so exaggeratedly funny!!!
 I don't understand why people romanticize stuff. Oh, yes! Addiction. - See Russell Brand's 12-step guide to unfucking yourself. :) -->
 ## Adults and their children versions when in pain
 
-"Aren't we all children in a way?" I said one night in a bar. Everyone agreed except one person, "Not me." Oh, gosh I wish I could be that robust.
+"Aren't we all children in a way?" I said one night in a bar (before the pandemic). Everyone agreed except one person, "Not me." Oh, gosh I wish I could be that robust.
 
 Anyway. I've noticed three types:
 
