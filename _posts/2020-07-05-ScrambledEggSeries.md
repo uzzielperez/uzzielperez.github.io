@@ -119,6 +119,6 @@ I don't know if that made any sense.
 
 ## Mountain Goats
 
-"A fleeing animal uses up to 3 times as much energy as normal which eats into its winter reserves. Help wildlife survice the winter by giving it the space and peace it needs. Respect the signs, avoid wooded areas, minimise all traces."
+"A fleeing animal uses up to 3 times as much energy as normal which eats into its winter reserves. Help wildlife survive the winter by giving it the space and peace it needs. Respect the signs, avoid wooded areas, minimise all traces."
 
 I'm glad no one's running after me anymore.
