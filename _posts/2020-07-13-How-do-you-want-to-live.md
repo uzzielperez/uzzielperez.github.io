@@ -15,3 +15,6 @@ math: true
 Today last year matters to me.
 If I were to lose my memory or if time will slowly let its "thought-of-beauty" fade away, I just want to write this note.
 Today, today of last year matters to me.
+It does not matter whether it mattered to anyone else.
+
+Whether my brain is tired or sharp, whether it's skeptical or not, I had liked that day. For how long will I like it?
