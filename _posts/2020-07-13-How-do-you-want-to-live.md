@@ -13,7 +13,7 @@ math: true
 
 'Nahuli sa isang tingin...'
 
-'At sa pagbati mong napakalambing...' 
+'At sa pagbati mong napakalambing...'
 
 Today last year matters to me.
 If I were to lose my memory or if time will slowly let its "thought-of-beauty" fade away, I just want to write this note.
@@ -21,6 +21,6 @@ Today, today of last year matters to me.
 It does not matter whether it mattered to anyone else.
 
 Whether my brain is tired or sharp, whether it's skeptical or not, I had liked
-that day. System I, System II speaking.
+that day. System I, System II speaking. I liked the place, the person, the feeling.. I liked myself. I liked the jokes. I liked the things we talked about. I liked that I didn't feel like I wanted to save anyone. I liked that I was enjoying myself. I liked the scent, the fact it wasn't so hot. I liked that I wasn't the only one listening nor talking. I liked all the elements that made that day nice. The only thing I didn't like was the eel.
 
-I'm going to try to...
+It is what it is for now. It was a beautiful memory that gets one through the hardest of days. Now, I've got to live this life I have right now.
