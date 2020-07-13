@@ -19,3 +19,5 @@ It does not matter whether it mattered to anyone else.
 
 Whether my brain is tired or sharp, whether it's skeptical or not, I had liked
 that day. System I, System II speaking.
+
+I'm going to try to...
