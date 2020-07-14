@@ -7,7 +7,7 @@ meta: "Alienation, defying pressure and defeating evil"
 math: true
 ---
 
-*Today we've learned that the government has rescinded racist and ludicrous directive against international students. Thanks to MIT and Harvard for leading the way in suing the government. Trump is evil.*
+*Today we've learned that the government has rescinded the racist and ludicrous directive against international students. Thanks to MIT and Harvard for leading the way in suing the government. Trump is evil.*
 
 ## Knocked out
 
@@ -41,4 +41,4 @@ My next question is, "In what ways am I annoying to live with?". **spaces out**
 
 ## Nirvana is everywhere
 
-To be continued tomorrow.... 
+To be continued tomorrow....
