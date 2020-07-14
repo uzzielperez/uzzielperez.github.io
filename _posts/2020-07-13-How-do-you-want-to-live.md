@@ -16,7 +16,7 @@ math: true
 'At sa pagbati mong napakalambing...'
 
 Today last year matters to me.
-If I were to lose my memory or if time will slowly let its "thought-of-beauty" fade away, I just want to write this note.
+If I were to lose my memory or if time will slowly let its "thought-of-beauty" fade away, I just want to write this note. Even if I am already falling asleep.
 Today, today of last year matters to me.
 It does not matter whether it mattered to anyone else.
 
@@ -25,4 +25,4 @@ that day. System I, System II speaking. I liked the place, the person, the feeli
 
 It is what it is for now. It was a beautiful memory that gets one through the hardest of days. Now, I've got to live this life I have right now.
 
-COVID-19 sucks. And so does Trump. But if we can make life suck a little less, let's do it. 
+COVID-19 sucks. And so does Trump. But if we can make life suck a little less, let's do it.
