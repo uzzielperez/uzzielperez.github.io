@@ -33,7 +33,7 @@ I think this behaviour is kind of harmful. But I also know that when you're in d
 
 Anyway, in the case of making apologies this is the best crazy ex-girlfriend song - "[You go first](https://www.youtube.com/watch?v=k-anbK8DUOw)".
 
-If you're feeling up to it, you can take some lessons from "[Seth and *insert name of friend here* clear the air](https://www.youtube.com/results?search_query=seth+and+kristen+clear+the+air)". I highly recommend the ones with Kristen Wiig, Fred Armisen and Andy Samberg.
+If you're feeling up to it, you can take some lessons from "[Seth and *insert name of friend here* clear the air](https://www.youtube.com/results?search_query=seth+and+kristen+clear+the+air)". I highly recommend the ones with Fred Armisen, Kristen Wiig and Andy Samberg.
 
 ---
 
