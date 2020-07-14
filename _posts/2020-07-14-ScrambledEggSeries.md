@@ -11,7 +11,7 @@ math: true
 
 ## Knocked out
 
-I think when that directive came out, I was just totally out of it. I felt knocked out. It felt like one punch after another. And it was really hard to get up. I was preparing to pack my bags but I was told to wait it out and so I did. My adviser, our department chair and the international office have been mostly doing the work for me. I did nothing. And then this [news](https://twitter.com/thecrimson/status/1283116935853506560) came.
+I think when that directive came out, I was just totally out of it. I felt knocked out. It felt like it was one punch after another. And it was really hard to get up. I was preparing to pack my bags but I was told to wait it out and so I did. My adviser, our department chair and the international office have been mostly doing the work for me. I did nothing. And then this [news](https://twitter.com/thecrimson/status/1283116935853506560) came.
 
 MUST. FIGHT. EVIL.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We were all worried about Skynet. Meanwhile, nunchuck bears.<a href="https://t.co/ZfGMIkYFl3">pic.twitter.com/ZfGMIkYFl3</a></p>&mdash; Kevin Brackett (@KevinRBrackett) <a href="https://twitter.com/KevinRBrackett/status/1282379703014305792?ref_src=twsrc%5Etfw">July 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
