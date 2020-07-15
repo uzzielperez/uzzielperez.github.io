@@ -23,7 +23,7 @@ We won the battle now. Must recover some energy. Perhaps this would help.
 ## Before I can become a better friend
 
 *How can I become a better friend?*
-It has been my question for a year now since my separation. None of us have perfect childhoods and whatever void, insecurities and expectations we have carried along into our adulthood could be unfairly passed on to the people we thought we care about. So I ask myself, in what ways am I a child? When am I feeling like a child? I can't really do much about the other person. It's not super cute anymore when you're 30+ and you're acting like a child, right? Good luck with propagating your genes.
+It has been my question for a year now since my separation. None of us have perfect childhoods and whatever void, insecurities and expectations we have carried along into our adulthood could be unfairly passed on to the people we thought we care about. So I ask myself, in what ways am I a child? When am I feeling like a child? I can't really do much about the other person. It's not super cute anymore when you're 30+ and you're acting like a child, right? 
 
 I noticed a behaviour, that sometimes I also act out, when someone is hurt or when someone's expectation isn't met. I've learned this fancy term called *[Negative Attribution Theory](https://estherperel.com/blog/how-to-fix-the-fights-youre-sick-of-having)*. For example, if someone was expecting flowers for valentine's day, and I didn't give any "You don't love me! You're a bad lover". But I forking hate valentine's day. We assume that one's character is bad because it didn't meet your expectations.
 
