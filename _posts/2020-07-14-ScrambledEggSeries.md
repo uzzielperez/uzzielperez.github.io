@@ -35,10 +35,6 @@ Anyway, in the case of making apologies this is the best crazy ex-girlfriend son
 
 If you're feeling up to it, you can take some lessons from "[Seth and *insert name of friend here* clear the air](https://www.youtube.com/results?search_query=seth+and+kristen+clear+the+air)". I highly recommend the ones with Fred Armisen, Kristen Wiig and Andy Samberg.
 
----
-
-My next question is, "In what ways am I annoying to live with?". **spaces out**
-
 ## Nirvana is everywhere
 
 To be continued tomorrow....
