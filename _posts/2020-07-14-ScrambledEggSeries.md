@@ -3,7 +3,7 @@ layout: posts
 title: "Scrambled Egg Series"
 categories: Life, Pleasant thoughts series
 author: Uzziel Perez
-meta: "Alienation, defying pressure and defeating evil"
+meta: "Defeating evil and becoming better"
 math: true
 ---
 
