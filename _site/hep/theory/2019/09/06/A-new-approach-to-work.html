@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <body>
+    <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+  <!-- <a class="active" href="/about">About</a> -->
+  <a href="/">Home</a>
+  <!-- <a href="/">Blog</a> -->
+  <a class="link" href="/news/index.html" data-scroll>Posts</a>
+  <a href="https://www.uzzielperez.com/">About</a>
+  <!-- <a href="/">Home</a> -->
+  <a aria-label="My Github" target="_blank" href="https://github.com/uzzielperez"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>  <a aria-label="My Twitter" target="_blank" href="https://twitter.com/uzziesh"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+  <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
+</div>
+
+    <main>
+      <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- <article class="post" itemscope itemtype="http://schema.org/BlogPosting"> -->
+<article class="post">
+  <div class="post-content container"  itemprop="articleBody" style="padding-left: 500px; padding-right: 300px;">
+    <h1> A new approach to work   <a href="https://twitter.com/share" class="twitter-share-button"{count}>Tweet</a></h1>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <p>For the past 10+ years I’ve mostly coded with python. I love python. It’s easy to learn and easy to use. You can write in a few lines what would take several more lines in C++. So I’ve always plotted and wrote my scripts in python. I am two months away from my Preliminary Examination - the final exam before I become called a <em>PhD candidate</em>.</p>
+
+<p>I have been making slow but steady progress over the past month. This past week, things have been accelerating. I’ve been meeting everyday with Conor, my adviser, to talk physics and talk about some ROOT tricks. I think that I have been paying too much attention to the elegance of my code that I have neglected the physics aspect of the research. Not only am I not trying to answer physics questions, I am also not good at asking the right questions. Hopefully, I can improve in this aspect.</p>
+
+<p>The way we comb through data is through a code base called a ExoDiphoton Analyzer. The analyzer I am using is a modified version of my senior’s PhD work, only I had to put a 3rd photon selector. When we run the analyzer on some intermediate data, we get what we call “Ntuples”. Now, the way our code base writes out the information in the ntuples is something that I don’t know how to directly handle with Python. Only recently did I finally accept that doing it with a C++ macro would be a lot faster. I am also learning a lot of ROOT tricks! I still think that ROOT is sometimes a pain in the butt!</p>
+
+<p>Learning how to do things interactively through ROOT helped us test ideas much more rapidly. In that case, ROOT is amazing. I am also happy that most ROOT installations ships with a “linker” to jupyter notebooks. Not sure if that’s the correct term but I like the interactivity. Shorter time-to-physics!</p>
+
+<p>Last Note:</p>
+
+<p>I’ve also been using the pretty nifty <a href="https://atom.io">ATOM</a> text editor for my work recently, whether I’m connected through the Fermilab cluster or just working on my Desktop. Since I am also trying to produce quick results, my code is not overengineered.</p>
+
+  </div>
+</article>
+
+    </main>
+  </body>
+</html>

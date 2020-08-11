@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <body>
+    <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+  <!-- <a class="active" href="/about">About</a> -->
+  <a href="/">Home</a>
+  <!-- <a href="/">Blog</a> -->
+  <a class="link" href="/news/index.html" data-scroll>Posts</a>
+  <a href="https://www.uzzielperez.com/">About</a>
+  <!-- <a href="/">Home</a> -->
+  <a aria-label="My Github" target="_blank" href="https://github.com/uzzielperez"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>  <a aria-label="My Twitter" target="_blank" href="https://twitter.com/uzziesh"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+  <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
+</div>
+
+    <main>
+      <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- <article class="post" itemscope itemtype="http://schema.org/BlogPosting"> -->
+<article class="post">
+  <div class="post-content container"  itemprop="articleBody" style="padding-left: 500px; padding-right: 300px;">
+    <h1> Getting restarted with MadGraph   <a href="https://twitter.com/share" class="twitter-share-button"{count}>Tweet</a></h1>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <p>The main goal of my dissertation is to measure the cross-section of a rare physics process and then later see how well our Monte Carlo methods are able to predict “reality”. One of the best Monte Carlo generators out there that are capable of next-to-leading order calculations is a generator called MadGraph. Here I will show how you can run some simple events in your PC. For more advanced but early PhD researchers, I also document how to produce gridpacks for official MC production. Note that for this project, I also use the Sherpa Event Generator. For that I do not have to start from scratch with documentation on using it. If I have time I’ll try to share how to use that too. Our research group has been using that for years. (I don’t think no one has expertise in using MadGraph in our group and the official documentation is generally terrible for the whole particle physics community.)</p>
+
+<p>I need to learn MadGraph because our “rival” (evil laugh), ATLAS used it for their simulations in an earlier study using 8 TeV data. I need to be able to compare to their results. (Nah, we aren’t really rivals. We just try to work independently and compare our results later. CMS and ATLAS are the two general-purpose detectors in the LHC.)</p>
+
+<h2 id="getting-started-recipe-for-pc-mac-os">Getting Started Recipe for PC (Mac OS)</h2>
+
+<p>You can download a stable tarfile of the program <a href="http://madgraph.phys.ucl.ac.be">here</a>.</p>
+
+<p>Once you untar, you can go to the directory. In my case it was in the Downloads. You have to have python 2 in your system to run it</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="n">cd</span> <span class="o">~/</span><span class="n">Downloads</span><span class="o">/</span><span class="n">MG5_aMC_v2_7_2</span>
+<span class="n">python2</span> <span class="o">./</span><span class="nb">bin</span><span class="o">/</span><span class="n">mg5_aMC</span>
+
+</code></pre></div></div>
+
+<p>You can follow the rest of the instructions from  my previous <a href="https://uzzielperez.github.io/prelim/series/2019/11/03/MadGraphNLO-Feynman-Diagrams.html">post</a> in November.</p>
+
+<h2 id="preparing-gridpacks">Preparing Gridpacks</h2>
+
+<p>I found Brendan Regnery’s “Adventures with Monte Carlo” in a twiki <a href="https://twiki.cern.ch/twiki/bin/view/Sandbox/StandAloneMonteCarloGeneration">page</a>. Unfortunately it isn’t accessible without a CERN log-in. He briefly describes a gridpack as “a tarball (compressed) file that contains a bunch of calculation results stored in away that can be read with cmsdriver.”</p>
+
+<p>To produce gridpack you need a bunch of files. More details <a href="https://twiki.cern.ch/twiki/bin/viewauth/CMS/QuickGuideMadGraph5aMCatNLO">here</a>.</p>
+<ul>
+  <li>MCProcess_process_card.dat - This is where you declare the process to be generated</li>
+  <li>MCProcess_run_card.dat - This is where you define how the generator will run and generate the process with the kinematic cuts</li>
+  <li>MCProcess_extramodels.dat - not required</li>
+  <li>MCProcess_customizecards.dat - not required for SM lagrangians</li>
+</ul>
+
+<p>The <a href="https://twiki.cern.ch/twiki/bin/view/CMS/MadGraphFall13Production#Preparation_of_the_cards">old documentation</a> gives a more verbose description of each card.</p>
+
+<h3 id="quick-recipe-for-gridpack-production">Quick Recipe for Gridpack production</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="n">git</span> <span class="n">clone</span> <span class="n">git</span><span class="nd">@github.com</span><span class="p">:</span><span class="n">cms</span><span class="o">-</span><span class="n">sw</span><span class="o">/</span><span class="n">genproductions</span><span class="o">.</span><span class="n">git</span> <span class="n">genproductions</span>
+<span class="n">cd</span> <span class="n">genproductions</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">MadGraph5_aMCatNLO</span><span class="o">/</span>
+<span class="o">./</span><span class="n">gridpack_generation</span><span class="o">.</span><span class="n">sh</span> <span class="o">&lt;</span><span class="n">name</span> <span class="n">of</span> <span class="n">process</span> <span class="n">card</span> <span class="n">without</span> <span class="n">_proc_card</span><span class="o">.</span><span class="n">dat</span><span class="o">&gt;</span> <span class="o">&lt;</span><span class="n">folder</span> <span class="n">containing</span> <span class="n">cards</span> <span class="n">relative</span> <span class="n">to</span> <span class="n">current</span> <span class="n">location</span><span class="o">&gt;</span>
+
+</code></pre></div></div>
+<h3 id="a-quick-look-at-sample-cards">A Quick look at sample cards</h3>
+
+<p>Before producing the gridpacks, we’ll have to know, or I’ll have to know what should go in the process and run cards. For now, here are some links to some examples:</p>
+<ul>
+  <li>https://github.com/cms-sw/genproductions/blob/master/bin/MadGraph5_aMCatNLO/cards/examples/wplustest_4f_NLO/wplustest_4f_NLO_run_card.dat</li>
+  <li>https://github.com/cms-sw/genproductions/blob/master/bin/MadGraph5_aMCatNLO/cards/examples/wplustest_4f_NLO/wplustest_4f_NLO_proc_card.dat</li>
+</ul>
+
+<p>I’ll be updating this post as I make progress in figuring things out.</p>
+
+<!-- Accessible only with a CERN account.
+https://twiki.cern.ch/twiki/bin/view/Main/YuanChaoMCprod15
+https://twiki.cern.ch/twiki/bin/view/Sandbox/StandAloneMonteCarloGeneration -->
+
+  </div>
+</article>
+
+    </main>
+  </body>
+</html>

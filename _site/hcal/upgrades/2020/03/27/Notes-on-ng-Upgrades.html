@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <body>
+    <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+  <!-- <a class="active" href="/about">About</a> -->
+  <a href="/">Home</a>
+  <!-- <a href="/">Blog</a> -->
+  <a class="link" href="/news/index.html" data-scroll>Posts</a>
+  <a href="https://www.uzzielperez.com/">About</a>
+  <!-- <a href="/">Home</a> -->
+  <a aria-label="My Github" target="_blank" href="https://github.com/uzzielperez"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>  <a aria-label="My Twitter" target="_blank" href="https://twitter.com/uzziesh"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+  <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
+</div>
+
+    <main>
+      <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- <article class="post" itemscope itemtype="http://schema.org/BlogPosting"> -->
+<article class="post">
+  <div class="post-content container"  itemprop="articleBody" style="padding-left: 500px; padding-right: 300px;">
+    <h1> Personal notes on Upgrades for the HCAL   <a href="https://twitter.com/share" class="twitter-share-button"{count}>Tweet</a></h1>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <p>I have been assigned to fix a certain issue. The idea is quite simple. LED light from the physical electronic parts turn on when we configure a run. That causes noise so it has been requested that we turn that off during a run. I talked to some seniors about the relevant files and how I could possibly approach the problem. Quite simple in principle but I need to figure out how the different files go together, and what variables control the LED for the different sections of the HCAL. Sort of… The solution is not very clear in my head yet.</p>
+
+<p>Before I begin sifting through the codebase for relevant files, I just want to review the notes I made before the pandemic started.</p>
+
+<h3 id="an-intuitive-explanation-para-mi">An intuitive explanation para mi</h3>
+
+<p><em>These are notes and might not be very accurate. Am just writing for documentation and for my understanding. Unfortunate that personal blogs don’t have a robust self-correcting mechanism yet. Also, need extra motivation to figure this out. Also, flexing a bit.</em></p>
+
+<p>I talked to our postdoc and he was pretty good at explaining things in a less technical way for someone like me who’s just getting started. I’m just going to write in broad strokes how parts are connected.</p>
+
+<p>The next gen (ng) Clock and Control Module has a server which is some kind of brain that talks to the ng Front End electronics that then talks to the readout box. The software we have is what talks to the the server. We don’t really have direct communication to the Front End electronics.</p>
+
+<p>The server fetches you the register values. For this I’d probably have to edit the ng Read Out box manager source file. Write the registers and commands and test. Still going to figure out this part.</p>
+
+<p>Monitoring stuff are long-lived applications. The “manager” stuff only runs when configuring.</p>
+
+<p>Just want to add  “Configured” means settings for the software are loaded and applied from database. “Running” means ready to receive triggers and readout events.</p>
+
+<p>For bookmarking purposes, I like this concise <a href="https://www.sciencedirect.com/science/article/pii/S240560141500646X">paper</a> on HCAL upgrades written by our postdoc. I should write a more public-friendly version of this next time. It will probably help me understand things more.</p>
+
+  </div>
+</article>
+
+    </main>
+  </body>
+</html>
