@@ -25,6 +25,6 @@ I was for a while pining for my friends in Tuscaloosa. But I also knew that I wi
 
 My forehead hurts. haha. Next time, I won't get so lost in my thoughts while walking.
 
-*Utopia* coming out soon. (~4 hours of audio is kind of hard to edit!) For now here is a bear with its nunchuks.
+*Utopia* coming out soon. (~3 hours of audio is kind of hard to edit!) For now here is a bear with its nunchuks.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We were all worried about Skynet. Meanwhile, nunchuck bears.<a href="https://t.co/ZfGMIkYFl3">pic.twitter.com/ZfGMIkYFl3</a></p>&mdash; Kevin Brackett (@KevinRBrackett) <a href="https://twitter.com/KevinRBrackett/status/1282379703014305792?ref_src=twsrc%5Etfw">July 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
