@@ -17,3 +17,7 @@ This theme was partially designed with the inspiration from these fine folks
 
 ## Making Pro Academic Site
 [Resource](https://sourcethemes.com/academic/docs/get-started/)
+
+## Editing Notes
+
+To edit landing page stuff go to _includes/.
