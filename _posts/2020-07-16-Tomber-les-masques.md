@@ -7,7 +7,7 @@ meta: "Laughing at myself and Nirvana everywhere"
 math: true
 ---
 
-Updated August 15, 2020
+Updated August 18, 2020
 
 Today, I was only able to work 30 minutes. The whole day I was in physical pain because of an arthritis flare up. The last one happened when I had just arrived here at CERN. There are really things I need to change when it comes to work, living and my ways of thinking. I think it is also related to some psychological stress which I think I have gotten a handle on right now. Specially with the US government rescinding the ludicrous directive that puts in peril the visa situations of many international students.
 
@@ -19,9 +19,9 @@ I zone out a lot. I would like to be more present, appreciate and be thankful fo
 
 Sometimes, my idea of laughing at myself seems like I am making fun of other's struggles. I didn't mean to do so. We all cope differently. What I write here are reflections of the things I have been working on personally.
 
-I guess during our worst and rawest days we reveal what we are at the very core. And that core, is a reflection of who we are today and how we've grown over the years. *Tomber les masques*. The masks have fallen.
+I guess during our worst and rawest days we reveal what we are at the very core. And that core, is a reflection of who we are today, how we've grown over the years, and what we still need to work on. *Tomber les masques*. The masks have fallen.
 
-I was for a while pining for my friends in Tuscaloosa. But I also knew that I will be far for a while. The pandemic was a setback. Travel bans abound. While physics is a priority, right now, am also trying a new way of getting work done and also "living". I'm actually on the fun parts, to be honest. Now am feeling a lot better I should close down on Phase II on physics analysis and the latest software issue soon (big chunk finished last week). Hopefully, I will write more physics entries and some more projects that I've been doing lately.
+I was for a while pining for my friends in Tuscaloosa. But I also knew that I will be far for a while. The pandemic was a setback. Travel bans abound. While physics is a priority, right now, am also trying a new way of getting work done and also "living". I'm actually on the fun parts, to be honest. Now am feeling a lot better I should close down on Phase II on physics analysis and the latest software issue soon (big chunk finished last week). Hopefully, I will write more physics entries and some documentation on projects that I've been doing lately.
 
 My forehead hurts. haha. Next time, I won't get so lost in my thoughts while walking.
 
