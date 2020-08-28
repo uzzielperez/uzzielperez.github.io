@@ -7,14 +7,13 @@ meta: "Learning stuff and learning early"
 math: true
 ---
 
-
-While I am working on the nitty gritty of phase II of the dissertation, I've decided to be more *intentional* about learning various aspects of the analysis. My supervisor already told me to do this but I have been a bit haphazard in actually learning these things. Last night, I dipped my feet back again into this murky aspects. So, here are some notes - a preview of things to come. The idea is, I cannot leave the learning of these relatively foreign concepts to the end or to when I only need them. In fact, for sure, I will need them.
+While I am working on the nitty gritty of phase II of the dissertation, I've decided to be more *intentional* about learning various aspects of the analysis. My supervisor already told me to do this but I have been a bit haphazard in actually learning these things. Last night, I dipped my feet back again into these murky aspects. So, here are some notes - a preview of things to come. The idea is, I cannot leave the learning of these relatively foreign concepts to the end or to when I only need them. In fact, for sure, I will need them.
 
 ## Unfolding
 
 Particle physics experiments usually collect data on various variables like invariant mass, energy, transverse momentum and so on. The information we get from these variables often undergo a pipeline of algorithms designed to make sure that we're getting the "best" information possible given the fact that detectors are not perfect. When we collect data, we get them in the form of histograms. For a range of values, let's say a particle with energy from 0-100 GeV, we can count how many falls in that range. That range is called a bin, like a container. And then we count how many falls in the 100-200 GeV range and so on. And then we form a histogram.
 
-Each bin has an associated statistical uncertainty in them. Usually $$\sqrt(N)$$, where N is the number of the bin contents (Poisson statistics where each bin are independent). Apart from these random statistical fluctuations you have to consider the finite resolution, the reconstruction efficiency, and the acceptance of the detector. (Reconstruction efficiency - e.g. ratio of how much of the actual photons are being "labeled as photons" over the total number of actual photons. Acceptance - one could think of the spatial or geometrical range or coverage of the detector or the energy range that a detector could actually detect. E.g. detectors have a minimum threshold requirement before they could register some signal). So, the histograms themselves aren't "true representations" of the distributions of the variables we're looking at. So what do we do?
+Each bin has an associated statistical uncertainty in them. Usually $$\sqrt{N}$$, where N is the number of the bin contents (Poisson statistics where each bin are independent). Apart from these random statistical fluctuations you have to consider the finite resolution, the reconstruction efficiency, and the acceptance of the detector. (Reconstruction efficiency - e.g. ratio of how much of the actual photons are being "labeled as photons" over the total number of actual photons. Acceptance - one could think of the spatial or geometrical range or coverage of the detector or the energy range that a detector could actually detect. E.g. detectors have a minimum threshold requirement before they could register some signal). So, the histograms themselves aren't "true representations" of the distributions of the variables we're looking at. So what do we do?
 
 We can have from Monte Carlo (MC) methods an assumption $$f^{model}(t)$$ of the true distribution $$f(t)$$. And from there we can work our way through our expected measured distribution $$g(s)$$ if we know the acceptance, efficiency and so on. It's the other way around, the inverse process of getting the true distribution $$f(t)$$ from the measured $$g(s)$$ that is difficult.
 
@@ -34,6 +33,8 @@ When we measure things, let's say with a ruler or a weighing scale, there's a le
 In particle physics, there are a bunch of things to consider and things can be very complex. So this part is usually done at the end of the analysis.
 
 From the same book, here are things to keep in mind as sources of systematic uncertainties: detector efficiencies/acceptances, trigger efficiencies, detector calibrations and resolutions, background, uncertainties in theoretical models and monte carlo simulations, uncertainties in input parameters like luminosity, cross-sections. More difficult to quantify are the following: personal biases and computational and software errors.
+
+One can look at the systematic uncertainties on the diphoton paper that our group worked on before - [Phys. Rev](https://arxiv.org/abs/1809.00327). 
 
 # When feeling lost and overwhelmed
 
