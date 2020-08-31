@@ -55,4 +55,4 @@ I'd like to share the happy place I imagine when I'm feeling in distress. It has
 At least for this field, not necessarily for other creative fields:
 > **Peace of mind is the most important prerequisite for creative work.” - Richard Feynman**
 
-And realistically, with family life and the world we live in, "Peace of mind" is hard to achieve. But we can try to find a process or a way to feel it. Will keep on learning.
+And realistically, for some people with family life, other issues and the world we live in, "Peace of mind" is hard to achieve. But we can try to find a process or a way to feel it. Will keep on learning.
