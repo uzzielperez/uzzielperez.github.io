@@ -56,3 +56,5 @@ At least for this field, not necessarily for other creative fields:
 > **Peace of mind is the most important prerequisite for creative work.” - Richard Feynman**
 
 And realistically, for some people with family life, other issues and the world we live in, "Peace of mind" is hard to achieve. But we can try to find a process or a way to feel it. Will keep on learning.
+
+If you are having trouble with crippling anxiety or trauma and the wounds or issues run deep... it is ok to ask for help. I know sometimes, it is hard to find someone to ask or trust but it's always a good first step to just try and find someone whom you could safely talk to. 
