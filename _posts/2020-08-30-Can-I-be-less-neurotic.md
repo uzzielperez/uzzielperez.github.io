@@ -51,5 +51,5 @@ Recently, I've also not been drinking that much Coke or eating that many chocola
 
 I'd like to share the happy place I imagine when I'm feeling in distress. It has always the mountains that grounds me or centers me. Recently, it has been my memory of biking around Crozet, seeing the sun set behind the Jura, the pink skies with the Mont Blanc and other mountain peaks at the opposite side and just feeling the cool breeze.. It felt really peaceful. I've not felt this peace for a long time. And then I tap my heart. There's something about feeling the beat of my own heart that calms me down and makes me feel better. :) I want to see if the treatment is robust and will withstand familiar and even slightly unfamiliar challenges.
 
-At least for this field, and necessarily for other creative fields:
+At least for this field, not necessarily for other creative fields:
 > **Peace of mind is the most important prerequisite for creative work.” - Richard Feynman**
