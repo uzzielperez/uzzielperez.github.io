@@ -47,9 +47,12 @@ One promising clinical treatment is called [EMDR](https://www.emdr.com/what-is-e
 
 The same treatment has been used for people who have addiction issues. Usually addiction to harmful substances or certain maladaptive behaviours have been the only way some people could get by. Although, I do not drink alcohol or do drugs, I do have some other behaviours that I wouldn't categorize as healthy. Just as a light example, during the height of the lockdown I gorged chocolates and drank bottles of Coke Zero. (Maybe one time I drank a wee bit of alcohol and passed out. Was down an entire day. So not a source of pleasure for me at all.)
 
-Recently, I've also not been drinking that much Coke or eating that many chocolates. I've no strong need to play upbeat music just to cheer me up. And I massively reduced social media use to less than an hour per week. I've uninstalled the apps. I only peek like twice a week. The compulsion to check is close to nil. Am just looking to keep up with the people I care about or share some videos or photos once-in-a-while. I've unfollowed many accounts so that only those I truly care about would appear on my feed whenever I do log in.
+Recently, I've also not been drinking that much Coke or eating that many chocolates. I've no strong need to play upbeat music just to cheer me up. And I massively reduced social media use to less than an hour per week. I've uninstalled the apps. I only peek like twice a week. The compulsion to check is close to nil. Am just looking to keep up with the people I care about or share some videos or photos once-in-a-while. I've unfollowed many accounts so that only those I truly care
+about would appear on my feed whenever I do log in.
 
 I'd like to share the happy place I imagine when I'm feeling in distress. It has always the mountains that grounds me or centers me. Recently, it has been my memory of biking around Crozet, seeing the sun set behind the Jura, the pink skies with the Mont Blanc and other mountain peaks at the opposite side and just feeling the cool breeze.. It felt really peaceful. I've not felt this peace for a long time. And then I tap my heart. There's something about feeling the beat of my own heart that calms me down and makes me feel better. :) I want to see if the treatment is robust and will withstand familiar and even slightly unfamiliar challenges.
 
 At least for this field, not necessarily for other creative fields:
 > **Peace of mind is the most important prerequisite for creative work.” - Richard Feynman**
+
+And realistically, with family life and the world we live in, "Peace of mind" is hard to achieve. But we can try to find a process or a way to feel it. Will keep on learning.
