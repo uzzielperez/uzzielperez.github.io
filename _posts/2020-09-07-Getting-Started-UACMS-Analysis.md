@@ -8,7 +8,7 @@ math: true
 ---
 
 WIP: As of September 7, 2020
-Live Session on September 11.
+Live Workshop Session on September 11.
 
 ## Introduction
 
