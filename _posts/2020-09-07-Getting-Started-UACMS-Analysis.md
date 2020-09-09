@@ -43,8 +43,9 @@ WARNING: Developer's area is created for non-production architecture slc7_amd64_
 ```
 It doesn't matter because we're not in the business of producing central MC samples. So you can safely ignore this.
 
-
+If you have github set up:
 ```python
+# If you have github set up might you can see the full analyzer here
 git clone git@github.com:uzzielperez/UACMS-Getting-Started.git
 # This directory acts as the subsystem area
 cd UACMS-Getting-Started/
@@ -52,6 +53,9 @@ mkedanlzr YourName_Analyzer # Replace YourName with your name
 ```
 
 You can actually try to do tab completion and see a suite of commands that includes `mke`. The `mkedanlzr` will create you a skeleton of an EDAnalyzer. You can just add some stuff to it depending on the information you need.
+
+If you are using a virtual machine or a docker image for the CMS Open data you'll probably be working with `CMSSW_5_3_32/src`. So just do the same as above except for `export SCRAM_ARCH=slc7_amd64_gcc820` and you can follow along the tutorial. At this point things won't depend much on the CMSSW version until we get to the Photon ID.
+
 
 Now, compile the code:
 
@@ -284,7 +288,7 @@ process.GlobalTag = GlobalTag(process.GlobalTag, '102X_upgrade2018_realistic_v18
 In making plots, ROOT documentation and the ROOT forum are your best friends. For now, I'll provide a basic plotter to for you to learn how to access the information in the Ntuples. You can make some cuts, add legends and so on.
 
 
-### MakeClass (WIP)
+### MakeClass Setup
 
 There's a nice and set up way to loop over the events and make the cuts you want. To set it up, do the following:
 
@@ -319,7 +323,7 @@ int analyze(){
 
 You can run this by doing `root -l analyze.C`. Since there's nothing set up yet you'll just get zero. Now let's make some cuts, special histograms and plots.
 
-#### Make Real and Fake Templates (?) with the MakeClass
+#### Filling histograms and Adding Selections in Script
 WIP
 
 ### Python Prettifying
