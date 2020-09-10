@@ -12,9 +12,11 @@ Live Workshop Session on September 11.
 
 ## Introduction
 
+The full tutorial is found in [GitHub](https://github.com/uzzielperez/UACMS-Getting-Started).
+
 The tutorials here are in general useful to get started with CMS Data Analysis. However, the format of the Analyzer follows the general format we've always used under Henderson group. There are other ways of storing information and retrieving them and the differences are not difficult to learn. We like to store the physics quantities we need on the tree, even if they're derived ones like the invariant mass. I owe a lot of my technical analyzer knowledge to Andrew Buccilli, the first person who graduated with particle physics PhD in our group! I hope I can help with the same level of generosity and coolness that he had. :)
 
-If you haven't already gone through these, Dr. Henderson has a series of Getting Started tutorials on ROOT and C++ [here](http://chenderson.people.ua.edu/getting-started-with-cms.html).
+If you haven't already gone through these, Dr. Henderson has a series of Getting Started tutorials on ROOT and C++ [here](http://chenderson.people.ua.edu/getting-started-with-cms.html). There is also an old but nice tutorial on Physics Analysis Tools in this [link](http://people.physics.tamu.edu/kamon/research/CMS/CMS_meetings/2008/080515_PATintro.pdf).
 
 If you have any questions you can contact me on mattermost (which is like Slack only free and better :P).
 
@@ -23,7 +25,10 @@ You can find several tutorials in the CMSSW Workbook in twiki for additional inf
 - [Analyzer](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookWriteFrameworkModule)
 - [PhotonAnalysis](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookPhotonAnalysis)
 
-#### Homework: Read on Data Tiers and Data Formats like miniAOD
+#### Homework: Read on Data Tiers and Data Formats like miniAOD/nanoAOD
+
+Here's the paper on the [MiniAOD](https://iopscience.iop.org/article/10.1088/1742-6596/664/7/072052/pdf). The word mini means it's a smaller version of a larger dataset. This contains some "derived" physics quantities which majority of physics users are interested in. Most analyzers use this lighterweight version and in fact, people are starting to move on to nanoAOD. The disadvantage is that with these smaller datasets we are potentially throwing away some useful information for "finer" studies. In that case, you would have to request for the AOD version to be kept on disk. (You'd usually know if the dataset had been kept on TAPE).
+
 
 ## Making an Analyzer (on MiniAOD data)
 
@@ -221,10 +226,33 @@ There are two ways we can go about this. Once we've stored the quantities we nee
 
 #### Exercise: Add some selections in the Analyzer
 #### Exercise: Make your own selections in the MakeClass script
-Will give a template for this later. The MakeClass allows you to loop over all the events in the ntuples, make some selections which you can store in a new ROOT file. WIP
+Will give a template for this later. The MakeClass allows you to loop over all the events in the ntuples, make some selections which you can store in a new ROOT file.
 
 #### VID using RecoEGammaTools
 I've added some new members in the PhotonInfo_t struct that will allow us to store if the photons passed the Loose, Medium, Tight standard cut-based E-gamma ID. It's pretty straightforward to add the information to the struct.
+
+```python
+struct PhotonInfo_t{
+  double pt;
+  double eta;
+  double phi;
+  double E;
+  bool isPassLoose;
+  bool isPassMedium;
+  bool isPassTight;
+};
+```
+
+The branch definitions should also be updated. Make sure the booleans are stored last. It's some weird ROOT thing.
+
+
+```python
+fTree->Branch("Photon1", &fPhoton1, "pt/D:eta:phi:E:isPassLoose/B:isPassMedium:isPassTight");
+fTree->Branch("Photon2", &fPhoton2, "pt/D:eta:phi:E:isPassLoose/B:isPassMedium:isPassTight");
+```
+
+
+
 
 Now, we also need to setup the egamma post reco tool in the python config.
 
@@ -324,13 +352,55 @@ int analyze(){
 You can run this by doing `root -l analyze.C`. Since there's nothing set up yet you'll just get zero. Now let's make some cuts, special histograms and plots.
 
 #### Filling histograms and Adding Selections in Script
-WIP
 
-### Python Prettifying
-WIP
+Simple Tasks:
 
-## Scaling up! Submitting to CRAB
-WIP
+* Compare the genPhotons (Monte Carlo simulated photons) and the patPhotons.
+* Get the Loose Photon Selection Efficiency for the patPhotons
+  - First Store all the patPhotons
+  - Create a separate histograms for the patPhotons that passed the Loose Photon Selection
+  - Create a ratio plot
+
+In the Make Class script `FirstAnalysis.C`, define the histograms you want to fill, make the selections necessary, fill them and write them onto a ROOT file. You can make pretty plots from them directly but I usually have another step where I use a python or another script to prettify them.
+
+Let's do genPho1 pt vs patPho1 first. After the line `Long64_t nentries = fChain->GetEntriesFast();`.
+
+```python
+# Create Hist with min pT 0 and max 100, with 20 bins.
+TH1D* genPho1Pt = new TH1D("genPho1Pt", "", 20, 0, 100);
+TH1D* patPho1Pt = new TH1D("patPho1Pt", "", 20, 0, 100);
+TH1D* patPho1PtLoose = new TH1D("patPho1PtLoose", "", 20, 0, 100);
+```
+
+We fill these histograms in the event loop:
+
+```python
+Long64_t nbytes = 0, nb = 0;
+for (Long64_t jentry=0; jentry<nentries;jentry++) {
+   Long64_t ientry = LoadTree(jentry);
+   if (ientry < 0) break;
+   nb = fChain->GetEntry(jentry);   nbytes += nb;
+   // if (Cut(ientry) < 0) continue;
+
+   genPho1Pt->Fill(genPhoton1_pt);
+   patPho1Pt->Fill(Photon1_pt);
+
+   // Selections
+   if (Photon1_isPassLoose) patPho1PtLoose->Fill(Photon1_pt);
+
+}
+
+```
+
+Then let's write out the histograms outside of this event loop.
+
+```python
+TFile file_out("Kinematics.root", "RECREATE");
+genPho1Pt->Write();
+patPho1Pt->Write();
+patPho1PtLoose->Write();
+ ```
+Then, we can run with `root -l analyze.C`
 
 ## Envisioned Next session or just homework
 
@@ -338,8 +408,11 @@ As for the next session, we can follow up in two or three week's time on what we
 
 We'll use the [repository](https://github.com/uzzielperez/UACMS-Getting-Started) to pull changes, make branches, and submit a Pull Request.
 
+- Scaling up and submitting crab jobs
 - Learning Git (setting up git as homework)
 - Accessing eos
+
+And maybe these things we can discuss offline. 
 - Generating your own Pythia Events
 - Playing with CMS Open Data
 
