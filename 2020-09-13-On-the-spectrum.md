@@ -36,4 +36,4 @@ Yesterday was my last session with him for technical reasons. I felt sad.... We 
 
 -----
 
-Rebooting... Thank you, man. Apir!
+Rebooting...
