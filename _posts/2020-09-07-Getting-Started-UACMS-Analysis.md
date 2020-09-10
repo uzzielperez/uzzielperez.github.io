@@ -7,9 +7,6 @@ meta: "Tutorials to get started with the UA CMS group"
 math: true
 ---
 
-WIP: As of September 7, 2020
-Live Workshop Session on September 11.
-
 ## Introduction
 
 The full tutorial is found in [GitHub](https://github.com/uzzielperez/UACMS-Getting-Started).
@@ -412,7 +409,7 @@ We'll use the [repository](https://github.com/uzzielperez/UACMS-Getting-Started)
 - Learning Git (setting up git as homework)
 - Accessing eos
 
-And maybe these things we can discuss offline. 
+And maybe these things we can discuss offline.
 - Generating your own Pythia Events
 - Playing with CMS Open Data
 
