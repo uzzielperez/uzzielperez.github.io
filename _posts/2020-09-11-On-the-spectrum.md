@@ -40,4 +40,4 @@ It feels like a [loss](https://www.brainpickings.org/2020/08/23/david-eagleman-l
 -----
 Bye, man.. Thanks for helping with the deep rewiring. And thanks for heartily laughing at my jokes.
 
-Ready to reboot.
+Ready to reboot and rewire part 2.
