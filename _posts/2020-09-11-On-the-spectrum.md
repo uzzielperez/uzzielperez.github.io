@@ -36,8 +36,3 @@ And in typical "aspie" fashion he said the reason they exist is that people are 
 Yesterday was my last session with him for technical reasons. I felt sad.... emotional. We ended early, 15 minutes before the hour because I left my laptop charger. But then after we ended I found a spare in my office. All I could think was, I wish I had found that cord and so we could have had more time....
 
 It feels like a [loss](https://www.brainpickings.org/2020/08/23/david-eagleman-livewired-drug-withdrawal-heartbreak/) when someone who had helped positively shape you somehow no longer becomes a regular part of your life. But that is life and I feel like that gorilla baby that's just been released back to the wild.
-
------
-Bye, man.. Thanks for helping with the deep rewiring. And thanks for heartily laughing at my jokes.
-
-Ready to reboot and rewire part 2.
