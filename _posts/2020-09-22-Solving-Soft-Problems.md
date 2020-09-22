@@ -3,7 +3,7 @@ layout: posts
 title: "Solving Problems: Deconstructing Loneliness"
 categories: Life
 author: Uzziel Perez
-meta: "Answering some questions on loneliness, work, "
+meta: "Answering some questions on loneliness, work, and presence vs nexting"
 math: true
 ---
 
