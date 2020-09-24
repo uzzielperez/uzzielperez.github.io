@@ -34,7 +34,7 @@ For security issues and for when we have to look up some datasets over the [CMS 
 ### Using your grid certificate
 Copy the certificate to the computer where you will run `voms-proxy-init`
 
-```bash
+```python
 scp myCert.p12 username@cmslpc-sl7.fnal.gov:~/.globus
 # and/or
 scp myCert.p12 username@lxplus.cern.ch:~/.globus
@@ -62,7 +62,7 @@ voms-proxy-init -voms cms -rfc
 
 You should get something like this
 
-```
+```python
 Enter GRID pass phrase:
 Your identity: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=username/CN=78323/CN=User Name Here
 Creating temporary proxy ...................................................................... Done
