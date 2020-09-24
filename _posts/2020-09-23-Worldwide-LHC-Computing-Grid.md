@@ -7,7 +7,7 @@ meta: "How to obtain a grid certificate. UACMS Getting Started (Part II)"
 math: true
 ---
 
-It would be nice if each year or new cycle of students come they could have a similar walkthrough and just update this github repo.
+It would be nice if each year or new cycle of students come they could have a similar walkthrough and just update this [github repo](https://github.com/uzzielperez/UACMS-Getting-Started) by submitting a Pull Request.
 
 My grid certificate expired and the documentation on the obtaining or renewing a grid certificate makes me feel overwhelmed so I've decided to point to the important parts of the documentation here. The full tutorial is in GitHub. I'll also discuss some fascinating things about the Worldwide Computing Grid and some practical know-hows on how to submit jobs with it (the way I usually do it).
 
