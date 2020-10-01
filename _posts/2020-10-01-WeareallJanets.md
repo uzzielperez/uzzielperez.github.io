@@ -25,7 +25,7 @@ Perhaps one of the most important things that I did (that I can share), was to r
 
 *Note: I'm sorry for those I didn't let cry just because I became for a time judgmental of my own crying.*
 
-(Sometimes, I also just leave my computer and just lie on my bed/take a shower if I'm stuck with a problem... And miraculously, in **doing nothing** *the solution comes to me* like I'm accessing this weird part of my brain where things just connect. There's a reason why if you're a theoretical physicist/mathematician or just a physicist that lying down on a couch with your eyes closed counts as work! ) 
+(Sometimes, I also just leave my computer and just lie on my bed/take a shower if I'm stuck with a problem... And miraculously, in **doing nothing** *the solution comes to me* like I'm accessing this weird part of my brain where things just connect. There's a reason why if you're a theoretical physicist/mathematician or just a physicist that lying down on a couch with your eyes closed counts as work!)
 
 # Defaulting
 
