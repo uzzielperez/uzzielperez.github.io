@@ -13,7 +13,7 @@ While these things have personally helped me each cycle of getting up, there was
 
 Anyway, simple sayings like "let bygones be bygones" do help and simplify things, but it doesn't really help if we want to truly heal from something or someone that had hurt us and/or made us angry. I am healing from a difficult and hurtful separation. (Am now divorced) Which I think is connected to multiple things in my life. I recognize that I need to heal that first and it will heal the many other things it is connected to. I do recommend listening to this NPR podcast from Life Kit on "[Why forgiveness actually heals you](https://open.spotify.com/episode/2hsbSwPUt43F43YBrUpsI2?si=ph6rZtsNS4qyy81w5XBQSg)".
 
-An important note to myself after revisiting my own personal history is that it feels like I've time-travelled to 2014, only the number and the surrounding personnel changed. And I'm changing my course of action. I am spending a lot of time to know myself first - my behavioural/thought patterns, numbing/attachment patterns, my choices in life, my limits and my own superpowers.
+An important note to myself after revisiting my own personal history is that it feels like I've time-travelled to 2014, only the number and the surrounding personnel changed. And I'm changing my course of action. I am spending a lot of time knowing myself first - my behavioural/thought patterns, numbing/attachment patterns, my choices in life, my limits and my own superpowers.
 
 # Habits
 
