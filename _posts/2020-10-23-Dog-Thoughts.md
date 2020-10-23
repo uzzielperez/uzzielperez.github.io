@@ -7,7 +7,7 @@ meta: "Thoughts while walking home which are ok to share."
 math: true
 ---
 
-The past few night where I was getting home past midnight were the kind of "tired but satisfied" kind of nights. But I think, this would be the last night as I have requested for a break or a "slowing down". I think it's reasonable as I've made some progress on things. Still behind our original timeline but am trying to live that "presence over productivity" principle from Alan Watts. It has made a key difference in how I live and work.
+The past few nights where I was getting home past midnight were the kind of "tired but satisfied" kind of nights. But I think, this would be the last night as I have requested for a break or a "slowing down". I think it's reasonable as I've made some progress on things. Still behind our original timeline but am trying to live that "presence over productivity" principle from Alan Watts. It has made a key difference in how I live and work.
 
 But tonight's thoughts were sort of different. I had asked myself "*What if I had a dog?*". I would like to have a dog. A dog gives you company, is normally attuned to your emotions, both positive and negative. Would having a dog make the quality of my life much better than it is now? I imagined how it can but I also imagined the responsibility of owning and taking care of one.
 
