@@ -37,7 +37,7 @@ If we didn't know our limits, we will injure ourselves. If we didn't set our bou
 
 When we take care of ourselves, when we're happy, when we're healthy, we're better friends, we work better, we're better humans. And having that peaceful demeanor, being less irritable is somehow contagious. If we want to change and improve ourselves, we somehow also need to change the world.
 
-Self-care - being able to sleep 8 hours, being able to rest, eat healthy food, play and engage in creative pursuits are only enabled or disabled by the complex social system we live in, our communities and also the people that are closest to us. If we take care of each other, we are also somehow taking care of our own selves. This is paraphrased from Brené Brown's podcast with Emily and Amelia Nagoski on Burnout and [How to Complete the Stress Cycle](https://open.spotify.com/episode/57lSXDGL5qiGCu1BWwHXJU?si=q7YLI5LETVK8i1vkvVWyRg).
+Self-care - being able to sleep 8 hours, being able to rest, eat healthy food, play and engage in creative pursuits are only enabled or disabled by the complex social system we live in, our communities and also the people that are closest to us. If we take care of each other, with healthy boundaries, we are also somehow taking care of our own selves. This is paraphrased from Brené Brown's podcast with Emily and Amelia Nagoski on Burnout and [How to Complete the Stress Cycle](https://open.spotify.com/episode/57lSXDGL5qiGCu1BWwHXJU?si=q7YLI5LETVK8i1vkvVWyRg).
 
 Anyway, I think I'm shaping myself up to be a dog or cat owner. Let's see. :)
 That'd be pretty close to becoming my ideal self and having an ideal world.
