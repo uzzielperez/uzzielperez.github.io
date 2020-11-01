@@ -9,6 +9,8 @@ math: true
 
 *For the moments not caught on camera, by photo or video, there are those snapshots made by the mind. They have a higher-definition. I can't plug my brain through USB and upload to Instagram. And that's what makes them even more special. Because, I was fully present.*
 
+*Memories allow us to go against time's arrow.*
+
 Sunday, September 7, 2020
 
 I was at the Zermatt Station, eating french fries. I missed the train back home. Or how would I explain it? I dropped my Swiss Pass card, explained to the driver that I had lost it in the mountains. I really did drop it there! I showed my supposed ticket with the "Halb-tax" and "whoops, I bought the wrong one". Hence, I needed to buy a new one, for the full price, for 100 CHF. Smart. It was a Sunday so I couldn't get myself a replacement card in the ticket office.
