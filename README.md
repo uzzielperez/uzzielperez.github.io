@@ -21,3 +21,4 @@ This theme was partially designed with the inspiration from these fine folks
 ## Editing Notes
 
 To edit landing page stuff go to _includes/.
+Archive
