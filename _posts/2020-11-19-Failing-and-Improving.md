@@ -46,5 +46,5 @@ Anyway, I think I'm shaping myself up to be a dog or cat owner. Let's see. :)
 That'd be pretty close to becoming my ideal self and having an ideal world.
 
 P.S. Happiness is not a default feeling. Ironically when we are also less judgemental of our sadness, anger and whatever non-happy emotions we feel, happiness does come around.
-
-
+What I really wanted to end with though is this: "I haven't found a particle yet, but at least I found myself!"
+Damn, I should stop it with this insufferable self-discovery jokes. Nah. 
