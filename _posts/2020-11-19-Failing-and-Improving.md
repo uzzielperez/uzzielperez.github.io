@@ -51,4 +51,6 @@ What I really wanted to end with though is this: "I haven't found a particle yet
 
 Damn, I should stop it with this insufferable self-discovery jokes. 
 
-Nah. 
+Nah. And, truth be told, I still have a lot to figure out.  
+
+ 
