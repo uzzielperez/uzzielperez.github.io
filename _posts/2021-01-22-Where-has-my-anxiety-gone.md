@@ -13,7 +13,7 @@ math: true
 I joined a self-rescue mask training last Monday. It was a training on how to put on a mask that will give you oxygen for 30 minutes in case
 there was an accident in the LHC tunnel. The goal for this training was to be able to put on the mask in proper sequence within 40 seconds (or else you could die)!
 Before COVID-19, the training was done in a simulation tunnel complete with the alarm sounds, and the red lights turning on and off, and a smoke machine! You'd have to be able to put the mask
-on within 40 seconds with all those realistic conditions.
+on within 40 seconds with all those realistic conditions and in the dark!
 
 Before the training, I went to see my psychologist/psychiatrist to discuss my progress. I was feeling quite ok for the past month or so. I was feeling so fine that I'm getting a little nervous sometimes about where my constant monkey friend had gone to. He told me then it means you're probably no longer feeling it for the wrong reasons or it's good you're not feeling it even when objectively there's no danger. The following day I realized I had lost my credit card (ack), had to move to a new place, figure out how to get money, figure out how to get to Self-rescue mask course. I have been practicing taking good care of myself but it felt impossible to turn-off the problem-solving mind for about 4 days. And when I've solved the problems, essentially removed the stressors, the effect on the body still lingers. The phenomenon is amazing. How getting rid of the stressor is a separate step from taking care of the physiological after effects.
 
