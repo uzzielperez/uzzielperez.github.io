@@ -19,6 +19,7 @@ There's a Buddhist saying that "the root of suffering is attachment". But there 
 
 It is also this finiteness and imperanence of time that I have been practicing to be fully present - to my work, for myself when I need it, and for the people I love. I know that I won't have moments with them forever, so I try, as much as possible make the most out of the short moments, the finite time that we have. In that way, I barely regret anything. But when I do, regret and wish I could turn back time, it was because I wish I didn't behave in a certain way. And I only realize that I had some patterns that I wanted to deeply fix because I'll find myself in the same situation, with the same feeling of loss and hurt. I realize that the intensity of the loss was what taught me a lesson. It was the intensity of the loss that drove me to really work deeply on myself, on the things that I wanted to change - like learning how to love, nourishing my own happiness by diversifying my euphoria sources (so I don't get addicted to people), and instead give joy to others.
 
+Side Note:
 *“To love without knowing how to love wounds the person we love.”* -Thich Nhat Hanh
 When I first got into therapy, I realized I didn't know [how to love](https://www.brainpickings.org/2015/03/31/how-to-love-thich-nhat-hanh/) and that was one of the root causes of my own feeling of disconnection.
 
