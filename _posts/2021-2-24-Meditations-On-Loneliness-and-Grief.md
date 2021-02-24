@@ -21,6 +21,7 @@ It is also this finiteness and imperanence of time that I have been practicing t
 
 Side Note:
 *“To love without knowing how to love wounds the person we love.”* -Thich Nhat Hanh
+
 When I first got into therapy, I realized I didn't know [how to love](https://www.brainpickings.org/2015/03/31/how-to-love-thich-nhat-hanh/) and that was one of the root causes of my own feeling of disconnection.
 
 A lot of people felt loneliness and grief in an unprecedented intensity with the COVID-19 pandemic. That includes me. And so I read in addition to books on addiction, codependency, a book on Art Therapy which deals with complicated grief. A part of the book details the beginning of grief from someone who is still alive but has lost his or her memory. Somehow, the person is no longer the same person that you've come to know and love. That person is confused, doesn't know who they are. The emotional carnage coming from that struck me. I am reminded of my own memories about the people that I keep sacred in my brain, the people that I continue to love, and the people that I lost - and how they're always a part of me. Erasing my memories, specially the ones I treasure, would be like erasing who I am. I would not deprive anyone of the same right to want to keep memories of people that were once part of their life or even depriving them of their want to stay connected with someone.
