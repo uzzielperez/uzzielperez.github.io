@@ -8,6 +8,7 @@ math: true
 ---
 
 March 6, 2021
+
 Updated Link to TiwalaPH, March 8, 2021
 
 I think around September last year I was looking to buy a cheap bike so I can just commute to and from work and bike around and explore Geneva more. I didn't want to enroll in a Gym because of COVID even if it was a surefire way of meeting more people. My friend pointed me to a facebook sale. The bike looked good and they were selling it for 50 CHF. So I set an appointment, went to the appointment the following day and I was right on the spot, on the dot.
