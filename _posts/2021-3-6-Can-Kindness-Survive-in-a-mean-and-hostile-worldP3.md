@@ -9,7 +9,7 @@ math: true
 
 March 6, 2021
 
-Updated Link to TiwalaPH, March 8, 2021
+Updated Link to TiwalaPH and some notes on behaviors, March 8, 2021
 
 I think around September last year I was looking to buy a cheap bike so I can just commute to and from work and bike around and explore Geneva more. I didn't want to enroll in a Gym because of COVID even if it was a surefire way of meeting more people. My friend pointed me to a facebook sale. The bike looked good and they were selling it for 50 CHF. So I set an appointment, went to the appointment the following day and I was right on the spot, on the dot.
 As I was waiting for a response from the owner, there was a beautiful lady smiling at me (and I was wondering why). My heart skipped a beat when I saw another man drive away with the bike that looked exactly like the bike advertised on facebook! **FACDAda=sadsfsadfjshfl** I said. Then the lady and her boyfriend told me, without a hint of guilt and with wide smiles on their faces "Désolé, le vélo a été vendu". There was no sincerity in the sorry at all!!! For me, it felt like they were happy they tricked someone! I told them, in a calm tone "Why didn't you tell me earlier?". I felt a bit of rising anger inside me but I knew that blowing off wouldn't do me any good. They just replied back in English, "Because we didn't know if he was coming or not." Still with smiles on their faces. I felt bad and walked away.
@@ -24,6 +24,8 @@ There's this super creative Canadian indie game developer, named [Nicky Case](ht
 
 I think that whenever I feel like a loser sometimes and feel confused, "should I be deceptive, mean and angry" (to be feared and respected and feel like a winner?) or "should I trust and be naive", I always try to come back to this Radiolab podcast to ground me. And then I ask myself, *What are the values you want to propagate into the world?*. Being mindful of my answer, and also the reality that the world still has people who don't believe in the same thing as you do... gives me some clarity on how I can move through the world. As the Obama's always say, think of "*the world as it is, and the world as it should be*".
 
-What this game theoretical evolution of trust and kindness tells me is that, people have memory. Over time, "the good folks" will find each other. And if you play Nicky Case's game, you'd find how we could help the "good behaviours" propagate and eliminate the "bad ones".
+What this game theoretical evolution of trust and kindness tells me is that, people have memory. Over time, "the good folks" will find each other. And if you play Nicky Case's game, you'd find how we could help the "prosocial behaviors" propagate over the "deceptive" ones.
 
 P.S. I've been listening to so many podcasts on my breaks, I need to dump out my thoughts somewhere or else I'm going to go looney XD I met some nice folks in CMS P5 yesterday during my shift that I thought of writing this... How they treated me well as a first-time Technical shifter, which has a story that I'll also include in the final podcast episode! Really promoting the final episode!
+
+Another P.S.: I think it is important for me to clarify that I am not the ultimate arbiter of what is right or wrong, or what is good or bad. But I think we all do have some sense of what "agreeable and cooperative behaviors" are although they might still differ in various cultural contexts. 
