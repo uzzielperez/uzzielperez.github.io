@@ -29,3 +29,5 @@ What this game theoretical evolution of trust and kindness tells me is that, peo
 P.S. I've been listening to so many podcasts on my breaks, I need to dump out my thoughts somewhere or else I'm going to go looney XD I met some nice folks in CMS P5 yesterday during my shift that I thought of writing this... How they treated me well as a first-time Technical shifter, which has a story that I'll also include in the final podcast episode! Really promoting the final episode!
 
 Another P.S.: I think it is important for me to clarify that I am not the ultimate arbiter of what is right or wrong, or what is good or bad. But I think we all do have some sense of what "agreeable and cooperative behaviors" are although they might still differ in various cultural contexts. 
+
+Another P.S. I had to check if I misgendered Nicky Case. He had expressed a lack of preference for any pronoun but he identifies as a queer/non-binary.
