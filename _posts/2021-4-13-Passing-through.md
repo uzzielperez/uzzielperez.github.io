@@ -13,4 +13,4 @@ My friend passed away. The news of his stroke last week felt like an immediate p
 
 This is a sad time for Nirmal's family and all his friends. We are all passing through and we are all dust. The idea and acceptance of our impermanence helps me move through this. And yet, the physical effects of grief remains. It is one that is needs to be honored along with Nirmal's memory and the need to courageously move forward our own lives. Perhaps this is me just making sense of all that is happening.
 
-Although Nirmal has passed, his family still needs some support. One can find the link to help [here](https://gofund.me/0c1af7d5).
+Although Nirmal has passed, his family still needs some support. One can find the link to help in [here](https://gofund.me/0c1af7d5).
