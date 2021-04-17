@@ -1,0 +1,20 @@
+---
+layout: posts
+title: "Complicated Grief, Attachment, and Art Therapy"
+categories: Life
+author: Uzziel Perez
+meta: "Learning from more clinical psychology books"
+math: true
+---
+
+I've tried to get into this habit of reading stuff outside of my field. One of the more interesting classes of books that I've added to my collection was reading more clinical psychology books to supplement my therapy (which I go to at least every other week). By clinical psychology books, they are written by practitioners either for other clinical psychologists, or with a pop-level wide audience in mind. I am not very shy about talking about going to therapy. I think that this should be normalized. Whenever a book becomes too technical and serious for me, like the ones on EMDR, I kind of stop reading them. But there was one book that got me super interested in finishing all the way through, even if it felt like it was somehow super serious. It was a book on "[Complicated Grief, Attachment, and Art Therapy](https://www.amazon.com/Complicated-Grief-Attachment-Therapy-Ready/dp/1785927388)".
+
+Even if the book was dark and somehow sad, I found myself quietly comforted in reading about how one could rebuild oneself or make sense of loss. It tells real stories about people losing their memory from the perspective of a caregiver. It speaks about the emotional carnage that family members go through seeing the people they love as "unrecognizable" as a result of a loss of memory or vitality.  It speaks about the feeling of grief spanning several months longer than usual, and the feeling of *avoidance*, to avoid pain or the feeling of *wanting or longing to move towards a person, who is gone*, to feel comfort.
+
+I like how the book describes how art helps in the processing of memories and thoughts of someone who is already in the twilight of their lives. It must be hard to lose your memory, feeling so confused all the time, about who you are and who you are with. And not knowing whether the people around you or where you are feels "safe". Somehow, reading about an old person looking through photographs and putting them in boxes or a scrapbook is a comforting process that allows a person in their final days to string together pieces of who they are.
+
+I also appreciated how the book describes the struggle of caregivers and stewards. I learned and empathized about their struggles, the experience of *transference* and *compassion fatigue* which both result in a lack of boundaries and self-care when in the business of caring for others. In art therapy, I can see how people can feel better, with the "physical release and cathartic qualities" of doing things with your hands, ripping things and then putting them together. In the words of the book, helpful are "*expressive activities* that are relational, repetitive, relevant, rewarding and rhythmic". There is something about art, I thought that connects the thinking/rational parts of our brain, to the emotional and mammalian part and to that of the more primal parts.
+
+With the recent events, I found myself going through this book again. I am not the one that is most impacted by the loss of Nirmal but I wanted to know how I could be better for those who are truly affected by this loss. I also wanted to know how caregivers deal with burnout and being hurt as a reaction to medical trauma. The book gives advice on "Bearing Witness" and self-care - "What does it mean to carry someone's story and let these stories go? *How do we carry these stories while maintaining capacity and strength to carry ourselves?*" I took note of a helpful acronym "R.E.N.E.W." (Recognize helplessness, Embrace Your First Reaction, Nourish Yourself, Embody Constructive Engagement, Weave a New Response) and this paragraph:
+
+"We know that as stewards, we create a space for & honor other's hardship and suffering, and yet we do not assume their pain as our own. We care for others to the best of our ability without taking on their paths as our paths... We develop and maintain a long-term strategy that enables us to remain whole and helpful to others and our surroundings even amid great challenges."
