@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <body>
+    <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+  <!-- <a class="active" href="/about">About</a> -->
+  <a href="/">Home</a>
+  <!-- <a href="/">Blog</a> -->
+  <a class="link" href="/news/index.html" data-scroll>Posts</a>
+  <a href="https://www.uzzielperez.com/">About</a>
+  <!-- <a href="/">Home</a> -->
+  <a aria-label="My Github" target="_blank" href="https://github.com/uzzielperez"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>  <a aria-label="My Twitter" target="_blank" href="https://twitter.com/uzziesh"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+  <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
+</div>
+
+    <main>
+      <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- <article class="post" itemscope itemtype="http://schema.org/BlogPosting"> -->
+<article class="post">
+  <div class="post-content container"  itemprop="articleBody" style="padding-left: 500px; padding-right: 300px;">
+    <h1> Feynman Diagrams with MadGraph   <a href="https://twitter.com/share" class="twitter-share-button"{count}>Tweet</a></h1>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <h2 id="learning-madgraph">Learning MadGraph</h2>
+
+<p>I haven’t really sat down to learn <a href="http://madgraph.phys.ucl.ac.be">MadGraph</a>. It’s a pretty powerful event generator capable of including next-to-leading order corrections in a process.
+The tutorial is pretty good too. If you untar the downloaded package, you can simply run</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="o">./</span><span class="nb">bin</span><span class="o">/</span><span class="n">mg5_aMC</span>
+<span class="n">MG5_aMC</span><span class="o">&gt;</span> <span class="n">tutorial</span>
+<span class="c"># For NLO stuff</span>
+<span class="n">MG5_aMC</span><span class="o">&gt;</span> <span class="n">tutorial</span> <span class="n">aMCatNLO</span>
+
+</code></pre></div></div>
+
+<p>For our purposes, I only needed to look at the Feynman diagrams being spitted out. You can specify the output folder where they go to. I ran a simple process from the tutorial. The recipe below can be followed as is.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="n">MG5_aMC</span><span class="o">&gt;</span> <span class="n">generate</span> <span class="n">p</span> <span class="n">p</span> <span class="o">&gt;</span> <span class="n">e</span><span class="o">+</span> <span class="n">ve</span> <span class="p">[</span><span class="n">QCD</span><span class="p">]</span>
+<span class="n">MG5_aMC</span><span class="o">&gt;</span> <span class="n">output</span> <span class="n">MY_FIRST_AMCATNLO_RUN</span>
+<span class="c"># To display the Feynman diag</span>
+<span class="n">MG5_aMC</span><span class="o">&gt;</span> <span class="nb">open</span> <span class="n">index</span><span class="o">.</span><span class="n">html</span>
+
+</code></pre></div></div>
+<p>The last command is pretty cool because it will show the Feynman diagrams and the information about them.</p>
+
+<p><img alt="Lumi" src="/assets/img/NLO_FD.png" /></p>
+
+  </div>
+</article>
+
+    </main>
+  </body>
+</html>

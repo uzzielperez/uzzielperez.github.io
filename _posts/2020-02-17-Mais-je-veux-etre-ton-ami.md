@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Mai je veux etre ton ami"
+title: "Mais je veux etre ton ami"
 categories: Foreign Langugage, French
 author: Uzziel Perez
 meta: "Maman a dit, tu n'as pas à demander"
