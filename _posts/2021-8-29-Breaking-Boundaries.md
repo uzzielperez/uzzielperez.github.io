@@ -57,6 +57,9 @@ So what do we do to prevent these dark nights? Or should we surrender? What is t
 
 I think the reason why we like narratives and watching shows is because they have a resolution. Unfortunately, [life doesn't make narrative sense](https://www.youtube.com/watch?v=2U7k7aPKue0) all the time. But perhaps we do have some power on how we want our life story to unfold despite the uncontrollables.
 
+-------------------------
+P.S. I haven't forgotten about the things I said I will write about. Also, I will write about them because I kinda really want to. Using up too much mental bandwidth if I don't write them down.
+
 # Correlated Stuff and Comorbidities
 
 After my weekly thursday UACMS meeting, I attended a painting class. I had a good time but I started to feel a little headache. I had wondered whether I was being 'overstimulated' socially or it was just hot, or I haven't eaten or it was something else. I've been feeling pretty well lately and I could handle social interactions without getting too tired (and actually enjoying social interactions)! And I was pretty productive at work too! So from the things I've been reading, this could have been blood sugar related or a heart-rate/hypertension issue. There's a joke among people that you're not supposed to google your symptoms and suddenly think "Oh, shit! I must have cancer!". But I think it should be a practice that we learn about our bodies and how we could treat them well so that we could have energy for the things and people that matter to us. I think it helps me. And we shouldn't have to wait for a BIG ILLNESS by the time we take care of ourselves. That's not necessarily obvious because the payoff of a yummy cake, the sugar high is immediate compared to the long-term TERRIBLE consequences of having diabetes and/or even alzheimer's.
