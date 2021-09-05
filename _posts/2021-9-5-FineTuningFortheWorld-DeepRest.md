@@ -35,10 +35,11 @@ I just feel super relaxed and sleepy now after a swim in the lake.
 -------
 Sometimes we need to relax in such a way that we give the "time-travelling, introspection" networks of our brain all the energy it needs. The kind of thing where we could comfortably pause, take a step back and say 'wait a minute, there must be a more clever way to do this.'
 
-And then, there must be days where we give all our energies to the task-oriented networks when we've figured it out, or even when we haven't figured things out.
+And then, there must be days where we give all our energies to the task-oriented networks when we've figured it out, or even when we haven't figured things out. In fact, specially when you haven't figured things out and have stayed too long in that state.
 
 Both brain networks matter.
 
 * Exteriorize. Interiorize.
+* Zoom in. Zoom out.
 
 Good night.
