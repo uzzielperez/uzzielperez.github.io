@@ -28,7 +28,7 @@ Expanding or scaling down your limit is part of 'creating yourself'.
 Knowing and creating oneself. There's a rhythm to it.
 
 -------
-Just a short set of notes that I want to share after a swim in the lake.
+Just a short set of notes that I want to share.
 I've a long day tomorrow.
 I just feel super relaxed and sleepy now after a swim in the lake.
 
