@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Fine-tuning for the world: Is it a dark night of the soul? Part I"
+title: "Fine-tuning for this world: Is it a dark night of the soul? Part I"
 categories: Life
 author: Uzziel Perez
 meta: "Or is it something else?"
