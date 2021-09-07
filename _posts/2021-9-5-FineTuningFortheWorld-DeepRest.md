@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Fine-tuning for the World: Moving through states"
+title: "Fine-tuning for this World: Moving through states"
 categories: Life
 author: Uzziel Perez
 meta: "Abstract stuff notes for my future unwell self"
