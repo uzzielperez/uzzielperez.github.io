@@ -18,7 +18,7 @@ So it was the coke and chips in particular for this week-long mild illness.
 
  -------------------------------------------------------------------
 
- I previously took Plaquenil for my RA. But it wasn't working for me anymore and it was making my eyesight worse. The next line of affordable treatment for me is not an option, "methotrexate" - something that is also used to treat cancer. The top-of-the-line treatment right now, the "new generation, bio-engineered drugs" like (Enbrel)[https://www.seattletimes.com/seattle-news/health/whats-behind-the-whopping-price-tags-on-the-newest-generation-of-drugs/] is not an option for me. It costs around $5000. It's more than how much I earn per month. I used to have those injections though through some kind of financial aid but was only available in the US. My insurance, still owes me several hundreds of dollars and hasn't been replying to me (ehem, United HealthCare).
+ I previously took Plaquenil for my RA. But it wasn't working for me anymore and it was making my eyesight worse. The next line of affordable treatment for me is not an option, "methotrexate" - something that is also used to treat cancer. The top-of-the-line treatment right now, the "new generation, bio-engineered drugs" like [Enbrel](https://www.seattletimes.com/seattle-news/health/whats-behind-the-whopping-price-tags-on-the-newest-generation-of-drugs/) is not an option for me. It costs around $5000. It's more than how much I earn per month. I used to have those injections though through some kind of financial aid but was only available in the US. My insurance, still owes me several hundreds of dollars and hasn't been replying to me (ehem, United HealthCare).
 
 I also have a friend who was on Enbrel for years and had grown resistant to it. So, I guess, I have to do some homework, think out-of-the-box, and take matters into my own hands, if I still want to live. I kinda still do. There's an Enola Holmes in me that wants to figure something out! I'm an optimist. Sometimes too much.
 
@@ -85,7 +85,7 @@ Good night.
 
 
 References I recommend:
-[1] "What Doesn't Kill Us" by Anthropologist and Investigative Journalist Scott Carney
-[2] (Wim Hof Interview with Tim Ferriss)[https://www.youtube.com/watch?v=XiQ7ka11QnQ&t=7s]
-[3] Tim Ferriss: [Daily Practices to fight Depression](https://www.youtube.com/watch?v=zJGJGVicLkQ)
-[4] Audiobook of "The Dragons of Eden: Speculations on the Evolution of Human Intelligence" by Carl Sagan - one of my most favorite books of all time 
+[1] "What Doesn't Kill Us" by Anthropologist and Investigative Journalist Scott Carney  
+[2] (Wim Hof Interview with Tim Ferriss)[https://www.youtube.com/watch?v=XiQ7ka11QnQ&t=7s]  
+[3] Tim Ferriss: [Daily Practices to fight Depression](https://www.youtube.com/watch?v=zJGJGVicLkQ)  
+[4] Audiobook of "[The Dragons of Eden: Speculations on the Evolution of Human Intelligence](https://www.youtube.com/watch?v=s-B52LZf6Es)" by Carl Sagan - one of my most favorite books of all time  
