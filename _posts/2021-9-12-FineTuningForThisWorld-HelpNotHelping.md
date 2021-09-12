@@ -85,7 +85,8 @@ Good night.
 
 
 References I recommend:
-[1] "What Doesn't Kill Us" by Anthropologist and Investigative Journalist Scott Carney  
+
+[1] "[What Doesn't Kill Us](https://www.worldofbooks.com/de-ch/buecher/scott-carney/what-doesn-t-kill-us/9781911617549?gclid=CjwKCAjwyvaJBhBpEiwA8d38vIPAPRsR3bZ3h0KATkujph1USKDOWPlh8OZoT2zlD7j0DKVwwpBosxoC9TEQAvD_BwE#GOR009819941)" by Anthropologist and Investigative Journalist Scott Carney  
 
 [2] [Wim Hof Interview with Tim Ferriss](https://www.youtube.com/watch?v=XiQ7ka11QnQ&t=7s)
 
