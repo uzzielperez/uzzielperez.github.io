@@ -86,6 +86,9 @@ Good night.
 
 References I recommend:
 [1] "What Doesn't Kill Us" by Anthropologist and Investigative Journalist Scott Carney  
+
 [2] (Wim Hof Interview with Tim Ferriss)[https://www.youtube.com/watch?v=XiQ7ka11QnQ&t=7s]  
+
 [3] Tim Ferriss: [Daily Practices to fight Depression](https://www.youtube.com/watch?v=zJGJGVicLkQ)  
+
 [4] Audiobook of "[The Dragons of Eden: Speculations on the Evolution of Human Intelligence](https://www.youtube.com/watch?v=s-B52LZf6Es)" by Carl Sagan - one of my most favorite books of all time  
