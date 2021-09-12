@@ -75,7 +75,7 @@ People with chronic illnesses, whether tagged physical or mental are some kind o
 
 --------------------------------------------------------------------------------
 
-In the next few weeks, I'll be recounting the things I've learned from my deep dive into psychedelic research, addiction, fringe treatments for people with trauma, rewiring and why targeted treatments aren't always the best way to go. I'll be sharing stories (publicly shared, not personal ones that were shared to me), about people who had found themselves in "rock bottom" situations and had explored non-standard routes to be well and enjoy life once again.
+In the next few weeks, I'll be recounting the things I've learned from my deep dive into psychedelic research, addiction, fringe treatments for people with trauma, polyvagal theory, rewiring, why targeted treatments aren't always the best way to go and my two cents on the "self-healers" movement. I'll be sharing stories (publicly shared, not personal ones that were shared to me), about people who had found themselves in "rock bottom" situations and had explored non-standard routes to be well and enjoy life once again.
 
 --------------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ Good night.
 References I recommend:
 [1] "What Doesn't Kill Us" by Anthropologist and Investigative Journalist Scott Carney  
 
-[2] (Wim Hof Interview with Tim Ferriss)[https://www.youtube.com/watch?v=XiQ7ka11QnQ&t=7s]  
+[2] [Wim Hof Interview with Tim Ferriss](https://www.youtube.com/watch?v=XiQ7ka11QnQ&t=7s)
 
 [3] Tim Ferriss: [Daily Practices to fight Depression](https://www.youtube.com/watch?v=zJGJGVicLkQ)  
 
