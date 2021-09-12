@@ -7,7 +7,7 @@ meta: "Serependity, Personal Struggles and Fringe Treatments"
 math: true
 ---
 
-**A word of caution - heavy topics on Physical Degeneration, Trauma, Sexual Abuse and Suicidal Depression are discussed here. But I hope that some of the resources here will help you have tools to overcome your challenges or anyone you know who has them.**
+**A word of caution - heavy topics on Physical Degeneration, Trauma, Sexual Abuse and Suicidal Depression are discussed here. But I hope that some of the resources here will help you have tools to overcome your challenges or anyone you know who has them. Also a warning - that this is just stream of consciousness writing without much editing.**
 
 After a few weeks of experimenting with a method that made me swear I had some kind of superpowers - boundless energy that allows me to work like I did in my youth, doing 45 push ups in one go, I am experiencing a sense of plateauing and tiredness that is not well-documented in 'marketing' of the said method. Or it also might have been the Coke and the Chips which I said was 'an experiment to reproduce a general feeling of unwellness'. I successfully reproduced it! And went home drained after the weekend's Pride March. Huehuehue. But this week was unique. The one-day tiredness from the method existed in all the other weeks I didn't do Coke and Chips.
 So it was the coke and chips in particular for this week-long mild illness.
