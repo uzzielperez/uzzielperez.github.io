@@ -12,4 +12,4 @@ math: true
 
 *Currently looking for folks to brainstorm with re: project for people with chronic illnesses for a humanitarian hackathon*
 
-Because of this I will be out for at least a month 
+Because of this I will be out for a while. 
