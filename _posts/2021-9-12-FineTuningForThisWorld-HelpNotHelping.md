@@ -10,4 +10,6 @@ math: true
 
 # WIP: EDITING SLOPPY WRITING
 
-*Currently looking for folks to brainstorm with re: monitorables, AI for people with chronic illnesses for a humanitarian hackathon*
+*Currently looking for folks to brainstorm with re: project for people with chronic illnesses for a humanitarian hackathon*
+
+Because of this I will be out for at least a month 
