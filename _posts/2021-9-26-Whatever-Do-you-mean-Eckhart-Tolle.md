@@ -65,9 +65,9 @@ Now the thing with medical research is that there are a lot of contradicting cla
 
 Final blab of the night. On the way back to Geneva from France, border police went and checked for passports. It's the first time that I've been checked on a train and only had my Legitimation card. I had to explain myself that I usually don't get checked for passports and so I wasn't so mindful about bringing it. He let me go but the experience perturbed me for a few minutes even if the police man was respecftful and understanding. On a "rational" level I told myself that "It was a small thing", but it already had set me off a little bit "physiologically". Something that takes a few minutes to "stabilize".
 
-Here is where CBT thought replacement's limitation lies. For complex trauma patients, mere thought replacement doesn't bring about a calmness and sense of safety in their physiological states. A good resource - [The Body Keeps the Score](https://www.youtube.com/watch?v=QSCXyYuT2rE). A related song - [In and Through the Body](https://www.youtube.com/watch?v=QSCXyYuT2rE).
+Here is where CBT thought replacement's limitation lies. For complex trauma patients, mere thought replacement doesn't bring about a calmness and sense of safety in their physiological states. A good resource - [The Body Keeps the Score](https://www.youtube.com/watch?v=QSCXyYuT2rE). A related song - [Blue Sky Mind - In and Through the Body](https://www.youtube.com/watch?v=o1HMiuv4QFY).
 
-This perturbation feels like "I need more practice". If you know what I mean. 
+This perturbation feels like "I need more practice". If you know what I mean.
 
 ---------------------
 
