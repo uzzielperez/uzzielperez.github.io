@@ -67,6 +67,8 @@ Final blab of the night. On the way back to Geneva from France, border police we
 
 Here is where CBT thought replacement's limitation lies. For complex trauma patients, mere thought replacement doesn't bring about a calmness and sense of safety in their physiological states. A good resource - [The Body Keeps the Score](https://www.youtube.com/watch?v=QSCXyYuT2rE). A related song - [In and Through the Body](https://www.youtube.com/watch?v=QSCXyYuT2rE).
 
+This perturbation feels like "I need more practice". If you know what I mean. 
+
 ---------------------
 
 Anyway, I've been spending a lot of time listening to a lot of inputs recently that I want to spend some time determining what works for me and the direction I want to take for the project. I hope I never lose sight of why I am doing this in the first place. It helps to write.
