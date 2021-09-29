@@ -18,4 +18,4 @@ So I do understand what Eckhart Tolle meant when he said, "the vehicle is not pr
 Sometimes we misunderstand people because they have a different way of expressing things. Perhaps they also have a different lens by which they experience the world. The way something that has been said "lands differently" for different people. A friendly jab is perceived as an insult. But for another friend it is nothing and is funny. What is "ok" for one person may not be ok for another. We all have differently wired "nervous systems".
 
 --------
-Related Podcast: https://www.npr.org/programs/ted-radio-hour/904356771/finding-another-way?t=1632905501894
+Related Podcast: [Finding Another Way](https://www.npr.org/programs/ted-radio-hour/904356771/finding-another-way?t=1632905501894)
