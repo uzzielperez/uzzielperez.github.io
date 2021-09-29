@@ -14,8 +14,8 @@ I wasn’t an experienced penalty taker. I lacked conviction and I also lacked t
 
 So I do understand what Eckhart Tolle meant when he said, “the vehicle is not prepared”. The body and mind is not “wired” for the task. It hasn’t been trained. So even if he was using “New Age Mumbo Jumbo”, I knew what he meant when I read some of his books. I just had a different language.
 
-Sometimes we misunderstand people because they have a different way of expressing things. Perhaps they also have a different lens by which they experience the world. The way something that has been said “lands differently” for different people. A friendly jab is perceived as an insult. But for another friend it is nothing and is funny. What is “ok” for one person may not be ok for another. We all have differently wired “nervous systems”. Messages sent in text form doesn't convey the "friendliness and care" that body language shows. 
+Sometimes we misunderstand people because they have a different way of expressing things. Perhaps they also have a different lens by which they experience the world. The way something that has been said “lands differently” for different people. A friendly jab is perceived as an insult. But for another friend it is nothing and is funny. What is “ok” for one person may not be ok for another. We all have differently wired “nervous systems”. Messages sent in text form doesn't convey the "friendliness and care" that body language shows.
 
 A short note to self on how we could understand each other.
 
-Related Podcast: Finding Another Way
+Related Podcast: [Finding Another Way](https://www.npr.org/programs/ted-radio-hour/904356771/finding-another-way?t=1632905501894)
