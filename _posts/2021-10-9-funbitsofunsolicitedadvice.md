@@ -46,3 +46,5 @@ I enjoyed reading this, https://kk.org/thetechnium/99-additional-bits-of-unsolic
 • History teaches us that in 100 years from now some of the assumptions you believed will turn out to be wrong. A good question to ask yourself today is “What might I be wrong about?”
 
 • Advice like these are not laws. They are like hats. If one doesn’t fit, try another.
+
+One of those "simple" things I enjoy. 
