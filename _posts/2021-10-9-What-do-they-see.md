@@ -31,3 +31,74 @@ Perhaps still not over my time with my best friend, I recall our discussion on h
 They managed to convince her to get a vaccine, which I am glad to hear! I also asked her why she remains loyal to Marcos and Duterte despite human rights violations and the incompetence that my best friend and I both saw. She said that in her mom's youth, she got a "Teacher Award" from the then President Ferdinand Marcos, Sr. I figured, she must have felt *seen and appreciated* by no less the President of the Philippines. It was a simple act but it was powerful.
 
 I personally know people who were tortured and jailed during the Martial Law. My parents were both College students during the Edsa Revolution and my viewpoints were largely shaped by their stories. Living in Manila and the Southern Tagalog Region, I grew up with people and an education who didn't see the Marcos Era as the Golden Age of the Philippines. But people in the North and Metropolitan Mindanao see things differently.
+
+
+## Jad Abumrad's I-felt-like-an-asshole-moment
+
+Radiolab is one of my favorite podcasts of all time. So I have tremendous respect for its founder and one of the hosts, Jad Abumrad. As a person of science, I have a very specific mental toolkit by which I view the world. Have a "hypothesis", make observations, measurements and then see if the hypothesis holds. It works very well of course! It helped humanity make airplanes, life-saving medications and satellites! I love the feeling of wonder that science brings me!
+
+Jad Abumrad's story telling explains what I currently feel about being careful about being "an obnoxious, myopic natural scientist" that I could be sometimes. (Listen here: [Finding Another Way](https://www.npr.org/programs/ted-radio-hour/904356771/finding-another-way?t=1632905501894) part 3, Start at 33 minutes into the podcast).
+
+At 36 minutes he begins recounting a shift in his mindset and his storytelling. He points out an investigation they did among the Hmong Villagers in the mountains of Laos. I'll let you hear his conversation with Manoush Zamarodi. And below is a portion of the [transcript](https://www.npr.org/transcripts/909198327).
+
+--------
+
+ZOMORODI: But you had a problem with that, too. There was one episode I think that kind of summed it up for you.
+
+ABUMRAD: Yeah. I mean, it was an episode that - I think this was 2012. We ended up investigating the idea that post Vietnam, the Soviet Union used chemical weapons on the Hmong villagers in the mountains of Laos. So it's this really perilous moment. And so we ended up speaking to a guy who was there and claimed that chemical weapons had been used on him and his fellow villagers and a lot of people died. And it was a horrible situation. The problem was that some Western scientists went there and measured to see if there were in fact chemical weapons being used - didn't find any chemical weapons - and then basically figured out - I mean, I should call it a theory, I guess - that in fact what was being mistaken as chemical weapons was bee poop.
+
+ZOMORODI: Pollen, basically.
+
+ABUMRAD: That was the theory. That was what the Western scientists said. My co-host Robert Krulwich was talking to this fellow and asking him, did you see the stuff?
+
+(SOUNDBITE OF RADIO SHOW, "RADIOLAB")
+
+ROBERT KRULWICH: Did the source of the rain...
+
+ABUMRAD: Can you firsthand account for the fact that this came from planes?
+
+(SOUNDBITE OF RADIO SHOW, "RADIOLAB")
+
+KRULWICH: Was there always a plane and then rain?
+
+ABUMRAD: And the guy couldn't, but he said, I know what the scientists say and they're wrong because I know what I experienced.
+
+(SOUNDBITE OF RADIO SHOW, "RADIOLAB")
+
+UNIDENTIFIED PERSON #5: (Through interpreter) I speak to what I've seen, and there is no inkling in my mind. It was chemicals that were killing my people.
+
+ABUMRAD: This went back and forth and back and forth for a long, long while.
+
+(SOUNDBITE OF RADIO SHOW, "RADIOLAB")
+
+KRULWICH: But he himself is not clear whether it's the bee stuff or whether.
+
+UNIDENTIFIED PERSON #6: It feels to him like this is a semantic debate.
+
+ABUMRAD: And then it just - the interview ended badly.
+
+(SOUNDBITE OF RADIO SHOW, "RADIOLAB")
+
+UNIDENTIFIED PERSON #6: There's a sad lack of justice that the word of a man who survived this thing must be pitted against a professor from Harvard who's read these accounts.
+
+KRULWICH: But as far as I can tell, your uncle didn't see the bee pollen fall. Your uncle didn't see a plane. All of this is hearsay.
+
+UNIDENTIFIED PERSON #5: (Non-English language spoken).
+
+UNIDENTIFIED PERSON #6: My uncle says for the last 20 years, he didn't know that anything - anybody was interested in the death of the Hmong people. He agreed to do this interview because you were interested. You know, what happened to the Hmong happened. And what we know has been questioned again and again. It's not a surprise to him or to me (crying). I think that - I think the interview is done.
+
+(SOUNDBITE OF TED TALK)
+
+ABUMRAD: I felt - I felt horrible.
+
+ZOMORODI: Jad continues his story in his TED Talk.
+
+(SOUNDBITE OF TED TALK)
+
+ABUMRAD: Like, hammering at a scientific truth when someone has suffered, that wasn't going to heal anything. And maybe I was relying too much on science to find the truth. And it really did feel at that moment that there were a lot of truths in the room, and we were only looking at one of them.
+
+It was one of those, like, 90-minute conversations that ended up getting edited down to three minutes. And in those three minutes, it looked like we bullied the guy. And I feel like we kind of did, to be honest. I don't think we did it right on a number of levels.
+
+--------
+
+END. Pause. Think.
