@@ -11,7 +11,7 @@ So only a few people has the direct link to this blog. :) I do not like to share
 It also doesn't have any analytics built in and I like it that way so there is no "pressure to perform". It's pure sharing.
 
 
-I enjoyed reading this, https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/ and picked out some favorites. :)
+I enjoyed reading [this](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/), and picked out some favorites. :)
 
 • That thing that made you weird as a kid could make you great as an adult — if you don’t lose it.
 
