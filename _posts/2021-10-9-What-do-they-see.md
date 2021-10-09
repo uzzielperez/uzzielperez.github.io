@@ -102,3 +102,6 @@ It was one of those, like, 90-minute conversations that ended up getting edited 
 --------
 
 END. Pause. Think.
+
+Also temporarily(?) disabling all my social media accounts to focus on my thesis and my projects. :) System overload.
+Need some time to pause. 
