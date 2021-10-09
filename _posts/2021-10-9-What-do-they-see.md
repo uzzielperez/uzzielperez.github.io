@@ -104,4 +104,5 @@ It was one of those, like, 90-minute conversations that ended up getting edited 
 END. Pause. Think.
 
 Also temporarily(?) disabling all my social media accounts to focus on my thesis and my projects. System overload. (Facebook won't let me but I almost never use it anyway and I have just decided not to log-in to twitter).
-Need some time to pause and time to nourish the mutual and more direct friendships that I have. 
+Need some time to pause, time to nourish the mutual and more direct friendships that I have and reeavaluate a few things.
+Regulating my dopamine system before it gets too wonky. It's fine now but just to be safe. 
