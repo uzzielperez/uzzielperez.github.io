@@ -27,7 +27,7 @@ also say that the Earth is 6000 years old! What?! I was incredibly reactive. So 
 
 ## It made a mark
 
-Perhaps still not over my time with my best friend, I recall our discussion on how they lived with their mom who was an "all-natural advocate, vaccine hesitant" and an avid Duterte and Marcos supporter. ( I know her mom and she is a wonderful person. )
+A friend told me about how they lived with their mom who was an "all-natural advocate, vaccine hesitant" and an avid Duterte and Marcos supporter. ( I know her mom and she is a wonderful person. )
 They managed to convince her to get a vaccine, which I am glad to hear! I also asked her why she remains loyal to Marcos and Duterte despite human rights violations and the incompetence that my best friend and I both saw. She said that in her mom's youth, she got a "Teacher Award" from the then President Ferdinand Marcos, Sr. I figured, she must have felt *seen and appreciated* by no less the President of the Philippines. It was a simple act but it was powerful.
 
 I personally know people who were tortured and jailed during the Martial Law. My parents were both College students during the Edsa Revolution and my viewpoints were largely shaped by their stories. Living in Manila and the Southern Tagalog Region, I grew up with people and an education who didn't see the Marcos Era as the Golden Age of the Philippines. But people in the North and Metropolitan Mindanao see things differently.
