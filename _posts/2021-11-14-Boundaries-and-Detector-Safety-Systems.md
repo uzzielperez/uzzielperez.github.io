@@ -24,6 +24,6 @@ Anyway, I texted my mami a photo of me after a swim in the Rhone this weekend. I
 
 -----
 
-In my next post, I think I'd love to talk about when we become "Loopy" and a real life concrete example of when someone's brain becomes short-circuited and *Loopy* under extreme stress. It was seen in an MRI scan! Might be related to when we become "stuck in a rut", emotional flashbacks or being trapped in "bad cycles". How might we break off? I have some guesses!
+In my next post, I think I'd love to talk about when we become "Loopy" and a real life concrete example of when someone's brain becomes short-circuited and *Loopy* under extreme stress. It was seen in an MRI scan! Might be related to when we become "stuck in a rut", emotional flashbacks or being trapped in "bad cycles". How might we break off? I have some guesses and of course some proven ones with the help of psychedelics and EMDR. :) Is this the end of suffering as we know it?
 
 Also, I think I want to go home and do some self-care because my brain is a little tired, fried and saturated.
