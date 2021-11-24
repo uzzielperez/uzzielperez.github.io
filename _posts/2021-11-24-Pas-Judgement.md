@@ -9,7 +9,7 @@ math: true
 
 
 I got a cortisone shot on my butt today. It's meant to help me with the arthritis until we figure out a new treatment. :)
-Don't worry it ain't a sad story. I was not able to sleep the past week so I just surrendered and went to the ER.
+Don't worry it ain't a sad story. I was not able to sleep the past week so, I skipped work and tonight's party, surrendered and went to the ER.
 
 I waited around four hours to see the doctor. I assumed that they were going to send me home without a plan just because I wasn't dying yet.
 That's how ERs work. But it was a lot of pain today. When my doctor finally came, he said to me to wait a few minutes as he needs to attend to another patient. He looked tired and irritable in the beginning.
@@ -22,4 +22,4 @@ The book "Deep Medicine- How Artificial Intelligence Can Make Healthcare Human A
 I've thought about a solution to just one of these problems. And I've been talking to a lot of people about the viability and feasibility of creating this solution. Right now, this proposed solution is digital but I think that we shouldn't forget, that health problems are complex. Sometimes we overtechnologize solutions and forget that one of the most healing things in the world is to be simply listened to, to be understood, to be considered - to be connected to another human.
 
 Anyway, tomorrow I go to social work because the most advanced treatment costs is about $2000. As for the medical costs, we're figuring something about that too but maybe the solution will crystalize later. *wink*
-Also, I don't need pity. I need people to help me figure out how we could change the system. And I'm super thankful to all the people who makes me believe that we are on to something. I find that as comforting as leaning on to friends. 
+Also, I don't need pity. I need people to help me figure out how we could change the system. And I'm super thankful to all the people who makes me believe that we are on to something. I find that as comforting as leaning on to friends.
