@@ -21,7 +21,7 @@ The book "Deep Medicine- How Artificial Intelligence Can Make Healthcare Human A
 
 I've thought about a solution to just one of these problems. And I've been talking to a lot of people about the viability and feasibility of creating this solution. Right now, this proposed solution is digital but I think that we shouldn't forget, that health problems are complex. Sometimes we overtechnologize solutions and forget that one of the most healing things in the world is to be simply listened to, to be understood, to be considered - to be connected to another human.
 
-Anyway, tomorrow I go to social work because the most advanced treatment costs is about $2000. As for the medical costs, we're figuring something about that too but maybe the solution will crystalize later. *wink*
+Anyway, tomorrow I go to social work because the most advanced treatment costs is about $2000. As for the medical cost pains for everyone, we're figuring something about that too but maybe the solution will crystalize later. *wink*
 Also, I don't need pity. I need people to help me figure out how we could change the system. And I'm super thankful to all the people who makes me believe that we are on to something. I find that as comforting as leaning on to friends.
 
 I am sad and scared. But like what the kind doctor said, "We will find solutions"
