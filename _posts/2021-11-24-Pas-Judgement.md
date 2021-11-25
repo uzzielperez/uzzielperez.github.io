@@ -9,7 +9,7 @@ math: true
 
 
 I got a cortisone shot on my butt today. It's meant to help me with the arthritis until we figure out a new treatment. :)
-Don't worry it ain't a sad story. I was not able to sleep the past week so, I skipped work and tonight's party, surrendered and went to the ER.
+Don't worry it ain't a sad story. I was not able to sleep the past week so, I skipped work and tonight's party, surrendered and went to the ER. (This tells me I am no longer reliable for high energy physics which requires high energy people :P)
 
 I waited around four hours to see the doctor. I assumed that they were going to send me home without a plan just because I wasn't dying yet.
 That's how ERs work. But it was a lot of pain today. When my doctor finally came, he said to me to wait a few minutes as he needs to attend to another patient. He looked tired and irritable in the beginning.
