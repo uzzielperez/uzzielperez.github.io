@@ -25,5 +25,3 @@ Anyway, tomorrow I go to social work because the most advanced treatment costs i
 
 As for the solution to medical cost pains for everyone, we're figuring something about that too but maybe the solution will crystalize later. *wink*
 Also, I don't need pity. I need people to help me figure out how we could change the system. And I'm super thankful to all the people who makes me believe that we are on to something. I find that as comforting as leaning on to friends.
-
-I am sad and scared. But like what the kind doctor said, "We will find solutions"
