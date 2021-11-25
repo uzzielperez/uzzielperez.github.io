@@ -25,3 +25,5 @@ Anyway, tomorrow I go to social work because the most advanced treatment costs i
 
 As for the solution to medical cost pains for everyone, we're figuring something about that too but maybe the solution will crystalize later. *wink*
 Also, I don't need pity. I need people to help me figure out how we could change the system. And I'm super thankful to all the people who makes me believe that we are on to something. I find that as comforting as leaning on to friends.
+
+Anyway, I forget. The idea that I wanted to drive at is that we are always dealing with people and they are going through a lot of things. And our brain makes shortcuts and pigeonhole them into bad and good personality types. I wanted to have new ways of thinking about people and how we can nudge human interactions in better directions. 
