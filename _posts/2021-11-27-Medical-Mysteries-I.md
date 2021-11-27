@@ -22,11 +22,11 @@ How do I know I am somewhat feeling better? Because I can make jokes again heheh
 
 ----------------------------
 
-I really so how important communities are for people with chronic illnesses. They give you emotional support, they help you navigate a complex healthcare system that wasn't built for us. There's a lot of work left to do but I see a lot of hope and have been talking to a lot of patients, doctors and other key stakeholders on how we could innovate and find solutions for billions of people around the world. But first, let's start small.
+I really so how important communities are for people with chronic illnesses. They give you emotional support, they help you navigate a complex healthcare system that wasn't built for us. I find it really inspiring to talk to other patients, doctors, and other key stakeholders who see the same problem and are actively working to make things better.
 
-----------------------------
+-------
+I'd like to retell more medical mystery stories (that are public) and perhaps from here we can connect the dots. :)
 
-More stories to come. But this time other people's stories to help us connect the dots :)
 
 Related resources:
 [1] Patient-led innovation: https://sloanreview.mit.edu/article/when-patients-become-innovators/
