@@ -34,7 +34,7 @@ Here's a wonderful resource on the neurobiological basis of why a Gratitude prac
 
 
 Related resources:
-[1] Patient-led innovation: https://sloanreview.mit.edu/article/when-patients-become-innovators/
-[2] Overcoming (Disabilities): https://www.npr.org/programs/ted-radio-hour/255743572/overcoming
-[3] Effective Gratitude practices to reframe mindsets, rewire the brain for more pro-social behaviours and makes you overall healthier (1 hour 25 min): https://www.youtube.com/watch?v=KVjfFN89qvQ
-[4] The Story of Kevin Brady: https://www.youtube.com/watch?v=A8AU5YhS_pw
+[1] [Patient-led innovation](https://sloanreview.mit.edu/article/when-patients-become-innovators/)
+[2] [Overcoming (Disabilities)](https://www.npr.org/programs/ted-radio-hour/255743572/overcoming)
+[3] [Effective Gratitude practices to reframe mindsets, rewire the brain for more pro-social behaviours and makes you overall healthier (1 hour 25 min)](https://www.youtube.com/watch?v=KVjfFN89qvQ)
+[4] [The Story of Kevin Brady](https://www.youtube.com/watch?v=A8AU5YhS_pw)
