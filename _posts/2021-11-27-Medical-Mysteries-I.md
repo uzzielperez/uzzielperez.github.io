@@ -25,7 +25,7 @@ How do I know I am somewhat feeling better? Because I can make jokes again heheh
 
 ----------------------------
 
-I really so how important communities are for people with chronic illnesses. They give you emotional support, they help you navigate a complex healthcare system that wasn't built for us. I am really thankful for the fellow patients that I talked to yesterday and all the other folks who are working hard to make things better.
+I really so how important communities are for people with chronic illnesses. They give you emotional support, they help you navigate a complex healthcare system that wasn't built for us. I am really thankful for the fellow patients that I talked to yesterday and all the other folks who are working hard to make things better. And I also feel like I have a bunch of cheerleaders around me. haha
 
 A little too late but Happy Thanksgiving!
 
