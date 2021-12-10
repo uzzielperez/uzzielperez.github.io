@@ -28,9 +28,11 @@ I had a room mate who was very kind but someone you would say quite "touchy". I 
 
 When her best friend left, she was then back to deal with her thoughts. I tried to watch over her as she tried to sleep. Noticing that she was not breathing well and that her blood pressure was too high, I brought her to the ER at midnight. At the ER they confirmed her blood pressure was over the roof and they ordered an fMRI on her brain. There they confirmed what I had suspected - "transient global amnesia". Thankfully, she was ok and she just needed to regulate physiologically and emotionally.
 
+But what makes someone more "touchy" than others or seem to react, in our views "disproportionately" to something? Bessel Van Der Kolk's book has some interesting insights. (Not a paid promotion)
+
 --------
 
-I wonder to myself whether physiological stress affects how we fall back into thought loops or feeling like we are in a rut. What if we could open pathways in the brain that will get us out of the thought loops? Eastern Medicine has long had answers to this but they are relegated to non-standard treatments and unfortunately outside of the realm of evidence-based medicine (EBM) by people who "believe in science" (like I do). But I know they are effective over the long run if they are "practiced". I know I've, unfortunately, fallen out of the "practice" since I have a record of my habits. 
+I wonder to myself whether physiological stress affects how we fall back into thought loops or feeling like we are in a rut. What if we could open pathways in the brain that will get us out of the thought loops? Eastern Medicine has long had answers to this but they are relegated to non-standard treatments and unfortunately outside of the realm of evidence-based medicine (EBM) by people who "believe in science" (like I do). But I know they are effective over the long run if they are "practiced". I know I've, unfortunately, fallen out of the "practice" since I have a record of my habits. And then of course, there are non-standard treatments like psychedelics which help with an overactive default mode network [3].
 
  If we knew how to regulate our physiology we could also regulate our mind and vice-versa. This leads me to once again question the reliability of DSM. There are many psychiatric disorders or "labels" that are unhelpful. I have heard of someone who was diagnosed with bipolar disorder who had an endocrine system issue. Adele herself said that when she had removed gluten in her diet that had helped alleviate her depression. Often times, our standard treatment is through giving complex cocktails of medications that might just be masking the symptoms but are not solving the underlying issues - like lack of nutrition, early childhood adversity, or some genetic disorder that is mild.
 
@@ -44,3 +46,5 @@ In the middle of summer this year I thought to myself "patients are experts too.
 [1] [Briggs Protocol short story](https://mosaicscience.com/story/off-label-antidepressants-prescribed-IBD-cancer-pain/)
 
 [2] [Briggs Protocol](https://ibd.coach/wp-content/uploads/2019/11/IBD-Briggs-2017.pdf)
+
+[3] [Default mode network and psychedelics](https://www.youtube.com/watch?v=W-D9v22bVjk&t=3s)
