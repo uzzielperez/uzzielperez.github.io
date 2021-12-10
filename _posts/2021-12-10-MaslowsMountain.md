@@ -47,4 +47,4 @@ In the middle of summer this year I thought to myself "patients are experts too.
 
 [2] [Briggs Protocol](https://ibd.coach/wp-content/uploads/2019/11/IBD-Briggs-2017.pdf)
 
-[3] [Default mode network and psychedelics](https://www.youtube.com/watch?v=W-D9v22bVjk&t=3s)
+[3] [Default mode network and psychedelics from a former patient and now a licensed-therapist](https://www.youtube.com/watch?v=W-D9v22bVjk&t=3s)
