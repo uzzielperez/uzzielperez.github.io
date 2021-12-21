@@ -35,6 +35,6 @@ Caroline and David are two people who inspire me. Two people who turned their pe
 
 ------------------------
 
-Recommended food for thoughts for my next post on Genetic Determinism, Ethics and how we should be aware of these dangers in our desire to make the world a better place:
+Recommended food for thoughts for my next post on Genetic Determinism, Molecular pathophsyiologies, Ethics and how we should be aware of these dangers in our desire to make the world a better place:
 [1] [Gattaca - Humanity and Class Struggle in Hard Sci-Fi](https://www.youtube.com/watch?v=pSj9uOEGV7k), my favorite sci-fi film
 [2] [GATTACA - Eugenics and Determinism](https://www.youtube.com/watch?v=UviBXplj5uA&t=323s)
