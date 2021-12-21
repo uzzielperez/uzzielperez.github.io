@@ -25,9 +25,9 @@ I asked him how he had managed all these years and he had told me about how self
 
 -------------------
 
-This year was a massive year of existential crisis for me. My normal treatments stopped working for me for some reason and I felt I was not as strong as I used to be. Part of me wants to retire back home to the Philippines. Part of me wants to stay in Europe and take advantage of the fertile intellectual ground for innovation. Part of me wants to go back to the United States, finish my contract and my PhD and be with my support system. I have decidedly chosen one path in the next few months.
+This year was a massive year of existential crisis for me. My normal treatments stopped working for me for some reason and I felt I was not as strong as I used to be. Part of me wants to retire back home to the Philippines. Part of me wants to stay in Europe and take advantage of the fertile intellectual ground for innovation and the opportunities. Part of me wants to go back to the United States, finish my contract and my PhD and be with my support system. I have decidedly chosen one path in the next few months, one that I would categorize as "surefooted steps of growth".
 
-But no matter what I choose, I have something that helps me get up in the morning even if my body feels like a [sloth](https://www.scmp.com/news/world/article/1835589/energy-saving-pandas-are-sluggish-sloths-study-finds) or [panda](https://www.dailymail.co.uk/sciencetech/article-3154929/Panda-s-aren-t-lazy-ve-got-underactive-thyroid-Low-nutrient-bamboo-diet-leaves-mammals-feeling-lethargic.html) that has a malfunctioning thyroid. (No wonder, those weirdo animals are freaking lazy! Dailymail article just for entertainment purposes.)
+But whichever path it is, I feel have something that helps me get up in the morning even if my body feels like a [sloth](https://www.scmp.com/news/world/article/1835589/energy-saving-pandas-are-sluggish-sloths-study-finds) or [panda](https://www.dailymail.co.uk/sciencetech/article-3154929/Panda-s-aren-t-lazy-ve-got-underactive-thyroid-Low-nutrient-bamboo-diet-leaves-mammals-feeling-lethargic.html) that has a malfunctioning thyroid. (No wonder, those weirdo animals are freaking lazy! Dailymail article just for entertainment purposes.)
 
 ----------------------
 
