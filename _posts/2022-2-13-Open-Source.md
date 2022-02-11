@@ -21,4 +21,4 @@ There is no grand "wisdom". There is no grand "ethos". But we can decide how we 
 
 Sharon's children are about my age and are showing some signs of their disease progressing - their eyes faltering, their hearts weakening. But they had grown to develop their own wisdom. During their teens they told their parents "You have to stop worrying about making a difference, making an impact and instead like us, learn to live with disease, rather than fight it." Radical acceptance. Resignation. Acceptance of reality. They ironically come together with hope. This is where we start to move forward.
 
-So, again, if there is no cure yet, what can we do? I'll share some ideas and books I've read next week. 
+So, again, if there is no cure yet, what can we do? I'll share some ideas, books, and actionable insights next time.
