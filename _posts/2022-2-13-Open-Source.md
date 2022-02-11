@@ -20,3 +20,5 @@ I've been interested in learning more about the "unsiloed" translational medicin
 There is no grand "wisdom". There is no grand "ethos". But we can decide how we want to live the rest of our days to the best of what our biology affords us.
 
 Sharon's children are about my age and are showing some signs of their disease progressing - their eyes faltering, their hearts weakening. But they had grown to develop their own wisdom. During their teens they told their parents "You have to stop worrying about making a difference, making an impact and instead like us, learn to live with disease, rather than fight it." Radical acceptance. Resignation. Acceptance of reality. They ironically come together with hope. This is where we start to move forward.
+
+So, again, if there is no cure yet, what can we do? I'll share some ideas and books I've read next week. 
