@@ -1,0 +1,27 @@
+---
+layout: posts
+title: "Can Kindness Survive in a Mean and Hostile World? (Part III)"
+categories: Life
+author: Uzziel Perez
+meta: "The Evolution of Trust: The world as it is and the world as it should be"
+math: true
+---
+
+March 6, 2021
+
+I think around September last year I was looking to buy a cheap bike so I can just commute to and from work and bike around and explore Geneva more. I didn't want to enroll in a Gym because of COVID even if it was a surefire way of meeting more people. My friend pointed me to a facebook sale. The bike looked good and they were selling it for 50 CHF. So I set an appointment, went to the appointment the following day and I was right on the spot, on the dot.
+As I was waiting for a response from the owner, there was a beautiful lady smiling at me (and I was wondering why). My heart skipped a beat when I saw another man drive away with the bike that looked exactly like the bike advertised on facebook! **FACDAda=sadsfsadfjshfl** I said. Then the lady and her boyfriend told me, without a hint of guilt and with wide smiles on their faces "Désolé, le vélo a été vendu". There was no sincerity in the sorry at all!!! For me, it felt like they were happy they tricked someone! I told them, in a calm tone "Why didn't you tell me earlier?". I felt a bit of rising anger inside me but I knew that blowing off wouldn't do me any good. They just replied back in English, "Because we didn't know if he was coming or not." Still with smiles on their faces. I felt bad and walked away.
+
+While walking away, (and honestly imagining myself running after the guy with the bike who was innocent!) I had internal dialogues going on. "That's what you get for being so cheap!!! There's a price for being cheap. Why don't you just buy the 300 CHF one from Decathlon and for sure it's yours!". And then I had asked myself whether what they did was ethical or not. I felt like a sucker. What if they were honest, and they just had me as their option and then I didn't come? Wouldn't they feel like a sucker? The truth is, nobody wants to feel like a sucker so somehow people end up making others feel "tricked" into something. What is the point of being "good" and "honest" if the real world seems to be filled with seemingly deceptive people? Are they intentionallly deceptive, hurtful and mean? Or are they just doing things for self-preservation?
+
+A short digression, I have another similar experience in December last year which I will talk about in the final podcast on *Comedy and Human Interactions* coming soon! *Wink*.
+
+I am not that naive when it comes to the real world but inside me is still a rebellious streak, to fight against "what is", and "how things have always been". And these don't always come in the form of one big change. I've already talked about how "kindness" survives and how "trust" among humans evolve in two previous posts ([PART I](https://uzzielperez.github.io/life/2019/12/03/Can-kindness-survive-in-a-mean-and-hostile-world-p1.html) and [PART II](https://uzzielperez.github.io/life/2019/12/14/Can-kindness-survive-in-a-mean-and-hostile-world-p2.html)) back in 2019. And if you haven't listened already, there are two amazing Radiolab episodes on how Game Theory shows how the "Good ones" can win over time. (Listen: [Tit for Tat](https://www.wnycstudios.org/podcasts/radiolab/segments/104010-one-good-deed-deserves-another) and [What's Left when you're Right](https://www.wnycstudios.org/podcasts/radiolab/episodes/whats-left-when-youre-right)).
+
+There's this super creative Canadian indie game developer, named [Nicky Case](https://ncase.me/). He makes [explorable explanations](https://www.youtube.com/watch?v=Zl9m0AQInBk) - to make difficult, complex concepts more understandable through games! (He is super cool! I want to be like him!) He made one exactly for this topic on the "Evolution of Trust". You can try the game in different languages. Here it is in [English](https://ncase.me/trust/). In December, during the Christmas break I collaborated with a guy to make the Filipino translation which you can find [here](https://ncase.me/trust/).
+
+I think that whenever I feel like a loser sometimes and feel confused, "should I be deceptive, mean and angry" (to be feared and respected and feel like a winner?) or "should I trust and be naive", I always try to come back to this Radiolab podcast to ground me. And then I ask myself, *What are the values you want to propagate into the world?*. Being mindful of my answer, and also the reality that the world still has people who don't believe in the same thing as you do... gives me some clarity on how I can move through the world. As the Obama's always say, think of "*the world as it is, and the world as it should be*".
+
+What this game theoretical evolution of trust and kindness tells me is that, people have memory. Over time, "the good folks" will find each other. And if you play Nicky Case's game, you'd find how we could help the "good behaviours" propagate and eliminate the "bad ones".
+
+P.S. I've been listening to so many podcasts on my breaks, I need to dump out my thoughts somewhere or else I'm going to go looney XD I met some nice folks in CMS P5 yesterday during my shift that I thought of writing this... How they treated me well as a first-time Technical shifter, which has a story that I'll also include in the final podcast episode! Really promoting the final episode! 

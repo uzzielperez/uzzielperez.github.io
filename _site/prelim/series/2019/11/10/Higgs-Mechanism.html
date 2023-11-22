@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <body>
+    <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+  <!-- <a class="active" href="/about">About</a> -->
+  <a href="/">Home</a>
+  <!-- <a href="/">Blog</a> -->
+  <a class="link" href="/news/index.html" data-scroll>Posts</a>
+  <a href="https://www.uzzielperez.com/">About</a>
+  <!-- <a href="/">Home</a> -->
+  <a aria-label="My Github" target="_blank" href="https://github.com/uzzielperez"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>  <a aria-label="My Twitter" target="_blank" href="https://twitter.com/uzziesh"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+  <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
+</div>
+
+    <main>
+      <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- <article class="post" itemscope itemtype="http://schema.org/BlogPosting"> -->
+<article class="post">
+  <div class="post-content container"  itemprop="articleBody" style="padding-left: 500px; padding-right: 300px;">
+    <h1> Understanding Symmetry Breaking (Part III)   <a href="https://twitter.com/share" class="twitter-share-button"{count}>Tweet</a></h1>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <h3 id="giving-the-gauge-bosons-a-mass">Giving the gauge bosons a mass</h3>
+
+<p>Instead of just having a scalar field, we can redo the previous calculations we did for a complex scalar field <script type="math/tex">\phi = \left(\phi_1 + i \phi_2 \right)/\sqrt(2)</script>. The Lagrangian becomes <script type="math/tex">\mathcal{L} = \left(\partial_{\mu} \phi\right)*\left(\partial_{\mu} \phi\right) - \mu^2 \phi*\phi - \lambda - \lambda \left(\phi*\phi \right)^2</script>.</p>
+
+<p>This is invariant under U(1) transformation, where <script type="math/tex">\phi \rightarrow e^{i\alpha \phi}</script>. When we rewrite the Lagrangian explicitly in terms of <script type="math/tex">\phi_1</script> and <script type="math/tex">\phi_2</script>. We consider the same cases when <script type="math/tex">\lambda > 0</script> and <script type="math/tex">% <![CDATA[
+\mu^2 < 0 %]]></script>.</p>
+
+<p>When we plot the potential, the minima is a set of points forming a circle. This occurs when <script type="math/tex">\lambda > 0</script> and <script type="math/tex">% <![CDATA[
+\mu^2 < 0 %]]></script>.</p>
+
+<p><img alt="Lumi" src="/assets/img/complexscalar.png" /></p>
+
+<p>If we translate the field to a minimum energy position, take <script type="math/tex">\phi_1 = v</script> and <script type="math/tex">\phi_2 = 0</script>, we can expand <script type="math/tex">\mathcal{L}</script> about the vacuum in terms of <script type="math/tex">\eta</script>, <script type="math/tex">\xi</script> with <script type="math/tex">\phi (x) = v + \eta(x) + i \xi(x)</script>, we then get</p>
+
+<p>\[ \mathcal{L}’ = \frac{1}{2}\left(\partial_{\mu} \xi\right)^2 + \frac{1}{2}\left(\partial_{\mu} \eta\right)^2 + \mu^2 \eta^2 + const. + extra terms\].</p>
+
+<p>Here we now find a mass term in the third term (<script type="math/tex">-\frac{1}{2}m_{\eta}^2 \eta^2</script>) for the <script type="math/tex">\eta</script>-field. So the mass is just <script type="math/tex">\sqrt{-2\mu^2}</script>.
+Notice that when we generate a massive gauge boson, we generate something what is called massless “Goldstone bosons”. And it turns out these are unwanted consequences.</p>
+
+<h2 id="the-higgs-mechanism">The Higgs Mechanism</h2>
+
+<p>Ok, I won’t go through the entire calculations here. Halzen and Martin did a very good job in Chapter 14.8 by first looking at the U(1) gauge symmetry and the SU(2) case. The first step is to make the lagrangian invariant under U(1) local gauge transformation and replace the derivatives with the covariant derivative <script type="math/tex">D_{\mu} = \partial_{\mu} - ieA_{\mu}</script>. We repeat the procedure of translating the field to the ground state. A goldstone boson <script type="math/tex">\xi</script> is produced, a massive scalar <script type="math/tex">\eta</script> and a massive vector <script type="math/tex">A_{\mu}</script> is also found. If we repeat the procedure for a local SU(2) Gauge symmetry, what happens is that the gauge fields will “eat up” the Goldstone bosons and will become massive. In both the U(1) and SU(2) case the Higgs mechanism the scalar degrees of freedom has been turned into some longitudinal polarization of the massive gauge particle.</p>
+
+<p>This is probably not a very good explanation for my college self yet. But the salient features are here. So we’re going to do another iteration of learning this later on.</p>
+
+  </div>
+</article>
+
+    </main>
+  </body>
+</html>
