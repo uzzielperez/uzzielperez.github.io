@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: "Spontaneous Remissions aren't so spontaneous"
+title: "Spontaneous Remissions"
 categories: Life
 author: Uzziel Perez
-meta: "RadicalRemissions"
+meta: "Spontaneous Remissions aren't so spontaneous"
 math: true
 ---
 UPDATED: May 20, 2024
