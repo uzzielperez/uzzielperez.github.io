@@ -3,7 +3,7 @@ layout: posts
 title: "VO2Max, Longevity and Spirituality"
 categories: Life
 author: Uzziel Perez
-meta: "On Living and Rebirth"
+meta: "On Living and Dying as a transformation"
 math: true
 ---
 UPDATED: May 20, 2024
