@@ -77,3 +77,18 @@ Cruza el puente sobre el rio Arve y sigue por la Allée Recteur Payot.
 Gira a la izquierda en la Rue Whymper, que se convierte en la Allée du Recteur Payot.
 Sigue las señales hacia el Télépherique de Brévent, subiendo ligeramente por el camino señalizado hasta la estación base del teleférico.
 
+## Descripción física – Crushes edition
+
+Guess who? Have had different crushes (and nice exes) in the last 5 years.
+
+Hay chicas que son altas.
+También hay mujeres bajitas o de estatura media.
+Normalmente, soy más musculoso que ellas.
+Todas tienen sonrisas bonitas, especialmente cuando sus ojos expresan felicidad.
+He salido con una rubia, una morena, una de pelo oscuro y una pelirroja.
+Me gustan los ojos grandes o pequeños.
+Pero lo más importante es una conexión intelectual y emocional.
+No estoy buscando activamente. Solo vivo mi vida con intención, y si se cruza alguien con quien todo encaja... entonces bienvenido sea.
+Sería bonito encontrar a alguien con quien tenga una vida compatible, que compartamos valores fundamentales. Me atraen las personas con carácter profundo, integridad y un gran sentido del humor.
+
+
