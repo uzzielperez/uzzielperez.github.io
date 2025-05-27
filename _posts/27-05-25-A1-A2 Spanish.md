@@ -79,8 +79,6 @@ Sigue las señales hacia el Télépherique de Brévent, subiendo ligeramente por
 
 ## Descripción física – Crushes edition
 
-Guess who? Have had different crushes (and nice exes) in the last 5 years.
-
 Hay chicas que son altas.
 También hay mujeres bajitas o de estatura media.
 Normalmente, soy más musculoso que ellas.
