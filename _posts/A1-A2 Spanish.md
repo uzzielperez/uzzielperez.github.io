@@ -44,8 +44,8 @@ Pero si no estoy bien, tomo el tren y me convierto en un experto en mirar el rel
 * Frente - Forehead
 * Oido -
 * lengua
-* Muela
-* Cuello
+* Muela -cheek tooth
+* Cuello 
 * Garganta
 * Pecho
 * Espalda
@@ -61,5 +61,17 @@ Some useful phrases:
 * Creo que tiene grippe.
 Que le duele?
 TODO MI CUERPO. XD
+
+## Pedir Dirreciones
+<iframe
+  src="[https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5595.4088... (embed link)](https://www.google.com/maps/dir/T%C3%A9l%C3%A9ph%C3%A9rique+Aiguille+du+Midi,+100+Pl.+de+l'Aiguille+du+Midi,+74400+Chamonix-Mont-Blanc,+France/T%C3%A9l%C3%A9ph%C3%A9rique+du+Br%C3%A9vent,+74400+Chamonix-Mont-Blanc,+France/@45.9265526,6.8383573,14z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47894e704815b249:0x3263d180bf62d1fe!2m2!1d6.87!2d45.9183333!1m5!1m1!1s0x47894dcf00bc5da1:0x5c5a8c3f32d4b030!2m2!1d6.853481!2d45.9354909?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D)"
+  width="600"
+  height="450"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
 
 
