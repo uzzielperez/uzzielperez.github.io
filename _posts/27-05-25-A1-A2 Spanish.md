@@ -90,5 +90,6 @@ Me gustan los ojos grandes o pequeños.
 Pero lo más importante es una conexión intelectual y emocional.
 No estoy buscando activamente. Solo vivo mi vida con intención, y si se cruza alguien con quien todo encaja... entonces bienvenido sea.
 Sería bonito encontrar a alguien con quien tenga una vida compatible, que compartamos valores fundamentales. Me atraen las personas con carácter profundo, integridad y un gran sentido del humor.
+No busco mucho drama, sino una vida de aventura y entendimiento profundo.
 
 
