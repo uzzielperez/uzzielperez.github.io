@@ -64,7 +64,16 @@ TODO MI CUERPO. XD
 
 ## Pedir Dirreciones
 Map of my favorite place in the world.
+
+Aquí tienes un mapa detallado para ir caminando desde el Teleférico de Aiguille du Midi hasta el Teleférico de Brévent en Chamonix, Francia:
+
 [![Ruta de Aiguille du Midi a Brévent](../images/TelepheriqueduAiguilleduMidiToLeBrevent.png)](https://www.google.com/maps/dir/T%C3%A9l%C3%A9ph%C3%A9rique+de+l'Aiguille+du+Midi,+Chamonix-Mont-Blanc,+France/T%C3%A9l%C3%A9ph%C3%A9rique+du+Br%C3%A9vent,+Chamonix-Mont-Blanc,+France/)
 
-
+Los intrucciones detalladas para ir caminando, aproximadamente 15-20 minutos a pie:
+Primero: Salida desde el Teleferico de Aiguille du Midi - Ubicado en la intersección de la Avenue de l'Aiguille du Midi y la Rue du Lyret.
+Camina hacia el norte por la Rue du Lyret hasta llegar a la Rue Joseph Vallot.
+Gira a la izquierda en la Rue Joseph Vallot y continua recto.
+Cruza el puente sobre el rio Arve y sigue por la Allée Recteur Payot.
+Gira a la izquierda en la Rue Whymper, que se convierte en la Allée du Recteur Payot.
+Sigue las señales hacia el Télépherique de Brévent, subiendo ligeramente por el camino señalizado hasta la estación base del teleférico.
 
