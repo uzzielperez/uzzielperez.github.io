@@ -156,18 +156,21 @@ Bebes alcohol? - NO! NUNCA! Por que tengo Asian flush.
 
 
 ### La Lista de compra 
-1.) Un <paquete> de té
-2.) Una <barra> de pan 
-3.) Una <botella> de aceite 
-4.) Un kilo de patatas 
-5.) 2 kilos de jamon 
-6.) 3 kilos de tomates
-7.) Una bolsa de mandarinas 
-8.) Una paquete de sal
-9.) Una cartón de leche
-10.) 1 kilo de queso 
-11.) Una docena de huevos
-12.) Una lata de atun
+| #   | Cantidad                   | Producto         | Corrección                      |
+|-----|----------------------------|------------------|---------------------------------|
+| 1   | Un paquete                 | té               | ✅ Correcto                     |
+| 2   | Una barra                  | pan              | ✅ Correcto                     |
+| 3   | Una botella                | aceite           | ✅ Correcto                     |
+| 4   | Un kilo                    | patatas          | ✅ Correcto                     |
+| 5   | Dos kilos                  | jamón            | Corregido: "2" → "Dos", jamon → jamón |
+| 6   | Tres kilos                 | tomates          | Corregido: "3" → "Tres"        |
+| 7   | Una bolsa                  | mandarinas       | ✅ Correcto                     |
+| 8   | Un paquete                 | sal              | Corregido: "Una" → "Un"        |
+| 9   | Un cartón                  | leche            | Corregido: "Una" → "Un", cartón → cartón |
+| 10  | Un kilo                    | queso            | ✅ Correcto                     |
+| 11  | Una docena                 | huevos           | ✅ Correcto                     |
+| 12  | Una lata                   | atún             | Corregido: atun → atún         |
+
 
 
 
