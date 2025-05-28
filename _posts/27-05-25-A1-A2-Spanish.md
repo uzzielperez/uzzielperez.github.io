@@ -171,6 +171,60 @@ Bebes alcohol? - NO! NUNCA! Por que tengo Asian flush.
 | 11  | Una docena                 | huevos           | ✅ Correcto                     |
 | 12  | Una lata                   | atún             | Corregido: atun → atún         |
 
+## Objetos de La Casa
+## 🛋️ Living Room (La sala / El salón)
+- **El sofá** – Sofa  
+- **La silla** – Chair  
+- **La mesa de centro** – Coffee table  
+- **La televisión / El televisor** – TV  
+- **La lámpara** – Lamp  
+- **La cortina** – Curtain  
+- **La alfombra** – Rug  
+- **La estantería / El librero** – Bookshelf
+
+## 🍽️ Dining Room (El comedor)
+- **La mesa** – Table  
+- **La silla** – Chair  
+- **El plato** – Plate  
+- **El vaso** – Glass  
+- **El tenedor** – Fork  
+- **El cuchillo** – Knife  
+- **La cuchara** – Spoon  
+- **La servilleta** – Napkin
+
+## 🍳 Kitchen (La cocina)
+- **El refrigerador / La nevera** – Fridge  
+- **La estufa / La cocina** – Stove  
+- **El horno** – Oven  
+- **El microondas** – Microwave  
+- **El fregadero / El lavaplatos** – Sink  
+- **El armario / La alacena** – Cupboard  
+- **La sartén** – Pan  
+- **La olla** – Pot
+
+## 🛏️ Bedroom (El dormitorio / La habitación / El cuarto)
+- **La cama** – Bed  
+- **La almohada** – Pillow  
+- **La manta / La cobija** – Blanket  
+- **El armario / El ropero** – Wardrobe  
+- **La cómoda** – Dresser  
+- **La mesita de noche** – Nightstand
+
+## 🚽 Bathroom (El baño)
+- **El inodoro / El váter** – Toilet  
+- **El lavabo** – Sink  
+- **La ducha** – Shower  
+- **La bañera** – Bathtub  
+- **El espejo** – Mirror  
+- **La toalla** – Towel  
+- **El jabón** – Soap  
+- **El cepillo de dientes** – Toothbrush
+
+## 🧺 Laundry Room (El lavadero)
+- **La lavadora** – Washing machine  
+- **La secadora** – Dryer  
+- **El detergente** – Detergent  
+- **El cesto de ropa** – Laundry basket
 
 
 
