@@ -226,5 +226,18 @@ Bebes alcohol? - NO! NUNCA! Por que tengo Asian flush.
 - **El detergente** – Detergent  
 - **El cesto de ropa** – Laundry basket
 
+# Gerundio 
+* The sun is shining through the curtains. -> El sol está brillando a través de las cortinas
+* Birds are singing outside the window. -> Los pajaros están cantando fuera de la ventana.
+* Someone is brushing their teeth in the bathroom. -> Alguien está cepillándose los dientes en el baño.
+* The coffee machine is making coffee in the kitchen. -> La cafetera está haciendo café en la cocina.
+* A child is watching cartoons on the sofa. -> Un niño está viendo dibujos animados en el sofá
+* The cat is sleeping on the rug. -> El gato está durmiendo sobre la alfombra.
+* A man is reading a newspaper at the table. -> Un hombre está leyendo el periódico en la mesa.
+* The washing machine is spinning the clothes -> La lavadora está girando la ropa.
+
+
+
+
 
 
