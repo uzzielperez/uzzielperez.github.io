@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <body>
+    <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+  <!-- <a class="active" href="/about">About</a> -->
+  <a href="/">Home</a>
+  <!-- <a href="/">Blog</a> -->
+  <a class="link" href="/news/index.html" data-scroll>Posts</a>
+  <a href="https://www.uzzielperez.com/">About</a>
+  <!-- <a href="/">Home</a> -->
+  <a aria-label="My Github" target="_blank" href="https://github.com/uzzielperez"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>  <a aria-label="My Twitter" target="_blank" href="https://twitter.com/uzziesh"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+  <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
+</div>
+
+    <main>
+      <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- <article class="post" itemscope itemtype="http://schema.org/BlogPosting"> -->
+<article class="post">
+  <div class="post-content container"  itemprop="articleBody" style="padding-left: 500px; padding-right: 300px;">
+    <h1> The idea behind Luminosity in the LHC.   <a href="https://twitter.com/share" class="twitter-share-button"{count}>Tweet</a></h1>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <p>Collider physics papers normally report the amount of data they collected in terms of “Luminosity” <script type="math/tex">\mathcal{L}</script>. It wasn’t very clear to me what it meant so my adviser “friendly grilled” me about it and we went down to the very basics.</p>
+
+<p>One of the first things we think about when it comes to the actual data we collected is the number of events that we can get out proton-proton collisions.</p>
+
+<p>\[ N = \varepsilon \sigma \mathcal{L} \]</p>
+
+<p>We can move things around and solve for the Luminosity. We can assume that the efficiency <script type="math/tex">\varepsilon</script> is just 1. But what is the cross-section <script type="math/tex">\sigma</script> here and the number of events N?</p>
+
+<p>Cross-section is measured in terms of area. If we assume that protons are spherical and has a radius of 1 fermi or <script type="math/tex">1\times10^{-15}</script> meters then the contact area of two protons colliding would be approximately <script type="math/tex">A = \pi r^2</script>. If we plug in the numbers that would be <script type="math/tex">A = \pi (1 \times 10^-30) \textrm{m}^2</script>. Knowing that 1 barn (b) is equivalent to <script type="math/tex">1 \times 10^{-28}</script> m^2 so the cross-section for individual proton-proton (pp) collisions is about 30 mb. We can assume that if the protons just slide past one another that the electromagnetic force between them are negligible since the “strong force” that binds the gluons, quarks and the “sea” of particles inside the protons is much stronger.</p>
+
+<p><img alt="Lumi" src="/assets/img/Lumi.jpg" />s</p>
+
+<p>It’s quite hard to align individual protons together. They’re so tiny it’s nearly impossible to align them to be on collision course. So in the LHC, proton beams are made. These proton beams are composed of bunches of protons. There are about <script type="math/tex">10^{11}</script> protons in these bunches that collide every 25 nanoseconds (ns). Most of the protons here don’t even meet. There are only about 20 collisions per bunch crossing. Knowing that there are about <script type="math/tex">300 \times 10^5</script> s in a day, we can divide that number by 25 ns and we have around <script type="math/tex">1 \times 10^{15}</script> bunch crossings per year. The LHC was on for about 3 years, so with 20 collisions per bunch crossing, there would be about about <script type="math/tex">10^{16}</script> events from pp collisions. We can get this same order of magnitude in another way. The recorded integrated luminosity for Run II was <script type="math/tex">139 fb^{-1}</script> so if we multiply that with the cross-section for individual proton-proton collisions that would be <script type="math/tex">10^{16}</script> events! That’s a lot of information to store! This <a href="https://www.youtube.com/watch?v=jDC3-QSiLB4">video</a> shows how the LHC processes data. Of course not all of these are recorded. I’ll probably write about event filtering later.</p>
+
+  </div>
+</article>
+
+    </main>
+  </body>
+</html>

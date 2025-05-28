@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <body>
+    <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+  <!-- <a class="active" href="/about">About</a> -->
+  <a href="/">Home</a>
+  <!-- <a href="/">Blog</a> -->
+  <a class="link" href="/news/index.html" data-scroll>Posts</a>
+  <a href="https://www.uzzielperez.com/">About</a>
+  <!-- <a href="/">Home</a> -->
+  <a aria-label="My Github" target="_blank" href="https://github.com/uzzielperez"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>  <a aria-label="My Twitter" target="_blank" href="https://twitter.com/uzziesh"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+  <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
+</div>
+
+    <main>
+      <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- <article class="post" itemscope itemtype="http://schema.org/BlogPosting"> -->
+<article class="post">
+  <div class="post-content container"  itemprop="articleBody" style="padding-left: 500px; padding-right: 300px;">
+    <h1> Can Kindness Survive in a Mean and Hostile World? (Part III)   <a href="https://twitter.com/share" class="twitter-share-button"{count}>Tweet</a></h1>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <h2 id="playing-with-axelrods-computer-simulations">Playing with AxelRod’s Computer Simulations</h2>
+
+<p>I’ve been talking about some game theory and mentioned briefly about computer simulations on how kindness (or evil) evolves in an iterated prisoner’s dilemma. This all started with a guy named Robert Axelrod, a political science professor at the University of Michigan. He got curious about the Cuban missile crisis and how parties could get out of an escalating crisis. One party then could build more bombs, and then the other could build even more and they’d just go to the point of mutual destruction. But then again, if one stops building bombs, one could just be bombed and obliterated. It’s a hard game to be in. To understand different scenarios, he imagined an iterated version of prisoner’s dilemma where you’ll meet the same kind of people again and again. Generally, “you want to cooperate but don’t want to get screwed over”, Axelrod says.</p>
+
+<p>I listed in a <a href="https://uzzielperez.github.io/life/2019/12/03/Can-kindness-survive-in-a-mean-and-hostile-world-p1.html">previous blog</a> some of the programs like Tit-fot-Tat and “Massive Retaliatory strike”. These programs are made to play against each other 200 times and see who will survive or prosper. The computer programs submitted for the competition are actually open source and you can make your own simulations in your computer! You can check out the documentation <a href="https://axelrod.readthedocs.io/en/stable/">here</a>.</p>
+
+<p>Just for fun, let’s look at some basic things we can do with it. First, we can install it through</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip <span class="nb">install </span>axelrod
+</code></pre></div></div>
+<p>or you can build it from source following the instructions <a href="https://axelrod.readthedocs.io/en/stable/tutorials/getting_started/installation.html">here</a>.</p>
+
+<p>Here’s a simple tournament you can run interactively with python or a python script:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">axelrod</span> <span class="k">as</span> <span class="n">axl</span>
+<span class="n">players</span> <span class="o">=</span> <span class="p">[</span><span class="n">axl</span><span class="o">.</span><span class="n">Cooperator</span><span class="p">(),</span> <span class="n">axl</span><span class="o">.</span><span class="n">Defector</span><span class="p">(),</span> <span class="n">axl</span><span class="o">.</span><span class="n">TitForTat</span><span class="p">(),</span> <span class="n">axl</span><span class="o">.</span><span class="n">Grudger</span><span class="p">()]</span>
+<span class="k">print</span> <span class="p">(</span><span class="n">players</span><span class="p">)</span>
+<span class="c"># Run a basic tournament</span>
+<span class="n">tournament</span> <span class="o">=</span> <span class="n">axl</span><span class="o">.</span><span class="n">Tournament</span><span class="p">(</span><span class="n">players</span><span class="p">)</span>
+<span class="n">results</span> <span class="o">=</span> <span class="n">tournament</span><span class="o">.</span><span class="n">play</span><span class="p">()</span>
+<span class="k">print</span> <span class="p">(</span><span class="n">results</span><span class="o">.</span><span class="n">ranked_names</span><span class="p">)</span>
+<span class="c"># Result:</span>
+<span class="c"># ['Defector', 'Tit For Tat', 'Grudger', 'Cooperator']</span>
+</code></pre></div></div>
+
+<p>It’s not surprising that the winner in this tournament is the ‘Defector’ and the ‘Cooperator’ comes last. The classical Prisoner’s dilemma is constructed in such a way that players have more incentives to defect. Tit For Tat comes next. I think there are only 25 rounds here, not 200.</p>
+
+<p>I want to do a bunch of other things with the Axelrod package in <a href="https://github.com/uzzielperez/Axelrod">GitHub</a>. For example, one could explore the different programs, e.g. “Does it manipulate? (mess with the other’s source code)”, “Does it require a long time to run?”. There are also ways to visualize the results of the competition. This I’d like to do a personal project on using javascript maybe. One could also play against different programs through “Human interactions mode”. Perhaps the two most interesting things for me to look at are the <a href="https://axelrod.readthedocs.io/en/stable/tutorials/further_topics/ecological_variant.html">Ecological Variant</a> and the <a href="https://axelrod.readthedocs.io/en/stable/tutorials/further_topics/evolvable_players.html">Evolvable Players</a>. The Ecological variant looks at the evolutionary stability of the different strategies, i.e. these programs can create “babies” and reproduce over time. Pretty cool! And then we can also look at how some players can “mutate”. Basically we can simulate natural selection!</p>
+
+<p>So, I’ve been obsessing about this Axelrod computer simulations because of this (Radiolab podcast)(https://www.wnycstudios.org/podcasts/radiolab/segments/104010-one-good-deed-deserves-another). I’ve been gushing about this for months! The main question was, can cooperation emerge in this horribly hostile world? This part of the podcast impacted me a lot:</p>
+
+<blockquote>
+  <p>** … the answer was, if you have enough of them so that they have enough chance of meeting each other, they can actually invade and take over the world. Even if the world starts horribly mean… I mean what always sent chills down my spine is that we see this version of morality around the world. You know, be upright, forgiving but retaliatory. I mean, that sounds to me like the Old Testament. It’s not turn the other cheek, it’s an eye for an eye. But not 10 eyes for an eye. And to think that it’s not something that’s handed down by our teachers or by God, but that it’s something that came from biology, I like that argument personally.** - Steve Strogatz</p>
+</blockquote>
+
+<h2 id="a-christmas-truce">A Christmas Truce</h2>
+
+<p>I told a friend that the podcasts (including the <a href="https://www.wnycstudios.org/podcasts/radiolab/episodes/whats-left-when-youre-right">other</a>) doesn’t just talk about theoretical math and computer simulation but actual real life examples. And now I think it would be fitting to talk about something that happened on Christmas day in 1914 during the First World War.</p>
+
+<p>Axelrod came across a book called the Live-And-Let-Live System in World War One. One morning, one of the parties just stopped shooting and let the other have breakfast. The other party, I think the Germans, reciprocates. It’s just line one of the code for Tit for Tat which says “Be nice first”. Moving forward to Christmas Eve, the Germans put up Christmas trees and they lit candles and sung Christmas carols. The British guys and everyone else moved into no-man’s land and they exchanged gifts, ate dinner, drank and all the nice things you won’t ever imagine in a war.</p>
+
+<p>Some people say that this Christmas Truce didn’t happen but there are letters that these soldiers sent back home. There’s a movie called “Joyeux Noel” about it that I watched a long time ago. This is the <a href="https://www.youtube.com/watch?v=hOhrT_li6u8">Christmas Truce scene</a>. Probably worth rewatching.</p>
+
+  </div>
+</article>
+
+    </main>
+  </body>
+</html>
