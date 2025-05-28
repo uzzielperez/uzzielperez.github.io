@@ -90,4 +90,84 @@ No estoy buscando activamente. Solo vivo mi vida con intención, y si se cruza a
 Sería bonito encontrar a alguien con quien tenga una vida compatible, que compartamos valores fundamentales. Me atraen las personas con carácter profundo, integridad y un gran sentido del humor.
 No busco mucho drama, sino una vida de aventura y entendimiento profundo — en la salud y en la enfermedad, con honestidad, ternura y compañerismo.
 
+## El Mercado 
+Ok, - this is taken from: https://oficinamunicipalinmigracion.es/wp-content/uploads/2021/01/Manual-de-espanol-Tejiendo-el-espanol-A1.pdf. 
+Just for review!!! I'm not trying to earn money from this.
+
+Alimentos que se pueden comer crudos (Foods that can be eaten raw):
+* Manzanas
+* Plátanos
+* Kiwis
+* Zanahorias
+* Tomates
+
+Alimentos que necesitan freírse (Foods that need to be fried):
+* Huevos
+* Pescado
+* Papas
+* Croquetas
+
+Alimentos que se hacen en una sartén (Foods that are cooked in a frying pan):
+* Huevos
+* Pescado
+* Tortillas
+* Verduras salteadas
+
+Alimentos que necesitan pelarse (Foods that need to be peeled):
+* Plátanos
+* Kiwis
+* Naranjas
+* Papas
+
+    💡 Nota: El aceite de oliva no se pela. Proviene de aceitunas que se prensan, no se pelan.
+
+Alimentos que se hacen en el horno (Foods that are cooked in the oven):
+* Pescado
+* Pollo
+* Pan
+* Pizza
+* Galletas 
+
+Dime lo que comes: 
+Fruta - Si, casi todos los dias. 
+Verdura - Si, casi todos los dias 
+Tomas lácteos - No
+Comes legumbres? - Sí, una o dos veces al día
+Comes pescado y pollo? - Sí, una vez a la semana 
+Comes carne? - Sí todos los dias
+Comes comida rápida? - Disafortudanadamente, si
+Bebes alcohol? - NO! NUNCA! Por que tengo Asian flush.
+
+### La dieta de tu profesora 
+| Cantidad                | Producto       | Expresión correcta               |
+|-------------------------|----------------|----------------------------------|
+| 2 kg de carne           | carne          | Mucha carne                      |
+| 1 l de leche            | leche          | Demasiada leche                  |
+| 5 vasos de agua         | agua           | Poca agua                        |
+| 20 l de cerveza         | cerveza        | Mucha cerveza                    |
+| 250 g de pescado        | pescado        | Poco pescado                     |
+| 0 azúcar                | azúcar         | Nada de azúcar                   |
+| 35 manzanas             | manzanas       | Muchas manzanas                  |
+| 1 huevo                 | huevo          | Poco huevo                       |
+| 5 kg de patatas         | patatas        | Muchas patatas                   |
+| 2 tomates               | tomates        | Demasiados tomates               |
+| 10 hamburguesas         | hamburguesas   | Muchas hamburguesas              |
+| 0 galletas              | galletas       | Ninguna galleta / Nada de galletas |
+
+
+### La Lista de compra 
+1.) Un <paquete> de té
+2.) Una <barra> de pan 
+3.) Una <botella> de aceite 
+4.) Un kilo de patatas 
+5.) 2 kilos de jamon 
+6.) 3 kilos de tomates
+7.) Una bolsa de mandarinas 
+8.) Una paquete de sal
+9.) Una cartón de leche
+10.) 1 kilo de queso 
+11.) Una docena de huevos
+12.) Una lata de atun
+
+
 
