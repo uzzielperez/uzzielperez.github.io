@@ -236,6 +236,57 @@ Bebes alcohol? - NO! NUNCA! Por que tengo Asian flush.
 * A man is reading a newspaper at the table. -> Un hombre está leyendo el periódico en la mesa.
 * The washing machine is spinning the clothes -> La lavadora está girando la ropa.
 
+# 📚 Topics for Practicing Spanish Past Tenses
+
+| Tense              | Use When...                                 | Timeframe         | Clue Words                         |
+|--------------------|---------------------------------------------|--------------------|------------------------------------|
+| **Imperfecto**     | Describing habits or background             | Ongoing Past       | siempre, mientras, cuando...       |
+| **Indefinido**     | Narrating what happened                     | Finished Past      | ayer, el año pasado, una vez       |
+| **Perfecto**       | Describing recent or still-relevant actions | Recent / Present   | hoy, esta semana, ya, todavía, nunca |
+
+
+* **Preterito Imperfecto**
+* 
+
+| # | Topic                             | Description                                           | Tenses You Can Use                        |
+|---|-----------------------------------|-------------------------------------------------------|-------------------------------------------|
+| 1 | **Your Childhood**                | What you used to do, how life was                    | Imperfecto                                |
+| 2 | **A Specific Past Trip**         | What happened, where you went                        | Indefinido                                |
+| 3 | **What You Did This Week**       | Recent actions with connection to now                | Perfecto                                  |
+| 4 | **A Daily Routine in the Past**  | Describe how life used to be at a certain time       | Imperfecto + Perfecto / Indefinido        |
+| 5 | **A Memorable Event**            | Tell a story (accident, celebration, etc.)           | Indefinido + Imperfecto (for background)  |
+| 6 | **A Job or School Experience**   | What you did, how it was, and results                | Mix of all three                          |
+| 7 | **TV Show or Book You Finished** | What happened in the plot                            | Indefinido, some Perfecto                 |
+| 8 | **This Morning or Today**        | If it’s still “today,” use Perfecto                  | Perfecto                                  |
+| 9 | **What You Used to Believe or Like** | Personal evolution over time                     | Imperfecto                                |
+|10 | **Comparing Then vs. Now**       | Talk about past habits and contrast with today       | Imperfecto + Perfecto                     |
+
+## Practice Prompts (with tense suggestions)
+
+## Preterito Perfecto
+* Esta semana he... (Perfecto - recent) - "Esta semana he leido una libro se llama "Tibetan Book of the Dead". "Esta semana he escribido una papel sobre Graph Neural Networks". "Esta semana se ha lesionado la rodilla."
+* ¿Qué has hecho hoy? (Perfecto) - "Hoy, he tomado el autobus. Hoy, he bebido un cafe. Hoy ellos han comido el pollo. Hoy, hemos hablado sobre nuestro proyecto."
+
+## Preterito Indefinido 
+* Ayer fui a... y después... (Indefinido) - Ayer fui a la oficina, y después estudié para mi examen. Ayer fui al gimnasio y luego me di un masaje. Ayer fue al gimnasio, y te diste al gimnasio. 
+* Cuando era niño, siempre... (Imperfecto) - Cuando era niño siempre le
+* El año pasado viajé a... (Indefinido + Imperfecto)
+
+## Preterito Imperfecto 
+
+* Antes me gustaba..., pero ahora... (Imperfecto + Presente)
+* Cuando estudiaba en la universidad, solía... (Imperfecto + Indefinido)
+* Una vez, mientras caminaba por la calle... (Imperfecto for background + Indefinido for action)
+
+
+
+
+
+
+
+
+
+
 
 
 
