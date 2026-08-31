@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <body>
+    <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+  <!-- <a class="active" href="/about">About</a> -->
+  <a href="/">Home</a>
+  <!-- <a href="/">Blog</a> -->
+  <a class="link" href="/news/index.html" data-scroll>Posts</a>
+  <a href="https://www.uzzielperez.com/">About</a>
+  <!-- <a href="/">Home</a> -->
+  <a aria-label="My Github" target="_blank" href="https://github.com/uzzielperez"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>  <a aria-label="My Twitter" target="_blank" href="https://twitter.com/uzziesh"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+  <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
+</div>
+
+    <main>
+      <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- <article class="post" itemscope itemtype="http://schema.org/BlogPosting"> -->
+<article class="post">
+  <div class="post-content container"  itemprop="articleBody" style="padding-left: 500px; padding-right: 300px;">
+    <h1> Big Picture Phase I   <a href="https://twitter.com/share" class="twitter-share-button"{count}>Tweet</a></h1>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <p><em>Do not drown in a sea of equations.</em> -Doc J.</p>
+
+<p>Dr. Jerrold Garcia, or Doc J, was one of the most influential physics  professors in my college days. He was quite a strange guy. He was obviously looney and that made people gravitate towards him. And I would say he was the smartest physics prof ever in ADMU.</p>
+
+<p>When I told my mom I wanted to do physics instead of taking a well-known “Management Engineering” course, we toured the different labs in Ateneo. While at the vacuum lab, there was this guy with a funny hair that came in. It was Doc J. The professor who was touring us told him, “she wants to move to physics.” Doc J looked at me, and then my mom. Took a deep breath and his eyebrows furrowed. I thought he was going to say I wasn’t welcome or something. After an incredibly long pregnant pause that seemed like an eternity he said “Nasisiraan ka na ba ng bait???!!!” (“Have you lost your mind?”). And then he smiled. I forgot what happened next but you know, the rest was history.</p>
+
+<p>In his classes he told us not to “<em>drown in a see of equations</em>”. To not forget about the “physics”. That would guide the equations. And he also said that not everything in nature can be written in equations or formulas. And the closest thing we could do was code or do a numerical analysis or simulation of a certain model. Much of what I do now seem more of the latter. I let the phenomenologists or theorists do the equations and I run their models and compare with data.</p>
+
+<p>I am writing this while am running code on 140000+ events which is a small subset of the simulation I am looking at. I just wanted to take advantage of the waiting time. I also sort of want to “celebrate” the culmination of a week’s worth of debugging and restructuring of my code to comb through data. I like writing. It clears my mind.</p>
+
+<p>Phase I of my work is about measuring the “photon efficiency”. I might have mentioned in earlier blog posts that not every collision product is interesting or worth storing in memory. So we have what we call a “Trigger” which I call “Tinder for particles”. If the event passes the “Trigger”, they get stored in memory and we can “get to know them better”! In our parlance, we call this “offline analysis”.</p>
+
+<p>When we do our “offline analysis” we need to filter them further for quality. Sometimes, the photons we want are actually “fakes”. For example, electrons and jets could interact with the detector such that they look like photons. But there are subtle clues that could let us tell them apart. Of course this is not a hundred percent fool proof. So there are several “strictness levels” in our filters or what we call “selection criteria.”. For comparison, when you are super selective about people and you don’t give others a chance, you can miss out on “real good ones”. But then again if you’re too “loose”, you let in a lot of garbage too. You just have to be aware of the trade offs.</p>
+
+<p>Since I am just really in the beginning phases of my Dissertation, the learning curve for me is quite steep. I am taking a while to make sure that the machinery works for my specific problem. And for a while, I forgot why we were measuring the efficiency in the first place.</p>
+
+<p>Again, the goal of my research is to measure the cross-section of a rare physics process. From our data we could look at the number of events which is related to the cross-section [fb] and the luminosity [fb-1]. If we had a perfect 100\% efficiency then we’ll get no “loss” in the number of events and we’d have a better measurement. An easy way to remember this is through this equation. The units of the cross-section and luminosity just cancel out.</p>
+
+<p>\[ N = \varepsilon \sigma \mathcal{L} \]</p>
+
+<p>So, this is where the importance of efficiency is. We have to make sure we aren’t throwing away too many “photons” while suppressing the “fakes”.</p>
+
+<p>In the next phase of my research my goal is to determine the rate by which these “fakes” occur. This is important so that we could “subtract” the fake contribution from the data.</p>
+
+<p>I’m a long way from finishing this work and I am feeling a mixture of excitement and nervousness. There are parts of the analysis that I completely know nothing about and I have to start the machinery from scratch. I will talk about them as I progress in my work.</p>
+
+<p>Currently, my Ntuplizer is found <a href="https://github.com/uzzielperez/multiphoton-analysis">here</a> and specific analysis code and some results are in a private repo (for quality testing purposes too!). I shall publicize them when I have finished my work so people can reproduce my work.</p>
+
+  </div>
+</article>
+
+    </main>
+  </body>
+</html>

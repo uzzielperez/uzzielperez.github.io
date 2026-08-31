@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <body>
+    <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+  <!-- <a class="active" href="/about">About</a> -->
+  <a href="/">Home</a>
+  <!-- <a href="/">Blog</a> -->
+  <a class="link" href="/news/index.html" data-scroll>Posts</a>
+  <a href="https://www.uzzielperez.com/">About</a>
+  <!-- <a href="/">Home</a> -->
+  <a aria-label="My Github" target="_blank" href="https://github.com/uzzielperez"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>  <a aria-label="My Twitter" target="_blank" href="https://twitter.com/uzziesh"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+  <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
+</div>
+
+    <main>
+      <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- <article class="post" itemscope itemtype="http://schema.org/BlogPosting"> -->
+<article class="post">
+  <div class="post-content container"  itemprop="articleBody" style="padding-left: 500px; padding-right: 300px;">
+    <h1> Calorimeters   <a href="https://twitter.com/share" class="twitter-share-button"{count}>Tweet</a></h1>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <h2 id="calorimeters">Calorimeters</h2>
+
+<p>I’m about to wrap up my review for the prelim exam with a few more blog entries on particle physics. I’m going to follow up on the LHC blog with a more detailed discussion on calorimeters. Need to do this for my own understanding!</p>
+
+<p>Calorimeters are materials that are used to absorb the energy of particles. The energy absorbed can then be measured depending on how the material reacts, e.g. it would change temperature or emit light when they get excited.</p>
+
+<p>We talked about the electromagnetic calorimeter (ECAL) and hadronic calorimeter (HCAL) in a previous blog. The ECAL measures electron and photon energy. The amazing thing about the ECAL is it’s made up of more than 70,000 beautiful lead tungstate crystals. These crystals are special as they both perform the task of an absorber and an active medium. As a photon or an electron encounters a nucleus in the crystal, the photon pair-produces while the electron undergoes “bremsstrahlung”. “bremsstrahlung” is a German word that comes from “bremsen” meaning “to break” and “Strahlung” which means “radiation”. So whenever an electron or a charged particle hits an atomic nucleus, it gets deflected and emits a photon. You can imagine that when the photon produces a pair of e+ e-, the e+ e- would “Brem” and then the photon coming out would pair produce again and this process continuous on like a tree branching out. This is called an electromagnetic shower and is shown below. I got the crystal image from cds and the electromagnetic shower from <a href="https://www.mpp.mpg.de/~menke/elss/">here</a>.</p>
+
+<p><img alt="Lumi" src="/assets/img/leadtungstate.jpg" /></p>
+
+<p><img alt="Lumi" src="/assets/img/shower" /></p>
+
+<p>When the crystal has absorbed enough of the electron or photon’s energy and it goes down to ev-range energies, this will excite the atoms in the crystal and then radiate light when it drops down to its original state. This process is called “scintillation”.</p>
+
+<p>Another jargon I need to understand is “radiation length”. It’s the “characteristic amount of matter traversed” by the shower. It’s defined as the “mean distance over which a high-energy electron loses all but 1/e of its energy by bremsstrahlung” and “7/9 of the mean free path for pair production by a high-energy photon” (see <a href="http://pdg.lbl.gov/2011/reviews/rpp2011-rev-passage-particles-matter.pdf">pdg p18</a>). To be honest, it’s still not very clear in my head what it is. Need to discuss this and the Moliere radius with my adviser. The later is related to the transverse development of the shower. It scales with the Moliere radius.</p>
+
+<p>The pretty lead tungstate crystals are super expensive. But they were worth it! I think the story is that CMS spent a lot of money on the ECAL because they were banking on finding the Higgs boson when it decays to two photons (<script type="math/tex">H->\gamma\gamma</script>). They did find it in 2012. So because of budget constraints, they could only build the HCAL with a “sampling” calorimeter with a poorer resolution. “Sampling” means it has alternating layers of “absorber” and fluorescent “scintillator” materials. I couldn’t find a good picture but just imagine that the absorber is thicker and you sandwhich a thin scintillator layer in between the absorbers. As the particles pass through the HCAL you only “sample” the energy and don’t have the ability to measure it everywhere.</p>
+
+<p>The nice thing about calorimeters is that energy resolution improves with the energy of the particle. It goes as <script type="math/tex">1/\sqrt{E}</script>. So this is very good for high-energy physics (HEP) experiments.</p>
+
+<p>I think that’s all the studying I’ll do for today because I’m tired.</p>
+
+  </div>
+</article>
+
+    </main>
+  </body>
+</html>

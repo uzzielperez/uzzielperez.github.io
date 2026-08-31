@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <body>
+    <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+  <!-- <a class="active" href="/about">About</a> -->
+  <a href="/">Home</a>
+  <!-- <a href="/">Blog</a> -->
+  <a class="link" href="/news/index.html" data-scroll>Posts</a>
+  <a href="https://www.uzzielperez.com/">About</a>
+  <!-- <a href="/">Home</a> -->
+  <a aria-label="My Github" target="_blank" href="https://github.com/uzzielperez"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>  <a aria-label="My Twitter" target="_blank" href="https://twitter.com/uzziesh"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+  <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
+</div>
+
+    <main>
+      <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- <article class="post" itemscope itemtype="http://schema.org/BlogPosting"> -->
+<article class="post">
+  <div class="post-content container"  itemprop="articleBody" style="padding-left: 500px; padding-right: 300px;">
+    <h1> A Few Discoveries this week   <a href="https://twitter.com/share" class="twitter-share-button"{count}>Tweet</a></h1>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <h3 id="markdown-slides-with-pandoc">Markdown Slides with pandoc</h3>
+<p>I’ve found something really cool. Cool for me. Am not sure if it would be relatable for some. I’ve just learned this cool way of making “Beamer” presentations without using LATEX!</p>
+
+<p>LATEX is cool but it is cumbersome. I also hate using keynote and powerpoint. But I found Markdown to be an easy way to lay out my thoughts. It’s a lot more free flowing. It’s just like taking notes. Better than word because it’s super easy to type equations and code too!</p>
+
+<p>Initially, I was going to migrate all my presentations to Jupyter slides but I haven’t figured out a way to share them without making a public github repo and using <a href="https://mybinder.org/v2/gh/binder-examples/jupyter-rise/master?filepath=index.ipynb">Binder</a>.</p>
+
+<p>Anyway, let’s get back to the topic! Making Beamer Slides with Markdown and pandoc.</p>
+
+<h4 id="setup">Setup</h4>
+<p>For starters, I do recommend installing <a href="https://sandbox.anaconda.com/">anaconda</a> or just installing <a href="https://pandoc.org/installing.html">pandoc</a></p>
+
+<h4 id="the-markdown-file">The Markdown File</h4>
+<p>The slides are separated by single hashes and those also serve as the title. I’ve linked in the tutorials I’ve watched.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Slide 1
+
+# Slide 2
+
+- Item
+- Another Item
+- Etc
+
+# Slide 3
+
+$$ \sum_{a,b} + x \infty $$
+
+# Slide 4
+
+- *This text is in italics*
+- **This text is in bold**
+- ~~This text has a line through it~~
+
+# Slide 5
+
+![Da Vinci Style CMS Detector](oreach-2009-001.jpg)
+
+# Slide 6
+
+Just want to credit LucidProgramming for the introductory [tutorial](https://www.youtube.com/watch?v=e-HqKSBZOXo).
+
+# Prettification
+
+Thanks to this [prettifying tutorial](https://www.youtube.com/watch?v=dum7q6UXiCE) from Luke Smith, we can add some metadata to make our presentation pretty.
+
+You can find some themes and color themes [here](http://deic.uab.es/~iblanes/beamer_gallery/).
+
+</code></pre></div></div>
+
+<h4 id="styling">Styling</h4>
+
+<p>You can add some metadata at the top and a separate .tex file to indicate some styles.</p>
+
+<p><em>Metadata</em></p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+title:
+- Uzzie Presentation
+author:
+- Uzziel Perez
+hyperrefoptions:
+- linktoc=all
+- pdfwindowui
+- pdfpagemode=FullScreen
+pagenumbering:
+- footer
+---
+</code></pre></div></div>
+
+<p><em>styl.tex file</em></p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}[frame number]
+
+</code></pre></div></div>
+
+<h4 id="getting-the-output">Getting the output</h4>
+<p>To get the output, one can type this in the terminal:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+pandoc <span class="nt">-t</span> beamer presentation_sample.md <span class="nt">-o</span> output.pdf
+
+</code></pre></div></div>
+<p>If you have .tex file to set some stuff:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+pandoc <span class="nt">-t</span> beamer <span class="nt">--include-in-header</span><span class="o">=</span>header_pagenrs.tex presentation_sample.md <span class="nt">-o</span> output.pdf
+
+</code></pre></div></div>
+
+<p>And the basic output looks like <a href="https://drive.google.com/file/d/1c7dTfYyWI109Z0bI0Z8zrbyHUSCgvcet/view?usp=sharing">this</a>.</p>
+
+<h3 id="breaks-work-and-the-forest-nearby">Breaks, work and the Forest nearby</h3>
+
+<p>There’s a nice forest-y part nearby and I’ve spent the last two daily walks outside, not using my knee scooter! I’m still a bit slow on the stairs but slowly I’m getting back to my normal walking. ^_^</p>
+
+<p>The past week I was sort of drowning in work (not that anyone put me to it). I just wanted to solve a problem and get a critical amount of work done for me to advance to the next stage of my project. I think I’ve done it. I am tired. I think I will have to rethink the way I’ve done things. But one thing I’ve reconfirmed is that there is great value in focused work where I think about nothing else but the problem at hand. I basically dropped everything else until I finished it. I felt massive relief finishing it, solving problems, and building the code. But sort of felt exhausted in the end. I don’t know if this is a necessary kind of thing in the process specially when you are dealing with the nitty-gritty parts of the tailend of your work.</p>
+
+<p>What I plan to do next is to spend the next few days working on detector software with a great degree of focus. The task is clear but the way to get to the finish line is not. So I’d have to do a lot of “exploring” and “playing around” to have a game plan. This project does not have “schedulable tasks”. Then when I figure it out I’ll code it and test it! Let’s see! For schedulable tasks, I’d need to prepare a presentation, do some simulations and also look at some detector images.</p>
+
+<p>I think part of why I got so tired this week (until Thurs) was I spent every waking hour thinking about nothing but the analyzer code. There were two days that I didn’t even talk to my room mate. I didn’t get to exercise nor walk outside. And I felt robotic. My room mate looked sad too. So I got a little afraid she was thinking that I didn’t want to interact with her. Turns out she had a bad toothache. Ha! I gave her paracetamol. Didn’t work though.</p>
+
+<p>Also probably didn’t help that I ate 5 boxes of Ferrero Rocher this week.. EEEK.</p>
+
+<p><em>This morning, April 26, 2020</em>
+Also realized that if I commit changes to this to the gh-pages repo it will tell me why the website blog won’t build. Just pushing to master doesn’t do but that still updates the site. So I fell asleep without the site updating.</p>
+
+  </div>
+</article>
+
+    </main>
+  </body>
+</html>

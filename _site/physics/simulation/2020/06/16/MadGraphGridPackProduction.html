@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <body>
+    <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+  <!-- <a class="active" href="/about">About</a> -->
+  <a href="/">Home</a>
+  <!-- <a href="/">Blog</a> -->
+  <a class="link" href="/news/index.html" data-scroll>Posts</a>
+  <a href="https://www.uzzielperez.com/">About</a>
+  <!-- <a href="/">Home</a> -->
+  <a aria-label="My Github" target="_blank" href="https://github.com/uzzielperez"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>  <a aria-label="My Twitter" target="_blank" href="https://twitter.com/uzziesh"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+  <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
+</div>
+
+    <main>
+      <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- <article class="post" itemscope itemtype="http://schema.org/BlogPosting"> -->
+<article class="post">
+  <div class="post-content container"  itemprop="articleBody" style="padding-left: 500px; padding-right: 300px;">
+    <h1> MadGraph Production   <a href="https://twitter.com/share" class="twitter-share-button"{count}>Tweet</a></h1>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <p>It took a while before I got to return to doing MadGraph. I dipped my feet into it by writing this <a href="https://uzzielperez.github.io/physics/simulation/2020/04/04/Getting-restarted-with-MadGraph.html">documentation</a> which proved to be extremely helpful for myself after not doing it for a long time. I don’t really super have to do this because I’ve been doing Sherpa but it’s good to validate our samples with another event generator. I’ve also validated my signal sample by comparing the signal distributions at LO and NLO, all of them normalized with the proper cross-sections. I figured it would be good to document this in more detail while the gridpack production is running.</p>
+
+<p>Everything from here on assumes that you are working within the CMSSW framework. I have decided to both submit a request that goes through central production and simultaneously make my own samples going through the full chain that includes detector simulation. Why do I need both? I need the central production for a larger dataset so I have also have enough statistics. My results cannot be published if my samples do not go through this step. Since this will take months, I need to do some quick studies and prototyping with a smaller number of events. So I’m going to have to go through this too.</p>
+
+<h3 id="quick-recipe-for-gridpack-production">Quick Recipe for Gridpack production</h3>
+
+<p>I’m just picking out the basic instructions from this <a href="https://twiki.cern.ch/twiki/bin/viewauth/CMS/QuickGuideMadGraph5aMCatNLO">twiki page</a>.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="n">git</span> <span class="n">clone</span> <span class="n">git</span><span class="nd">@github.com</span><span class="p">:</span><span class="n">cms</span><span class="o">-</span><span class="n">sw</span><span class="o">/</span><span class="n">genproductions</span><span class="o">.</span><span class="n">git</span> <span class="n">genproductions</span>
+<span class="n">cd</span> <span class="n">genproductions</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">MadGraph5_aMCatNLO</span><span class="o">/</span>
+<span class="o">./</span><span class="n">gridpack_generation</span><span class="o">.</span><span class="n">sh</span> <span class="o">&lt;</span><span class="n">name</span> <span class="n">of</span> <span class="n">process</span> <span class="n">card</span> <span class="n">without</span> <span class="n">_proc_card</span><span class="o">.</span><span class="n">dat</span><span class="o">&gt;</span> <span class="o">&lt;</span><span class="n">folder</span> <span class="n">containing</span> <span class="n">cards</span> <span class="n">relative</span> <span class="n">to</span> <span class="n">current</span> <span class="n">location</span><span class="o">&gt;</span>
+
+</code></pre></div></div>
+
+<p>For example</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="o">./</span><span class="n">gridpack_generation</span><span class="o">.</span><span class="n">sh</span> <span class="n">wplustest_4f_NLO</span> <span class="n">cards</span><span class="o">/</span><span class="n">examples</span><span class="o">/</span><span class="n">wplustest_4f_NLO</span>
+
+</code></pre></div></div>
+
+<p>You can do the gridpack generation on condor clusters and via CMS connect. But for our purposes the one above should be sufficient.</p>
+
+<h3 id="lets-produce-events">Let’s Produce Events!</h3>
+
+<p>After generating the gridpack, you now have the ingredients or code that are needed to produce events.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="n">cmsrel</span> <span class="n">CMSSW_X_Y_Z</span> <span class="c"># same as gridpack gen release </span>
+<span class="n">cd</span> <span class="n">CMSSW_X_Y_Z</span><span class="o">/</span><span class="n">src</span>
+<span class="n">cmsenv</span>
+
+</code></pre></div></div>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="n">tar</span> <span class="o">-</span><span class="n">xavf</span> <span class="o">&lt;</span><span class="n">path</span> <span class="n">of</span> <span class="n">gridpack</span> <span class="n">creation</span><span class="o">&gt;/</span><span class="n">wplustest_LO_tarball</span><span class="o">.</span><span class="n">tar</span><span class="o">.</span><span class="n">xz</span>
+<span class="n">bash</span> 
+<span class="o">./</span><span class="n">runcmsgrid</span><span class="o">.</span><span class="n">sh</span> <span class="o">&lt;</span><span class="n">NEvents</span><span class="o">&gt;</span> <span class="o">&lt;</span><span class="n">RandomSeed</span><span class="o">&gt;</span> <span class="o">&lt;</span><span class="n">NumberOfCPUs</span><span class="o">&gt;</span>
+
+</code></pre></div></div>
+
+<p>I will discuss about Pythia8 Hadronization when I’m done with Event generation.</p>
+
+<p><em>PADAYON!</em> :)</p>
+
+
+  </div>
+</article>
+
+    </main>
+  </body>
+</html>
